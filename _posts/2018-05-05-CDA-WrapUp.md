@@ -8,9 +8,9 @@ tags: Azure App Insights,Azure Storage,Big Data,AI/ML,Azure CLI,Azure Data Scien
 
 ## [InfoQ: The Data Science Mindset: Six Principles to Build Healthy Data-Driven Organizations ](https://www.infoq.com/articles/data-science-organization-framework)
 
-## by: Francesca Lazzeri
+**by: Francesca Lazzeri**
 
-### In this article, you'll learn methods to assess whether your organization is data-driven and benchmark your data science maturity. Moreover, through real-word and applied scenarios, you'll see how to use the “Healthy Data Science Organization” framework to nurture a healthy data science mindset within your organization.
+In this article, you'll learn methods to assess whether your organization is data-driven and benchmark your data science maturity. Moreover, through real-word and applied scenarios, you'll see how to use the “Healthy Data Science Organization” framework to nurture a healthy data science mindset within your organization.
 
 The “Healthy Data Science Organization” framework includes six key principles:
 
@@ -26,7 +26,8 @@ You'll leave ready to answer "what does it really mean to be a “data-driven”
 
 Tags: ,
 
-Read More: [https://www.infoq.com/articles/data-science-organization-framework](https://www.infoq.com/articles/data-science-organization-framework)
+[Read More](https://www.infoq.com/articles/data-science-organization-framework)
+
 Related Links:
 * [https://docs.microsoft.com/azure/hdinsight/?WT.mc_id=infoq-article-lazzeri](https://docs.microsoft.com/azure/hdinsight/?WT.mc_id=infoq-article-lazzeri)
 * [https://docs.microsoft.com/azure/container-registry/?WT.mc_id=infoq-article-lazzeri](https://docs.microsoft.com/azure/container-registry/?WT.mc_id=infoq-article-lazzeri)
@@ -43,9 +44,9 @@ Related Links:
 
 ## [Video for AzureML: Time Series Forecasting with Azure Machine Learning](https://www.youtube.com/watch?v=mGr_c2UnOUI)
 
-## by: Francesca Lazzeri
+**by: Francesca Lazzeri**
 
-### This video shows how to build, train and deploy a time series forecasting solution with Azure Machine Learning. You are guided through every step of the modeling process including:
+This video shows how to build, train and deploy a time series forecasting solution with Azure Machine Learning. You are guided through every step of the modeling process including:
 • Set up your development environment
 • Access and examine the data
 • Train using an Automated Machine Learning
@@ -54,32 +55,35 @@ Related Links:
 
 Tags: ,
 
-Read More: [https://www.youtube.com/watch?v=mGr_c2UnOUI](https://www.youtube.com/watch?v=mGr_c2UnOUI)
+[Read More](https://www.youtube.com/watch?v=mGr_c2UnOUI)
+
 Related Links:
 * [N/A](N/A)
 
 
 ## [The Awesome Features that Just Landed with Node.js v12](https://dev.to/bnb/the-awesome-features-that-just-landed-with-node-js-v12-178d)
 
-## by: Tierney Cyren
+**by: Tierney Cyren**
 
-### To celebrate the release of Node.js v12, the next Node.js release line that will become LTS, Tierney condenses various announcement and changelog posts into easily consumable digest of what's new.
+To celebrate the release of Node.js v12, the next Node.js release line that will become LTS, Tierney condenses various announcement and changelog posts into easily consumable digest of what's new.
 
 You'll get the highlights all the new features that Node.js and JavaScript developers are going to care about in Node.js 12 - plus some additional niche features that smaller groups will be excited about.
 
 
-Read More: [https://dev.to/bnb/the-awesome-features-that-just-landed-with-node-js-v12-178d](https://dev.to/bnb/the-awesome-features-that-just-landed-with-node-js-v12-178d)
+[Read More](https://dev.to/bnb/the-awesome-features-that-just-landed-with-node-js-v12-178d)
+
 
 
 ## [AI, Machine Learning and Data Science Roundup: April 2019](https://blog.revolutionanalytics.com/2019/04/airoundup-april-2019.html)
 
-## by: David Smith
+**by: David Smith**
 
-### Monthly roundup of AI, ML and Data Science news with a focus on Microsoft
+Monthly roundup of AI, ML and Data Science news with a focus on Microsoft
 
 Tags: ,
 
-Read More: [https://blog.revolutionanalytics.com/2019/04/airoundup-april-2019.html](https://blog.revolutionanalytics.com/2019/04/airoundup-april-2019.html)
+[Read More](https://blog.revolutionanalytics.com/2019/04/airoundup-april-2019.html)
+
 Related Links:
 * [https://azure.microsoft.com/en-us/blog/announcing-general-availability-of-apache-hadoop-3-0-on-azure-hdinsight/?WT.mc_id=Revolutions-blog-davidsmi](https://azure.microsoft.com/en-us/blog/announcing-general-availability-of-apache-hadoop-3-0-on-azure-hdinsight/?WT.mc_id=Revolutions-blog-davidsmi)
 * [https://powerbi.microsoft.com/blog/creating-machine-learning-models-in-power-bi/?WT.mc_id=Revolutions-blog-davidsmi](https://powerbi.microsoft.com/blog/creating-machine-learning-models-in-power-bi/?WT.mc_id=Revolutions-blog-davidsmi)
@@ -90,9 +94,9 @@ Related Links:
 
 ## [micro:bit friend detector](https://github.com/jimbobbennett/MicroBitFriendDetector)
 
-## by: Jim Bennett
+**by: Jim Bennett**
 
-### In this workshop (delivered for Build Junior Dev Day), Jim walks through how to create a friend detector - a wrist-mounted gadget that lights up with a :) when your friends are nearby.
+In this workshop (delivered for Build Junior Dev Day), Jim walks through how to create a friend detector - a wrist-mounted gadget that lights up with a :) when your friends are nearby.
 
 In a series of detailed steps, you'll learn about BBC micro:bit - a pocket-sized computer that allows you to have loads of fun while learning digital technology and computer science - and start build and coding your project with MakeCode.
 
@@ -100,16 +104,17 @@ Goal: attendees learn the basics and are ready to program their own Micro:Bit pr
 
 Tags: ,
 
-Read More: [https://github.com/jimbobbennett/MicroBitFriendDetector](https://github.com/jimbobbennett/MicroBitFriendDetector)
+[Read More](https://github.com/jimbobbennett/MicroBitFriendDetector)
+
 Related Links:
 * [N/A](N/A)
 
 
 ## [Raspberry Pi Twitch streamer](https://github.com/jimbobbennett/RaspberryPiTwitchStreamer)
 
-## by: Jim Bennett
+**by: Jim Bennett**
 
-### In this workshop - delivered for Build Junior Dev Day - Jim walks through how to create a Raspberry Pi Twitch streaming device.
+In this workshop - delivered for Build Junior Dev Day - Jim walks through how to create a Raspberry Pi Twitch streaming device.
 
 While you *can* stream from your laptop, there's a better solution: the Twitchberry Pi - just plug in the output of your device and start streaming to Twitch with a simple command!
 
@@ -121,22 +126,24 @@ PS4, XBox, and other newer consoles have built-in functionality that makes it fa
 
 Tags: ,
 
-Read More: [https://github.com/jimbobbennett/RaspberryPiTwitchStreamer](https://github.com/jimbobbennett/RaspberryPiTwitchStreamer)
+[Read More](https://github.com/jimbobbennett/RaspberryPiTwitchStreamer)
+
 Related Links:
 * [N/A](N/A)
 
 
 ## [Tweeting New Blog Posts with Logic Apps](https://dev.to/azure/tweeting-new-blog-posts-with-logic-apps-524p)
 
-## by: Aaron Powell
+**by: Aaron Powell**
 
-### Learn how to use automatically tweet and share your new blog posts as soon as you hit publish with Azure Logic apps, plus customize messages, schedule delayed future tweets, and more.
+Learn how to use automatically tweet and share your new blog posts as soon as you hit publish with Azure Logic apps, plus customize messages, schedule delayed future tweets, and more.
 
 Aaron walks through his setup to demonstrates how to use the Logic App designer to create flows that work for *your* publication.
 
 Tags: ,
 
-Read More: [https://dev.to/azure/tweeting-new-blog-posts-with-logic-apps-524p](https://dev.to/azure/tweeting-new-blog-posts-with-logic-apps-524p)
+[Read More](https://dev.to/azure/tweeting-new-blog-posts-with-logic-apps-524p)
+
 Related Links:
 * [https://docs.microsoft.com/en-us/azure/logic-apps/?WT.mc_id=azureapril_devto-blog-cxa](https://docs.microsoft.com/en-us/azure/logic-apps/?WT.mc_id=azureapril_devto-blog-cxa)
 * [https://docs.microsoft.com/en-us/azure/azure-functions/?WT.mc_id=azureapril_devto-blog-cxa](https://docs.microsoft.com/en-us/azure/azure-functions/?WT.mc_id=azureapril_devto-blog-cxa)
@@ -146,9 +153,9 @@ Related Links:
 
 ## [Homoglyph Attack Prevention Service](https://github.com/aribornstein/HomoglyphAttackPreventionService)
 
-## by: Ari  Bornstein
+**by: Ari  Bornstein**
 
-### Homoglyphs - one or more characters with shapes that appear identical or very similar, like glyph S and $ - introduce the risk of homoglyphic obfuscation attacks on NLP models, due to the way they encode text.
+Homoglyphs - one or more characters with shapes that appear identical or very similar, like glyph S and $ - introduce the risk of homoglyphic obfuscation attacks on NLP models, due to the way they encode text.
 
 This repo provides an open source Docker-based container service that takes a given text as input, convert the text to an image, process the image using OCR, and return the correct text with homoglyphs removed.
 
@@ -159,7 +166,8 @@ For more information on Homoglyphic attacks, see https://medium.com/@aribornstei
 
 Tags: ,
 
-Read More: [https://github.com/aribornstein/HomoglyphAttackPreventionService](https://github.com/aribornstein/HomoglyphAttackPreventionService)
+[Read More](https://github.com/aribornstein/HomoglyphAttackPreventionService)
+
 Related Links:
 * [https://azure.microsoft.com/en-us/offers/ms-azr-0044p/?WT.mc_id=github-repo-abornst](https://azure.microsoft.com/en-us/offers/ms-azr-0044p/?WT.mc_id=github-repo-abornst)
 
@@ -168,9 +176,9 @@ Related Links:
 
 https://itnext.io/a-crash-course-to-the-most-important-docker-concepts-and-their-commands-3cc09fd78953)
 
-## by: Chris Noring
+**by: Chris Noring**
 
-### This post aims to give you a high-level view of the most important Docker concepts and what commands are connected to it - perfect for beginners who haven't used Docker before, providing background before diving into Chris' Docker from the Beginning series.
+This post aims to give you a high-level view of the most important Docker concepts and what commands are connected to it - perfect for beginners who haven't used Docker before, providing background before diving into Chris' Docker from the Beginning series.
 
 Chris shares his "how I learned Docker" story, from the time he wasn't using Docker at all to his days relying on copy-pasting commands - and the moment he realized its potential and decided to learn more completely.
 
@@ -178,18 +186,17 @@ In this post, he focuses on teaching you how not learning a technology properly 
 
 Tags: ,
 
-Read More: [https://dev.to/azure/a-crash-course-to-the-most-important-docker-concepts-and-their-commands-4eio
-
-https://itnext.io/a-crash-course-to-the-most-important-docker-concepts-and-their-commands-3cc09fd78953](https://dev.to/azure/a-crash-course-to-the-most-important-docker-concepts-and-their-commands-4eio
+[Read More](https://dev.to/azure/a-crash-course-to-the-most-important-docker-concepts-and-their-commands-4eio
 
 https://itnext.io/a-crash-course-to-the-most-important-docker-concepts-and-their-commands-3cc09fd78953)
 
 
+
 ## [Does Your Organization Have Plans to Upgrade from Windows Server 2008 R2?](https://techcommunity.microsoft.com/t5/ITOps-Talk-Blog/Does-Your-Organization-Have-Plans-to-Upgrade-from-Windows-Server/ba-p/436483)
 
-## by: Orin Thomas
+**by: Orin Thomas**
 
-### Windows Server 2008 and Windows Server 2008 R2 end support on January 14 2020 is quickly approaching -- and they're still very widely deployed across various organizations.
+Windows Server 2008 and Windows Server 2008 R2 end support on January 14 2020 is quickly approaching -- and they're still very widely deployed across various organizations.
 
 In this post, Orin shares how in conversations with IT Pros about why their organization hasn’t moved to a newer version, he's received a variety of responses: everything from a lack of resources to perform the migration and "we have bigger fires to put out" to some simply finding that 2008 and 2008 R2 do their job pretty well.
 
@@ -198,18 +205,20 @@ To help the community prepare, Orin asks readers to share why THEIR organization
 
 Tags: ,
 
-Read More: [https://techcommunity.microsoft.com/t5/ITOps-Talk-Blog/Does-Your-Organization-Have-Plans-to-Upgrade-from-Windows-Server/ba-p/436483](https://techcommunity.microsoft.com/t5/ITOps-Talk-Blog/Does-Your-Organization-Have-Plans-to-Upgrade-from-Windows-Server/ba-p/436483)
+[Read More](https://techcommunity.microsoft.com/t5/ITOps-Talk-Blog/Does-Your-Organization-Have-Plans-to-Upgrade-from-Windows-Server/ba-p/436483)
+
 
 
 ## [Getting Code Coverage Info for a .NET Core App in Azure Pipelines](https://abelsquidhead.com/index.php/2019/04/13/getting-code-coverage-info-for-a-net-core-app-in-azure-pipelines/)
 
-## by: Abel Wang
+**by: Abel Wang**
 
-### In this post, Abel shows readers how to set up Azure Pipelines to get code analysis and coverage information in the build report for .NET Core apps.
+In this post, Abel shows readers how to set up Azure Pipelines to get code analysis and coverage information in the build report for .NET Core apps.
 
 Tags: ,
 
-Read More: [https://abelsquidhead.com/index.php/2019/04/13/getting-code-coverage-info-for-a-net-core-app-in-azure-pipelines/](https://abelsquidhead.com/index.php/2019/04/13/getting-code-coverage-info-for-a-net-core-app-in-azure-pipelines/)
+[Read More](https://abelsquidhead.com/index.php/2019/04/13/getting-code-coverage-info-for-a-net-core-app-in-azure-pipelines/)
+
 Related Links:
 * [https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema?view=azure-devops&tabs=schema&WT.mc_id=codecoverage-blog-abewan
 
@@ -220,22 +229,23 @@ https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-mstest)
 
 ## [Build a Home Automation Auto-Away Assist for Nest Thermostat with Azure Functions, Particle.io, and Azure IoT Hub](https://dev.to/azure/auto-away-assist-for-nest-thermostat-1b2m)
 
-## by: Paul DeCarlo
+**by: Paul DeCarlo**
 
-### In this post, Paul walks through creating a DIY Auto-Away Assist Device for Nest Thermostats using hardware from Particle.io and free services from Microsoft Azure. The post demonstrates how readers can use free services on Azure to create DIY home IoT solutions.
+In this post, Paul walks through creating a DIY Auto-Away Assist Device for Nest Thermostats using hardware from Particle.io and free services from Microsoft Azure. The post demonstrates how readers can use free services on Azure to create DIY home IoT solutions.
 
 Tags: ,
 
-Read More: [https://dev.to/azure/auto-away-assist-for-nest-thermostat-1b2m](https://dev.to/azure/auto-away-assist-for-nest-thermostat-1b2m)
+[Read More](https://dev.to/azure/auto-away-assist-for-nest-thermostat-1b2m)
+
 Related Links:
 * [https://azure.microsoft.com/en-us/free/?&WT.mc_id=azureapril_devto-blog-cxa](https://azure.microsoft.com/en-us/free/?&WT.mc_id=azureapril_devto-blog-cxa)
 
 
 ## [Event-Driven Serverless Containers with PowerShell Azure Functions and Azure Container Instances](https://dev.to/azure/event-driven-serverless-containers-with-powershell-azure-functions-and-azure-container-instances-e9b)
 
-## by: Anthony Chu
+**by: Anthony Chu**
 
-### In this article, Anthony Chu builds on the Azure Functions team's announcement about Functions V2 runtime's support for PowerShell (Public Preview)
+In this article, Anthony Chu builds on the Azure Functions team's announcement about Functions V2 runtime's support for PowerShell (Public Preview)
 
 In Azure Functions V2, PowerShell isn't just another language for writing serverless apps; it opens the door for many event-driven automation scenarios that weren't easily achieved with Azure Functions before.
 
@@ -243,7 +253,8 @@ In this article, we'll look at how we can trigger and monitor batch jobs using P
 
 Tags: ,
 
-Read More: [https://dev.to/azure/event-driven-serverless-containers-with-powershell-azure-functions-and-azure-container-instances-e9b](https://dev.to/azure/event-driven-serverless-containers-with-powershell-azure-functions-and-azure-container-instances-e9b)
+[Read More](https://dev.to/azure/event-driven-serverless-containers-with-powershell-azure-functions-and-azure-container-instances-e9b)
+
 Related Links:
 * [https://docs.microsoft.com/en-us/azure/container-instances/?WT.mc_id=devto-blog-antchu
 
@@ -270,9 +281,9 @@ https://code.visualstudio.com/?WT.mc_id=devto-blog-antchu)
 
 ## [AzureCasts #001: A Simple Docker Deployment](https://azurecasts.com/2019/03/29/001-simple-docker-deployment/)
 
-## by: Rob Conery
+**by: Rob Conery**
 
-### In this video, we kick the tires and we get to know Azure by deploying a very simple web site: the sample app from the NodeJS website.
+In this video, we kick the tires and we get to know Azure by deploying a very simple web site: the sample app from the NodeJS website.
 
 I don’t want to deal with dependencies, build processes, or unit tests just yet, instead, I'll focus on the least possible thing >> easily isolate any problems I encounter.
 
@@ -280,7 +291,8 @@ So, to start, I do the simplest thing I can think of: deploying the sample code 
 
 Tags: ,
 
-Read More: [https://azurecasts.com/2019/03/29/001-simple-docker-deployment/](https://azurecasts.com/2019/03/29/001-simple-docker-deployment/)
+[Read More](https://azurecasts.com/2019/03/29/001-simple-docker-deployment/)
+
 Related Links:
 * [https://docs.microsoft.com/cli/azure/install-azure-cli?view=azure-cli-latest&WT.mc_id=docs-azurecasts-robcon ](https://docs.microsoft.com/cli/azure/install-azure-cli?view=azure-cli-latest&WT.mc_id=docs-azurecasts-robcon )
 * [https://docs.microsoft.com/cli/azure/webapp?view=azure-cli-latest&WT.mc_id=docs-azurecasts-robcon](https://docs.microsoft.com/cli/azure/webapp?view=azure-cli-latest&WT.mc_id=docs-azurecasts-robcon)
@@ -291,13 +303,14 @@ Related Links:
 
 ## [AzureCasts #003: Basic Logging and Continuous Deployment](https://azurecasts.com/2019/04/02/003-simple-logging-continuous-deploy/)
 
-## by: Rob Conery
+**by: Rob Conery**
 
-### In this video, we'll expand the super simple NodeJS website from episode #001, upgrading to use the ExpressJS framework. We'll also set up basic logging in Azure, so we can see what happens as our applications runs and verify that everything is working.
+In this video, we'll expand the super simple NodeJS website from episode #001, upgrading to use the ExpressJS framework. We'll also set up basic logging in Azure, so we can see what happens as our applications runs and verify that everything is working.
 
 Tags: ,
 
-Read More: [https://azurecasts.com/2019/04/02/003-simple-logging-continuous-deploy/](https://azurecasts.com/2019/04/02/003-simple-logging-continuous-deploy/)
+[Read More](https://azurecasts.com/2019/04/02/003-simple-logging-continuous-deploy/)
+
 Related Links:
 * [https://docs.microsoft.com/azure/app-service/troubleshoot-diagnostic-logs?WT.mc_id=docs-azurecasts-robcon](https://docs.microsoft.com/azure/app-service/troubleshoot-diagnostic-logs?WT.mc_id=docs-azurecasts-robcon)
 * [https://docs.microsoft.com/azure/app-service/containers/app-service-linux-ci-cd?WT.mc_id=docs-azurecasts-robcon](https://docs.microsoft.com/azure/app-service/containers/app-service-linux-ci-cd?WT.mc_id=docs-azurecasts-robcon)
@@ -306,16 +319,17 @@ Related Links:
 
 ## [AzureCasts #005: Using Make to Orchestrate Shell Scripts](https://azurecasts.com/2019/04/11/005-using-make-to-orchestrate-shell-scripts/)
 
-## by: Rob Conery
+**by: Rob Conery**
 
-### In this video, I’ll take control of the shell commands that I’ve been using in episodes #001 and #003, first adding them to a script file and then orchestrating things a bit more carefully with Make.
+In this video, I’ll take control of the shell commands that I’ve been using in episodes #001 and #003, first adding them to a script file and then orchestrating things a bit more carefully with Make.
 
 
 You don’t have to understand Make to benefit from this video and yes, I might be abusing it just a little bit… but it’s for a good cause!
 
 Tags: ,
 
-Read More: [https://azurecasts.com/2019/04/11/005-using-make-to-orchestrate-shell-scripts/](https://azurecasts.com/2019/04/11/005-using-make-to-orchestrate-shell-scripts/)
+[Read More](https://azurecasts.com/2019/04/11/005-using-make-to-orchestrate-shell-scripts/)
+
 Related Links:
 * [https://docs.microsoft.com/en-us/cli/azure/webapp/config/container?view=azure-cli-latest&WT.mc_id=docs-azurecasts-robcon](https://docs.microsoft.com/en-us/cli/azure/webapp/config/container?view=azure-cli-latest&WT.mc_id=docs-azurecasts-robcon)
 * [https://docs.microsoft.com/cli/azure/install-azure-cli?view=azure-cli-latest&WT.mc_id=docs-azurecasts-robcon ](https://docs.microsoft.com/cli/azure/install-azure-cli?view=azure-cli-latest&WT.mc_id=docs-azurecasts-robcon )
@@ -323,15 +337,16 @@ Related Links:
 
 ## [Run your VMware Natively on Azure with Azure VMware Solutions](https://www.thomasmaurer.ch/2019/04/run-your-vmware-natively-on-azure-with-azure-vmware-solutions/)
 
-## by: Thomas Maurer
+**by: Thomas Maurer**
 
-### Microsoft recently announced Azure VMware Solutions, which allow you to run VMware natively on Azure, consume VMware platforms efficiently and securely, and extend on-premises VMware environment to the cloud.
+Microsoft recently announced Azure VMware Solutions, which allow you to run VMware natively on Azure, consume VMware platforms efficiently and securely, and extend on-premises VMware environment to the cloud.
 
 In this article, Thomas explains Microsoft Azure offering in more details, including key features and scenarios, like integrating with your VMware management environment, using the same and existing management tools as you modernize your workloads.
 
 Tags: ,
 
-Read More: [https://www.thomasmaurer.ch/2019/04/run-your-vmware-natively-on-azure-with-azure-vmware-solutions/](https://www.thomasmaurer.ch/2019/04/run-your-vmware-natively-on-azure-with-azure-vmware-solutions/)
+[Read More](https://www.thomasmaurer.ch/2019/04/run-your-vmware-natively-on-azure-with-azure-vmware-solutions/)
+
 Related Links:
 * [https://blogs.microsoft.com/blog/2019/04/29/dell-technologies-and-microsoft-expand-partnership-with-new-vmware-solutions/?WT.mc_id=thomasmaurer-blog-thmaure
 https://docs.microsoft.com/en-us/azure/vmware-cloudsimple/cloudsimple-vmware-solutions-overview?WT.mc_id=thomasmaurer-blog-thmaure
@@ -342,48 +357,51 @@ https://docs.microsoft.com/en-us/azure/vmware-cloudsimple/cloudsimple-vmware-sol
 
 ## [Mastering Azure with Cloud Shell, PowerShell and Bash!](https://www.youtube.com/watch?v=EVh0MDpgyhM)
 
-## by: Thomas Maurer
+**by: Thomas Maurer**
 
-### Azure can be managed in many different ways.
+Azure can be managed in many different ways.
 
 In this video, you learn your command line options - like Azure PowerShell, Azure CLI and Cloud Shell - to be more efficient in managing your Azure infrastructure and become a hero on the Shell to manage the cloud!
 
 Tags: ,
 
-Read More: [https://www.youtube.com/watch?v=EVh0MDpgyhM](https://www.youtube.com/watch?v=EVh0MDpgyhM)
+[Read More](https://www.youtube.com/watch?v=EVh0MDpgyhM)
+
 Related Links:
 * [https://azure.microsoft.com/en-us/](https://azure.microsoft.com/en-us/)
 
 
 ## [Testing Infrastructure at ✨ Corp, a DevOps Story ](https://dev.to/sigje/testing-infrastructure-at-corp-a-devops-story-47a9)
 
-## by: Jennifer Davis
+**by: Jennifer Davis**
 
-### In this Azure April series blog post, Jennifer Davis creates a use case for testing infrastructure through the use of a fictious company. This blog details how learning & testing through collaboration supports an integration scenario. As well as gives an example of pairing over reviewing an infrastructure as code test and links a number of different technologies together.
+In this Azure April series blog post, Jennifer Davis creates a use case for testing infrastructure through the use of a fictious company. This blog details how learning & testing through collaboration supports an integration scenario. As well as gives an example of pairing over reviewing an infrastructure as code test and links a number of different technologies together.
 
 Tags: ,
 
-Read More: [https://dev.to/sigje/testing-infrastructure-at-corp-a-devops-story-47a9](https://dev.to/sigje/testing-infrastructure-at-corp-a-devops-story-47a9)
+[Read More](https://dev.to/sigje/testing-infrastructure-at-corp-a-devops-story-47a9)
+
 Related Links:
 * [https://docs.microsoft.com/en-us/azure/devops/learn/what-is-infrastructure-as-code?WT.mc_id=devto-blog-jedavis](https://docs.microsoft.com/en-us/azure/devops/learn/what-is-infrastructure-as-code?WT.mc_id=devto-blog-jedavis)
 
 
 ## [🥓 or not to 🥓. That is the question](https://microsoft-my.sharepoint.com/:p:/p/marouill/ERffi4A6AOFCpf-AMLfB_WUBOGl5JZzMSLSbq2QFCskHag?e=Smhase)
 
-## by: Maxime Rouiller
+**by: Maxime Rouiller**
 
-### In this 5 minute lightning talk at the ML4ALL conference, Maxime discusses how to use Azure Cognitive Services and Computer Vision Services on Azure (talk based on Anthony Chu's 'Bacon or not to bacon' sample)
+In this 5 minute lightning talk at the ML4ALL conference, Maxime discusses how to use Azure Cognitive Services and Computer Vision Services on Azure (talk based on Anthony Chu's 'Bacon or not to bacon' sample)
 
 Tags: ,
 
-Read More: [https://microsoft-my.sharepoint.com/:p:/p/marouill/ERffi4A6AOFCpf-AMLfB_WUBOGl5JZzMSLSbq2QFCskHag?e=Smhase](https://microsoft-my.sharepoint.com/:p:/p/marouill/ERffi4A6AOFCpf-AMLfB_WUBOGl5JZzMSLSbq2QFCskHag?e=Smhase)
+[Read More](https://microsoft-my.sharepoint.com/:p:/p/marouill/ERffi4A6AOFCpf-AMLfB_WUBOGl5JZzMSLSbq2QFCskHag?e=Smhase)
+
 
 
 ## [Wrapping up the Month of Azure April](https://dev.to/azure/wrapping-up-the-month-of-azure-april-25o8)
 
-## by: Jennifer Davis
+**by: Jennifer Davis**
 
-### Thank you for joining us on this adventure of Azure April! It's been a blast sharing such a wide range of topics from Tweeting new blog posts with Logic Apps to Preventing Leaked Secrets.
+Thank you for joining us on this adventure of Azure April! It's been a blast sharing such a wide range of topics from Tweeting new blog posts with Logic Apps to Preventing Leaked Secrets.
 
 If you missed any posts, find the whole month in reverse chronological order here.
 
@@ -391,5 +409,6 @@ Collaborating with so many folks on this project has been fun and challenging. T
 
 Tags: ,
 
-Read More: [https://dev.to/azure/wrapping-up-the-month-of-azure-april-25o8](https://dev.to/azure/wrapping-up-the-month-of-azure-april-25o8)
+[Read More](https://dev.to/azure/wrapping-up-the-month-of-azure-april-25o8)
+
 
