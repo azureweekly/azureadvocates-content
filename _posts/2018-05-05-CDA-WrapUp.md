@@ -51,7 +51,7 @@ This video shows how to build, train and deploy a time series forecasting soluti
 
 Tags: Azure Machine Learning
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=mGr_c2UnOUI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtubePlayer.html id=mGr_c2UnOUI %}
 
 Related Links:
 
