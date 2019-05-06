@@ -314,7 +314,7 @@ In this video, you learn your command line options - like Azure PowerShell, Azur
 
 Tags: Azure CLI, PowerShell, Azure Cloud Shell, Bash
 
-{% include youtubePlayer.html id=page.EVh0MDpgyhM %}
+{% include youtubePlayer.html id=EVh0MDpgyhM %}
 
 Related Links:
 * [Microsoft Azure Cloud Computing Platform &amp; Services](https://azure.microsoft.com/en-us/)
