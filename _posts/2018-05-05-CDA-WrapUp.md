@@ -51,7 +51,7 @@ This video shows how to build, train and deploy a time series forecasting soluti
 
 Tags: Azure Machine Learning
 
-{% include youtubePlayer.html id=mGr_c2UnOUI %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mGr_c2UnOUI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Related Links:
 
@@ -314,7 +314,7 @@ In this video, you learn your command line options - like Azure PowerShell, Azur
 
 Tags: Azure CLI, PowerShell, Azure Cloud Shell, Bash
 
-{% include youtubePlayer.html id=EVh0MDpgyhM %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EVh0MDpgyhM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Related Links:
 * [Microsoft Azure Cloud Computing Platform &amp; Services](https://azure.microsoft.com/en-us/)

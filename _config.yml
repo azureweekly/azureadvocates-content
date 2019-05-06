@@ -14,7 +14,7 @@ baseurl: "/azureadvocates-content"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Azure Advocates Weekly Content Wrap Up
+title: Azure Advocates Content Wrap Up
 
 # Short description of your site
 description: Put something awesome here in the future!
@@ -25,8 +25,8 @@ description: Put something awesome here in the future!
 navbar-links:
   About Us: "https://developer.microsoft.com/advocates/index.html?WT.mc_id=none-blog-shboyer"
   Resources:
-    - Free Azure Account: ""
-    - Microsoft Learn: ""
+    - Free Azure Account: "https://azure.microsoft.com/free/?WT.mc_id=wrapup-blog-shboyer"
+    - Microsoft Learn: "https://docs.microsoft.com/learn/?WT.mc_id=wrapup-blog-shboyer"
     - Azure Docs: "https://docs.microsoft.com?WT.mc_id=none-blog-shboyer"
   Follow Us: "http://twitter.com/azureadvocates"
 
@@ -72,7 +72,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
+  email: "shboyer@microsoft.com"
 #  facebook: daattali
 #  github: daattali
   twitter: azureadvocates
@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "spboyer.github.io/azureadvocates-content"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
