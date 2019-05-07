@@ -1,14 +1,14 @@
 ---
 layout: post
-title: CDA Weekly Content Wrapup (05/09/2019)
-subtitle: 
+title: CDA Weekly Content Wrapup (05/06/2019)
+subtitle:
 tags: [Azure App Insights, Azure Storage, Big Data, AI/ML, Azure CLI, Azure Data Science VM, Windows Virtual Machines, Azure CosmosDB, Azure Container Registry, Azure Machine Learning Service, Azure Kubernetes Service, Azure Blob Storage, Azure Key Vault, Azure Machine Learning, Azure Cognitive Services, Azure Data Box, Azure Cognitive Services Custom Vision, IoT, Open Source, Azure Pipelines, Azure Logic Apps, Azure Functions, Security, Docker, Azure Cognitive Services Computer Vision API, DevOps, Linux, Windows Server, .NET, .NET Core, C#, Visual Studio, Azure IoT Hub, Azure Container Instances, PowerShell, Containers, Azure AD, Serverless, VS Code, JavaScript, Node.js, Azure App Service, CI/CD, Monitoring, Azure Stack HCI, VMWare, Azure VMware Solutions, Azure Cloud Shell, Bash, SecOps, Azure]
 ---
 ## [InfoQ: The Data Science Mindset: Six Principles to Build Healthy Data-Driven Organizations](https://www.infoq.com/articles/data-science-organization-framework)
 
 **by: Francesca Lazzeri**
 
-In this article, you'll learn methods to assess whether your organization is data-driven and benchmark your data science maturity. Moreover, through real-word and applied scenarios, you'll see how to use the “Healthy Data Science Organization” framework to nurture a healthy data science mindset within your organization. 
+In this article, you'll learn methods to assess whether your organization is data-driven and benchmark your data science maturity. Moreover, through real-word and applied scenarios, you'll see how to use the “Healthy Data Science Organization” framework to nurture a healthy data science mindset within your organization.
 
 The “Healthy Data Science Organization” framework includes six key principles:
 
@@ -89,7 +89,7 @@ Related Links:
 
 In this workshop (delivered for Build Junior Dev Day), Jim walks through how to create a friend detector - a wrist-mounted gadget that lights up with a :) when your friends are nearby.
 
-In a series of detailed steps, you'll learn about BBC micro:bit - a pocket-sized computer that allows you to have loads of fun while learning digital technology and computer science - and start build and coding your project with MakeCode. 
+In a series of detailed steps, you'll learn about BBC micro:bit - a pocket-sized computer that allows you to have loads of fun while learning digital technology and computer science - and start build and coding your project with MakeCode.
 
 Goal: attendees learn the basics and are ready to program their own Micro:Bit projects - using block-based coding to build anything, from simple programs to light up LEDs, to robots, musical instruments and more.
 
@@ -103,7 +103,7 @@ Related Links:
 
 **by: Jim Bennett**
 
-In this workshop - delivered for Build Junior Dev Day - Jim walks through how to create a Raspberry Pi Twitch streaming device. 
+In this workshop - delivered for Build Junior Dev Day - Jim walks through how to create a Raspberry Pi Twitch streaming device.
 
 While you *can* stream from your laptop, there's a better solution: the Twitchberry Pi - just plug in the output of your device and start streaming to Twitch with a simple command!
 
@@ -123,7 +123,7 @@ Related Links:
 
 **by: Aaron Powell**
 
-Learn how to use automatically tweet and share your new blog posts as soon as you hit publish with Azure Logic apps, plus customize messages, schedule delayed future tweets, and more. 
+Learn how to use automatically tweet and share your new blog posts as soon as you hit publish with Azure Logic apps, plus customize messages, schedule delayed future tweets, and more.
 
 Aaron walks through his setup to demonstrates how to use the Logic App designer to create flows that work for *your* publication.
 
@@ -160,9 +160,9 @@ Related Links:
 
 **by: Chris Noring**
 
-This post aims to give you a high-level view of the most important Docker concepts and what commands are connected to it - perfect for beginners who haven't used Docker before, providing background before diving into Chris' Docker from the Beginning series. 
+This post aims to give you a high-level view of the most important Docker concepts and what commands are connected to it - perfect for beginners who haven't used Docker before, providing background before diving into Chris' Docker from the Beginning series.
 
-Chris shares his "how I learned Docker" story, from the time he wasn't using Docker at all to his days relying on copy-pasting commands - and the moment he realized its potential and decided to learn more completely.  
+Chris shares his "how I learned Docker" story, from the time he wasn't using Docker at all to his days relying on copy-pasting commands - and the moment he realized its potential and decided to learn more completely.
 
 In this post, he focuses on teaching you how not learning a technology properly can hold you back from adding valuable tools to your toolset.
 
@@ -175,7 +175,7 @@ Tags: DevOps, Linux, Docker
 
 **by: Orin Thomas**
 
-Windows Server 2008 and Windows Server 2008 R2 end support on January 14 2020 is quickly approaching -- and they're still very widely deployed across various organizations. 
+Windows Server 2008 and Windows Server 2008 R2 end support on January 14 2020 is quickly approaching -- and they're still very widely deployed across various organizations.
 
 In this post, Orin shares how in conversations with IT Pros about why their organization hasn’t moved to a newer version, he's received a variety of responses: everything from a lack of resources to perform the migration and "we have bigger fires to put out" to some simply finding that 2008 and 2008 R2 do their job pretty well.
 
@@ -217,7 +217,7 @@ Related Links:
 
 **by: Anthony Chu**
 
-In this article, Anthony Chu builds on the Azure Functions team's announcement about Functions V2 runtime's support for PowerShell (Public Preview) 
+In this article, Anthony Chu builds on the Azure Functions team's announcement about Functions V2 runtime's support for PowerShell (Public Preview)
 
 In Azure Functions V2, PowerShell isn't just another language for writing serverless apps; it opens the door for many event-driven automation scenarios that weren't easily achieved with Azure Functions before.
 
@@ -275,7 +275,7 @@ Related Links:
 
 **by: Rob Conery**
 
-In this video, I’ll take control of the shell commands that I’ve been using in episodes #001 and #003, first adding them to a script file and then orchestrating things a bit more carefully with Make. 
+In this video, I’ll take control of the shell commands that I’ve been using in episodes #001 and #003, first adding them to a script file and then orchestrating things a bit more carefully with Make.
 
 
 You don’t have to understand Make to benefit from this video and yes, I might be abusing it just a little bit… but it’s for a good cause!
@@ -308,7 +308,7 @@ Related Links:
 
 **by: Thomas Maurer**
 
-Azure can be managed in many different ways. 
+Azure can be managed in many different ways.
 
 In this video, you learn your command line options - like Azure PowerShell, Azure CLI and Cloud Shell - to be more efficient in managing your Azure infrastructure and become a hero on the Shell to manage the cloud!
 
@@ -323,7 +323,7 @@ Related Links:
 
 **by: Jennifer Davis**
 
-In this blog post, you'll follow along as a fictitious SRE team creates a testing infrastructure use case, including how to introduce to the wider team for feedback. 
+In this blog post, you'll follow along as a fictitious SRE team creates a testing infrastructure use case, including how to introduce to the wider team for feedback.
 
 Jennifer details how learning and testing through collaboration can work at any organization, weaving in tools and services that make pair-programming and code reviews possible for distributed teams.
 
