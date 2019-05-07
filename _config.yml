@@ -23,11 +23,11 @@ description: Put something awesome here in the future!
 
 # List of links in the navigation bar
 navbar-links:
-  About Us: "https://developer.microsoft.com/advocates/index.html?WT.mc_id=none-blog-shboyer"
+  About Us: "https://developer.microsoft.com/advocates/index.html?WT.mc_id=wrapup-blog-shboyer"
   Resources:
     - Free Azure Account: "https://azure.microsoft.com/free/?WT.mc_id=wrapup-blog-shboyer"
     - Microsoft Learn: "https://docs.microsoft.com/learn/?WT.mc_id=wrapup-blog-shboyer"
-    - Azure Docs: "https://docs.microsoft.com?WT.mc_id=none-blog-shboyer"
+    - Azure Docs: "https://docs.microsoft.com?WT.mc_id=wrapup-blog-shboyer"
   Follow Us: "http://twitter.com/azureadvocates"
 
 # Image to show in the navigation bar - image must be a square (width = height)
