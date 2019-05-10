@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CDA Weekly Content Wrapup (05/09/2019)
-subtitle: 
+subtitle:
 tags: [DevSecOps, Azure DevOps Services, DevOps, Azure Security Center, Security, Women in Tech, AppSec, Azure Cloud Shell, .NET, .NET Core, C#, AI/ML, Azure CLI, AzureGraph, Azure Data Science Virtual Machines, Microsoft Graph API, Azure Active Directory, R, JavaScript, Node.js, Docker, VS Code, VS Code Marketplace, Java, F#, Serverless, Azure Functions, Azure Storage Explorer, Azure App Service, Azure Table Storage, Vue, Containers, Azure Container Registry, Azure Cognitive Services Text API, Azure Cognitive Services, Azure Cognitive Services Computer Vision API, Azure IoT Edge, Linux, Mixed Reality, Azure Storage, CI/CD, Azure Pipelines, Web Assembly WASM, PowerShell, Windows, Open Source, Deep Learning]
 ---
 ## [Building Rootless Applications and Services](https://dev.to/azure/building-rootless-applications-and-services-12if)
@@ -121,11 +121,11 @@ Tags: JavaScript, Node.js
 
 Development environments are not always easy to set up or keep tidy -- and for Java developers, it requires, at the very minimum, installing JDK, an editor, and a build tool like Maven or Gradle.
 
-But, what if you could go from zero to hero without having to install JDK, Maven, Gradle etc? 
+But, what if you could go from zero to hero without having to install JDK, Maven, Gradle etc?
 
-You can. 
+You can.
 
-In this post, you'll see how to go from zero to here with pre-baked Java dev environments inside containers. 
+In this post, you'll see how to go from zero to here with pre-baked Java dev environments inside containers.
 
 With the combo of Visual Studio Code (insiders, for now), the Remote Development extension pack, and Docker Desktop, you'll get up and running on your computer, without having to install anything else.
 
@@ -135,15 +135,13 @@ Tags: Docker, VS Code, VS Code Marketplace, Java
 
 Related Links:
 * [Visual Studio Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview?wt.mc_id=vscode-medium-brborges)
-* [
-        Remote Development - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack&wt.mc_id=vscode-medium-brborges )
+* [Remote Development - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack&wt.mc_id=vscode-medium-brborges )
 
 ## [Durable Functions Workflow sample](https://github.com/aaronpowell/durable-functions-workflow-demo)
 
 **by: Aaron Powell**
 
-See how to use Durable Functions and VS Code to get up and running with event-based workflows. 
+See how to use Durable Functions and VS Code to get up and running with event-based workflows.
 
 Durable Functions workflow demo >> available in C#, F# and JavaScript and creates 4 Azure Functions.
 
@@ -154,16 +152,14 @@ Tags: JavaScript, Node.js, F#, .NET, .NET Core, C#, Serverless, Azure Functions,
 Related Links:
 * [Durable Functions Overview - Azure : Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview?WT.mc_id=durablefunctionsworkflowdemo-github-aapowell)
 * [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/?WT.mc_id=durablefunctionsworkflowdemo-github-aapowell)
-* [
-        Azure Functions - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=durablefunctionsworkflowdemo-github-aapowell)
+* [Azure Functions - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=durablefunctionsworkflowdemo-github-aapowell)
 * [Create your Azure free account today : Microsoft Azure](https://azure.microsoft.com/en-us/free/?wt.mc_id=durablefunctionsworkflowdemo-github-aapowell )
 
 ## [Giving TodoMVC the API It Deserves: Part 1 - Todo Creation](https://dev.to/azure/giving-todo-mvc-the-api-it-deserves-part-1-todo-creation-19h4)
 
 **by: Ryan Levick**
 
-Todo MVC is a great "hello world" app way to compare different JavaScript frameworks and see how to build an app that's slightly more complex than what can easily fit in a README. 
+Todo MVC is a great "hello world" app way to compare different JavaScript frameworks and see how to build an app that's slightly more complex than what can easily fit in a README.
 
 In this series, we'll start where Todo MVC left off, and build a backend for the app that syncs your todos across devices - starting with creating a function and hooking it up with a newly created Table Storage account (living in Azure).
 
@@ -226,7 +222,8 @@ Tags: Azure Cognitive Services (Text API), Azure Cognitive Services, Azure Cogni
 [Read More](https://dev.to/azure/using-cognitive-services-containers-with-azure-iot-edge-1e5a)
 
 Related Links:
-* [What is Azure IoT Edge : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-edge/about-iot-edge?WT.mc_id=devto-blog-pdecarlo  https://docs.microsoft.com/en-us/azure/iot-edge/offline-capabilities?WT.mc_id=devto-blog-pdecarlo )
+* [What is Azure IoT Edge : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-edge/about-iot-edge?WT.mc_id=devto-blog-pdecarlo)
+* [Understand extended offline capabilities for IoT Edge devices, modules, and child devices](https://docs.microsoft.com/en-us/azure/iot-edge/offline-capabilities?WT.mc_id=devto-blog-pdecarlo)
 * [Automatic deployment for device groups - Azure IoT Edge : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-edge/module-deployment-monitoring?WT.mc_id=devto-blog-pdecarlo )
 * [Learn how the security manager protects devices, software - Azure IoT Edge : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-security-manager?WT.mc_id=devto-blog-pdecarlo )
 * [Install Azure IoT Edge on Linux : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-edge/how-to-install-iot-edge-linux?WT.mc_id=devto-blog-pdecarlo )
@@ -235,9 +232,7 @@ Related Links:
 * [Azure Cognitive Services Documentation : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/?WT.mc_id=devto-blog-pdecarlo )
 * [Container support - Azure Cognitive Services : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-container-support?WT.mc_id=devto-blog-pdecarlo )
 * [Download Visual Studio Code - Mac, Linux, Windows](https://code.visualstudio.com/Download?WT.mc_id=devto-blog-pdecarl )
-* [
-        Azure IoT Edge - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-edge&WT.mc_id=devto-blog-pdecarlo )
+* [Azure IoT Edge - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-edge&WT.mc_id=devto-blog-pdecarlo )
 * [How to install and run containers - Computer Vision : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/computer-vision-how-to-install-containers#run-the-container-with-docker-run?WT.mc_id=devto-blog-pdecarlo )
 * [Deploy modules from Visual Studio Code - Azure IoT Edge : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-edge/how-to-deploy-modules-vscode?WT.mc_id=devto-blog-pdecarlo )
 
@@ -256,7 +251,7 @@ Related Links:
 * [Create a Cognitive Services account in the Azure portal : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-apis-create-account?wt.mc_id=RetroArchAIwithIoTEdge-github-pdecarlo)
 * [How to install and run containers - Computer Vision : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/computer-vision-how-to-install-containers#request-access-to-the-private-container-registry?wt.mc_id=RetroArchAIwithIoTEdge-github-pdecarlo)
 * [How to install and run containers - Computer Vision : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/computer-vision-how-to-install-containers#request-access-to-the-private-container-registry?wt.mc_id=RetroArchAIwithIoTEdge-github-pdecarlo)
-* [We&#39;re sorry, the page you requested cannot be found.](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-edge?wt.mc_id=RetroArchAIwithIoTEdge-github-pdecarlo https://docs.microsoft.com/en-us/azure/iot-edge/how-to-register-device-portal?wt.mc_id=RetroArchAIwithIoTEdge-github-pdecarlo)
+* [Register a new Azure IoT Edge device from the Azure portal](https://docs.microsoft.com/en-us/azure/iot-edge/how-to-register-device-portal?wt.mc_id=RetroArchAIwithIoTEdge-github-pdecarlo)
 * [How to install and run containers - Computer Vision : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/computer-vision-how-to-install-containers#request-access-to-the-private-container-registry?wt.mc_id=RetroArchAIwithIoTEdge-github-pdecarlo)
 
 ## [Microsoft Mixed Reality and Accessibility](https://docs.google.com/presentation/d/1NIvyVvAKnUGA8ghh3bu07lcxXvZHB_0NJEVWqsFRoXU/edit?usp=sharing)
@@ -347,15 +342,9 @@ Tags: VS Code
 [Read More](https://www.brianketelsen.com/vscode-remote-development/)
 
 Related Links:
-* [
-        Remote - WSL - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
-* [
-        Remote - Containers - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
-* [
-        Remote - SSH - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh )
+* [Remote - WSL - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
+* [Remote - Containers - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+* [Remote - SSH - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh )
 
 ## [A Machine Learning Primer - Seth Juarez - Lightning Talk - ML4ALL 2019](https://www.youtube.com/watch?v=awGJkRe9m50&list=PLOnHsSCrR68xBQITh2Sf9YjD_z26p0Kt0&index=24&t=0s)
 
@@ -399,4 +388,3 @@ Tags: Windows
 
 Related Links:
 * [Windows Sandbox - Config Files - Microsoft Tech Community - 354902](https://techcommunity.microsoft.com/t5/Windows-Kernel-Internals/Windows-Sandbox-Config-Files/ba-p/354902?WT.mc_id=thomasmaurer-blog-thmaure)
-
