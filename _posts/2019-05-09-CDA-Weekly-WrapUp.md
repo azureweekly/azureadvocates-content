@@ -1,8 +1,8 @@
 ---
 layout: post
 title: CDA Weekly Content Wrapup (05/09/2019)
-subtitle:
-tags: [DevSecOps, Azure DevOps Services, DevOps, Azure Security Center, Security, Women in Tech, AppSec, Azure Cloud Shell, .NET, .NET Core, C#, AI/ML, Azure CLI, AzureGraph, Azure Data Science Virtual Machines, Microsoft Graph API, Azure Active Directory, R, JavaScript, Node.js, Docker, VS Code, VS Code Marketplace, Java, F#, Serverless, Azure Functions, Azure Storage Explorer, Azure App Service, Azure Table Storage, Vue, Containers, Azure Container Registry, Azure Cognitive Services Text API, Azure Cognitive Services, Azure Cognitive Services Computer Vision API, Azure IoT Edge, Linux, Mixed Reality, Azure Storage, CI/CD, Azure Pipelines, Web Assembly WASM, PowerShell, Windows, Open Source, Deep Learning]
+subtitle: 
+tags: [DevSecOps, Azure DevOps Services, DevOps, Azure Security Center, Security, Women in Tech, AppSec, Azure Cloud Shell, .NET, .NET Core, C#, AI/ML, Azure CLI, AzureGraph, Azure Data Science Virtual Machines, Microsoft Graph API, Azure Active Directory, R, JavaScript, Node.js, Docker, VS Code, VS Code Marketplace, Java, F#, Serverless, Azure Functions, Azure Storage Explorer, Azure App Service, Azure Table Storage, Vue, Containers, Azure Container Registry, Azure Cognitive Services Text API, Azure Cognitive Services, Azure Cognitive Services Computer Vision API, Azure IoT Edge, Linux, Mixed Reality, Azure Storage, CI/CD, Azure Pipelines, Go, Web Assembly WASM, PowerShell, Windows, Open Source, Windows Subsystem for Linux, Deep Learning, Windows 10]
 ---
 ## [Building Rootless Applications and Services](https://dev.to/azure/building-rootless-applications-and-services-12if)
 
@@ -121,11 +121,11 @@ Tags: JavaScript, Node.js
 
 Development environments are not always easy to set up or keep tidy -- and for Java developers, it requires, at the very minimum, installing JDK, an editor, and a build tool like Maven or Gradle.
 
-But, what if you could go from zero to hero without having to install JDK, Maven, Gradle etc?
+But, what if you could go from zero to hero without having to install JDK, Maven, Gradle etc? 
 
-You can.
+You can. 
 
-In this post, you'll see how to go from zero to here with pre-baked Java dev environments inside containers.
+In this post, you'll see how to go from zero to here with pre-baked Java dev environments inside containers. 
 
 With the combo of Visual Studio Code (insiders, for now), the Remote Development extension pack, and Docker Desktop, you'll get up and running on your computer, without having to install anything else.
 
@@ -135,13 +135,15 @@ Tags: Docker, VS Code, VS Code Marketplace, Java
 
 Related Links:
 * [Visual Studio Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview?wt.mc_id=vscode-medium-brborges)
-* [Remote Development - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack&wt.mc_id=vscode-medium-brborges )
+* [
+        Remote Development - Visual Studio Marketplace
+    ](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack&wt.mc_id=vscode-medium-brborges )
 
 ## [Durable Functions Workflow sample](https://github.com/aaronpowell/durable-functions-workflow-demo)
 
 **by: Aaron Powell**
 
-See how to use Durable Functions and VS Code to get up and running with event-based workflows.
+See how to use Durable Functions and VS Code to get up and running with event-based workflows. 
 
 Durable Functions workflow demo >> available in C#, F# and JavaScript and creates 4 Azure Functions.
 
@@ -152,14 +154,16 @@ Tags: JavaScript, Node.js, F#, .NET, .NET Core, C#, Serverless, Azure Functions,
 Related Links:
 * [Durable Functions Overview - Azure : Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview?WT.mc_id=durablefunctionsworkflowdemo-github-aapowell)
 * [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/?WT.mc_id=durablefunctionsworkflowdemo-github-aapowell)
-* [Azure Functions - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=durablefunctionsworkflowdemo-github-aapowell)
+* [
+        Azure Functions - Visual Studio Marketplace
+    ](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=durablefunctionsworkflowdemo-github-aapowell)
 * [Create your Azure free account today : Microsoft Azure](https://azure.microsoft.com/en-us/free/?wt.mc_id=durablefunctionsworkflowdemo-github-aapowell )
 
 ## [Giving TodoMVC the API It Deserves: Part 1 - Todo Creation](https://dev.to/azure/giving-todo-mvc-the-api-it-deserves-part-1-todo-creation-19h4)
 
 **by: Ryan Levick**
 
-Todo MVC is a great "hello world" app way to compare different JavaScript frameworks and see how to build an app that's slightly more complex than what can easily fit in a README.
+Todo MVC is a great "hello world" app way to compare different JavaScript frameworks and see how to build an app that's slightly more complex than what can easily fit in a README. 
 
 In this series, we'll start where Todo MVC left off, and build a backend for the app that syncs your todos across devices - starting with creating a function and hooking it up with a newly created Table Storage account (living in Azure).
 
@@ -199,9 +203,15 @@ Related Links:
 
 **by: Burke Holland**
 
-Node is single-threaded and when the process dies, *everything dies*. Frameworks like Express and Koa have safeguards built in, but most of the time it's a good idea to use a process manager, like PM2. In this video, Burke blows his site up to show us the details.
+An unhandled exception in a Node application can crash the whole process - taking your site offline completely. 
 
-Tags: JavaScript, Node.js, Azure App Service, VS Code
+Even if you try to trap the error in a try/catch block, it can still find a way to die -- and, while frameworks like Express and Koa have safeguards built-in, it's still a good idea to use a process manager.
+
+In this video, Burke Holland Azure restarts a dead Node application using Docker container orchestration -- and then shows you an even better (read: more affordable) way. 
+
+You'll see how to use Azure App Service and PM2 to run Node applications >> you tweak the restart rules and create multiple Node processes in a cluster.
+
+Tags: JavaScript, Node.js, Azure App Service, VS Code, VS Code Marketplace
 
 [Read More](https://azurecasts.com/2019/05/04/when-node-dies/)
 
@@ -215,15 +225,18 @@ Related Links:
 
 **by: Paul DeCarlo**
 
-Cognitive services can now run locally via containers allowing to you supercharge your IoT Solutions with device-local AI tasks including Computer Vision, Facial Analysis, Language Understanding and more!
+With the announcement of Azure Cognitive Services Containers (Preview), we can now build AI scenarios in IoT Edge Solutions - without relying on external services! 
+
+The possibilities are endless: imagine using localized face recognition for access systems, live-translating video game text from one language to another, or processing license plate text on vehicles using an attached camera.
+
+In this post, Paul gives an overview of all things IoT, Azure IoT Edge -- and shows you how to start supercharging your IoT Solutions with device-local AI tasks like Computer Vision, Facial Analysis, Language Understanding, and more.
 
 Tags: Azure Cognitive Services (Text API), Azure Cognitive Services, Azure Cognitive Services (Computer Vision API), Containers, Azure IoT Edge, VS Code
 
 [Read More](https://dev.to/azure/using-cognitive-services-containers-with-azure-iot-edge-1e5a)
 
 Related Links:
-* [What is Azure IoT Edge : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-edge/about-iot-edge?WT.mc_id=devto-blog-pdecarlo)
-* [Understand extended offline capabilities for IoT Edge devices, modules, and child devices](https://docs.microsoft.com/en-us/azure/iot-edge/offline-capabilities?WT.mc_id=devto-blog-pdecarlo)
+* [What is Azure IoT Edge : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-edge/about-iot-edge?WT.mc_id=devto-blog-pdecarlo  https://docs.microsoft.com/en-us/azure/iot-edge/offline-capabilities?WT.mc_id=devto-blog-pdecarlo )
 * [Automatic deployment for device groups - Azure IoT Edge : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-edge/module-deployment-monitoring?WT.mc_id=devto-blog-pdecarlo )
 * [Learn how the security manager protects devices, software - Azure IoT Edge : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-security-manager?WT.mc_id=devto-blog-pdecarlo )
 * [Install Azure IoT Edge on Linux : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-edge/how-to-install-iot-edge-linux?WT.mc_id=devto-blog-pdecarlo )
@@ -232,7 +245,9 @@ Related Links:
 * [Azure Cognitive Services Documentation : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/?WT.mc_id=devto-blog-pdecarlo )
 * [Container support - Azure Cognitive Services : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-container-support?WT.mc_id=devto-blog-pdecarlo )
 * [Download Visual Studio Code - Mac, Linux, Windows](https://code.visualstudio.com/Download?WT.mc_id=devto-blog-pdecarl )
-* [Azure IoT Edge - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-edge&WT.mc_id=devto-blog-pdecarlo )
+* [
+        Azure IoT Edge - Visual Studio Marketplace
+    ](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-edge&WT.mc_id=devto-blog-pdecarlo )
 * [How to install and run containers - Computer Vision : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/computer-vision-how-to-install-containers#run-the-container-with-docker-run?WT.mc_id=devto-blog-pdecarlo )
 * [Deploy modules from Visual Studio Code - Azure IoT Edge : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-edge/how-to-deploy-modules-vscode?WT.mc_id=devto-blog-pdecarlo )
 
@@ -251,7 +266,7 @@ Related Links:
 * [Create a Cognitive Services account in the Azure portal : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-apis-create-account?wt.mc_id=RetroArchAIwithIoTEdge-github-pdecarlo)
 * [How to install and run containers - Computer Vision : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/computer-vision-how-to-install-containers#request-access-to-the-private-container-registry?wt.mc_id=RetroArchAIwithIoTEdge-github-pdecarlo)
 * [How to install and run containers - Computer Vision : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/computer-vision-how-to-install-containers#request-access-to-the-private-container-registry?wt.mc_id=RetroArchAIwithIoTEdge-github-pdecarlo)
-* [Register a new Azure IoT Edge device from the Azure portal](https://docs.microsoft.com/en-us/azure/iot-edge/how-to-register-device-portal?wt.mc_id=RetroArchAIwithIoTEdge-github-pdecarlo)
+* [We&#39;re sorry, the page you requested cannot be found.](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-edge?wt.mc_id=RetroArchAIwithIoTEdge-github-pdecarlo https://docs.microsoft.com/en-us/azure/iot-edge/how-to-register-device-portal?wt.mc_id=RetroArchAIwithIoTEdge-github-pdecarlo)
 * [How to install and run containers - Computer Vision : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/computer-vision-how-to-install-containers#request-access-to-the-private-container-registry?wt.mc_id=RetroArchAIwithIoTEdge-github-pdecarlo)
 
 ## [Microsoft Mixed Reality and Accessibility](https://docs.google.com/presentation/d/1NIvyVvAKnUGA8ghh3bu07lcxXvZHB_0NJEVWqsFRoXU/edit?usp=sharing)
@@ -272,9 +287,13 @@ Related Links:
 
 **by: Jeremy Likness**
 
-Jeremy's latest blog post walks through several deployment scenarios of automating open source builds from GitHub to Azure Storage Static Websites. Using WebAssembly as a common "single page app" component, it details build processes for C, C#, Go, and Rust and the transformations/steps needed for successful release to static website blob storage.
+Jeremy's latest blog post walks through several deployment scenarios to demonstrate how to automate open source builds from GitHub to Azure Storage Static Websites. 
 
-Tags: Azure Storage, CI/CD, Azure DevOps Services, Azure Pipelines, Web Assembly (WASM)
+Using WebAssembly as a common "single page app" component, it details build processes for C, C#, Go, and Rust, he explores how to set up continuous integration and deployment (CI/CD) for WebAssembly apps.
+
+Through a series of steps, you'll see exactly what's needed to successfully release to static website blob storage and how to apply Azure DevOps Services to your own projects
+
+Tags: Azure Storage, CI/CD, Azure DevOps Services, JavaScript, Node.js, .NET, .NET Core, C#, Azure Pipelines, Go, Web Assembly (WASM)
 
 [Read More](https://medium.com/microsoftazure/deploy-webassembly-from-github-toazure-storage-static-websites-with-azure-pipelines-a15f05d26fb8)
 
@@ -300,9 +319,9 @@ Related Links:
 
 **by: Aaron Powell**
 
-How you can use Durable Functions to create a workflow that uses external events to control its execution.
+Durable Functions - an extension of the Azure Functions serverless stack - introduce state management and orchestration across functions, without requiring you to write the plumbing code yourself.
 
-I walk through the different function endpoints that need to be created, outline some more advanced use cases and provide 3 language implementations in a GitHub repo (C#, F# and JavaScript).
+In this post, Aaron takes a look a client-driven event workflow system scenario, walking you through creating different function endpoints, advanced use cases, and wraps up with where to learn more (including his GitHub repo w/ C#, F#, and JS implementations).
 
 Tags: JavaScript, Node.js, F#, .NET, .NET Core, C#, Azure Functions
 
@@ -315,11 +334,13 @@ Related Links:
 * [Bindings for Durable Functions - Azure : Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-bindings?WT.mc_id=aaronpowell-blog-aapowell#orchestration-triggers )
 * [Durable Functions Overview - Azure : Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview?WT.mc_id=aaronpowell-blog-aapowell )
 
-## [Video: HOW-TO Install PowerShell 6 with a Simple One-Liner](https://www.youtube.com/watch?v=QX0l3h59D9A)
+## [HOW-TO Install PowerShell 6 with a Simple One-Liner](https://www.youtube.com/watch?v=QX0l3h59D9A)
 
 **by: Thomas Maurer**
 
-This video shows you how simple you can install PowerShell 6 or update PowerShell 6 with a simple one-liner on Windows and Linux.
+Watch this 5 minute video to learn how to install or update to PowerShell Core 6 - the new cross-platform edition of PowerShell - with a simple one-liner for both Windows and Linux.
+
+PowerShell Core 6 is open-source, built for heterogeneous environments and the hybrid cloud -- and currently sits alongside PowerShell 5.1 on Windows devices - so if you're on Windows, you'll need to install it,  just like you would on Linux and macOS.
 
 Tags: Linux, PowerShell, Windows, Open Source
 
@@ -335,22 +356,34 @@ Related Links:
 
 **by: Brian Ketelsen**
 
-The Visual Studio Code team just announced perhaps the most eagerly anticipated feature yet: remote editing. In this post, Brian breaks down what the remote editing extensions are and how they can be used.
+The Visual Studio Code team just announced perhaps the most eagerly anticipated feature yet: remote editing. 
 
-Tags: VS Code
+In this post, Brian breaks down the 3 new remote editing extensions (Remote - WSL; Remote - Container; Remote - SSHand), why enabling development from a local VS Code instance against a remote environment is "a dream come true", and how/why/when to use each extension.
+
+Tags: Containers, Windows Subsystem for Linux, VS Code, VS Code Marketplace
 
 [Read More](https://www.brianketelsen.com/vscode-remote-development/)
 
 Related Links:
-* [Remote - WSL - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
-* [Remote - Containers - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
-* [Remote - SSH - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh )
+* [
+        Remote - WSL - Visual Studio Marketplace
+    ](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
+* [
+        Remote - Containers - Visual Studio Marketplace
+    ](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+* [
+        Remote - SSH - Visual Studio Marketplace
+    ](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh )
 
-## [A Machine Learning Primer - Seth Juarez - Lightning Talk - ML4ALL 2019](https://www.youtube.com/watch?v=awGJkRe9m50&list=PLOnHsSCrR68xBQITh2Sf9YjD_z26p0Kt0&index=24&t=0s)
+## [A Machine Learning Primer (Lightning Talk)](https://www.youtube.com/watch?v=awGJkRe9m50&list=PLOnHsSCrR68xBQITh2Sf9YjD_z26p0Kt0&index=24&t=0s)
 
 **by: Seth Juarez**
 
-Machine learning: everyone's heard of it, and everyone says they need it. But what is machine learning exactly, and what should programmers understand about it? In this lightning talk, Seth properly defines machine learning and describes how machine learning can be used to solve well-defined questions or problems.
+Machine learning: everyone's heard of it, and everyone says they need it. 
+
+But what *is* machine learning exactly, and what should programmers understand about it? 
+
+In this lightning talk, Seth properly defines machine learning and describes how machine learning can be used to solve well-defined questions or problems.
 
 Tags: AI/ML
 
@@ -363,11 +396,11 @@ Seth Juarez & Siyu Yang](https://www.youtube.com/watch?v=cL2YT8WmCzU&list=PLOnHs
 
 **by: Seth Juarez**
 
-Deep Learning is one of the buzziest of tech buzz words at the moment. This session is designed to remove the mysticism from this amazing form of Artificial Intelligence.
+Deep Learning is one of the buzziest of tech buzzwords at the moment -- and this session is designed to remove the mysticism from this (amazing) form of Artificial Intelligence.
 
-Attendees will be led through the wilderness of the foundational principles underlying modern machine learning until they reach the oasis of a full-fledged understanding of deep learning for computer vision.
+You'll be led through the wilderness of modern machine learning's underlying foundational principles until you reach the oasis of full-fledged understanding of deep learning for computer vision.
 
-While this session is not for the faint of heart, initiates will attain a solid understanding of the basics of machine learning all the way through powerful image-deciphering convolutional neural networks.
+While this session is not for the faint of heart, initiates will leave with a  solid understanding of machine learning basics *and* advanced scenarios - going all the way through powerful image-deciphering convolutional neural networks.
 
 Tags: AI/ML, Deep Learning
 
@@ -379,12 +412,14 @@ Related Links:
 
 **by: Thomas Maurer**
 
-This is a blog post about how to configure Windows Sandbox in Windows 10. Windows Sandbox is based on Hyper-V technology and allows you to spin up an isolated, temporary, desktop environment where you can run untrusted software.
-Readers will learn how to set up and use Windows Sandbox and how to do some advanced configurations using config files.
+With the latest release of Windows 10 (1903), Microsoft introduced a new feature called Windows Sandbox: a built-in lightweight virtual machine that's based on Hyper-V technology that allows you to spin up an isolated, temporary, desktop environment to run untrusted software - great for demos, troubleshooting, or situations where you're dealing with malware. 
 
-Tags: Windows
+In this short post, Thomas walks you through how to get started  - from prerequisites to set up and install to customizing your environment with advanced configurations and various settings.
+
+Tags: Windows 10, Windows
 
 [Read More](https://www.thomasmaurer.ch/2019/05/how-to-configure-windows-sandbox/)
 
 Related Links:
 * [Windows Sandbox - Config Files - Microsoft Tech Community - 354902](https://techcommunity.microsoft.com/t5/Windows-Kernel-Internals/Windows-Sandbox-Config-Files/ba-p/354902?WT.mc_id=thomasmaurer-blog-thmaure)
+
