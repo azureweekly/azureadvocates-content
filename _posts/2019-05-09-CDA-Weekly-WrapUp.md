@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CDA Weekly Content Wrapup (05/09/2019)
-subtitle: 
+subtitle:
 tags: [DevSecOps, Azure DevOps Services, DevOps, Azure Security Center, Security, Women in Tech, AppSec, Azure Cloud Shell, .NET, .NET Core, C#, AI/ML, Azure CLI, AzureGraph, Azure Data Science Virtual Machines, Microsoft Graph API, Azure Active Directory, R, JavaScript, Node.js, Docker, VS Code, VS Code Marketplace, Java, F#, Serverless, Azure Functions, Azure Storage Explorer, Azure App Service, Azure Table Storage, Vue, Containers, Azure Container Registry, Azure Cognitive Services Text API, Azure Cognitive Services, Azure Cognitive Services Computer Vision API, Azure IoT Edge, Linux, Mixed Reality, Azure Storage, CI/CD, Azure Pipelines, Go, Web Assembly WASM, PowerShell, Windows, Open Source, Windows Subsystem for Linux, Deep Learning, Windows 10]
 ---
 ## [Building Rootless Applications and Services](https://dev.to/azure/building-rootless-applications-and-services-12if)
@@ -121,11 +121,11 @@ Tags: JavaScript, Node.js
 
 Development environments are not always easy to set up or keep tidy -- and for Java developers, it requires, at the very minimum, installing JDK, an editor, and a build tool like Maven or Gradle.
 
-But, what if you could go from zero to hero without having to install JDK, Maven, Gradle etc? 
+But, what if you could go from zero to hero without having to install JDK, Maven, Gradle etc?
 
-You can. 
+You can.
 
-In this post, you'll see how to go from zero to here with pre-baked Java dev environments inside containers. 
+In this post, you'll see how to go from zero to here with pre-baked Java dev environments inside containers.
 
 With the combo of Visual Studio Code (insiders, for now), the Remote Development extension pack, and Docker Desktop, you'll get up and running on your computer, without having to install anything else.
 
@@ -143,7 +143,7 @@ Related Links:
 
 **by: Aaron Powell**
 
-See how to use Durable Functions and VS Code to get up and running with event-based workflows. 
+See how to use Durable Functions and VS Code to get up and running with event-based workflows.
 
 Durable Functions workflow demo >> available in C#, F# and JavaScript and creates 4 Azure Functions.
 
@@ -163,7 +163,7 @@ Related Links:
 
 **by: Ryan Levick**
 
-Todo MVC is a great "hello world" app way to compare different JavaScript frameworks and see how to build an app that's slightly more complex than what can easily fit in a README. 
+Todo MVC is a great "hello world" app way to compare different JavaScript frameworks and see how to build an app that's slightly more complex than what can easily fit in a README.
 
 In this series, we'll start where Todo MVC left off, and build a backend for the app that syncs your todos across devices - starting with creating a function and hooking it up with a newly created Table Storage account (living in Azure).
 
@@ -203,11 +203,11 @@ Related Links:
 
 **by: Burke Holland**
 
-An unhandled exception in a Node application can crash the whole process - taking your site offline completely. 
+An unhandled exception in a Node application can crash the whole process - taking your site offline completely.
 
 Even if you try to trap the error in a try/catch block, it can still find a way to die -- and, while frameworks like Express and Koa have safeguards built-in, it's still a good idea to use a process manager.
 
-In this video, Burke Holland Azure restarts a dead Node application using Docker container orchestration -- and then shows you an even better (read: more affordable) way. 
+In this video, Burke Holland Azure restarts a dead Node application using Docker container orchestration -- and then shows you an even better (read: more affordable) way.
 
 You'll see how to use Azure App Service and PM2 to run Node applications >> you tweak the restart rules and create multiple Node processes in a cluster.
 
@@ -225,7 +225,7 @@ Related Links:
 
 **by: Paul DeCarlo**
 
-With the announcement of Azure Cognitive Services Containers (Preview), we can now build AI scenarios in IoT Edge Solutions - without relying on external services! 
+With the announcement of Azure Cognitive Services Containers (Preview), we can now build AI scenarios in IoT Edge Solutions - without relying on external services!
 
 The possibilities are endless: imagine using localized face recognition for access systems, live-translating video game text from one language to another, or processing license plate text on vehicles using an attached camera.
 
@@ -287,7 +287,7 @@ Related Links:
 
 **by: Jeremy Likness**
 
-Jeremy's latest blog post walks through several deployment scenarios to demonstrate how to automate open source builds from GitHub to Azure Storage Static Websites. 
+Jeremy's latest blog post walks through several deployment scenarios to demonstrate how to automate open source builds from GitHub to Azure Storage Static Websites.
 
 Using WebAssembly as a common "single page app" component, it details build processes for C, C#, Go, and Rust, he explores how to set up continuous integration and deployment (CI/CD) for WebAssembly apps.
 
@@ -356,7 +356,7 @@ Related Links:
 
 **by: Brian Ketelsen**
 
-The Visual Studio Code team just announced perhaps the most eagerly anticipated feature yet: remote editing. 
+The Visual Studio Code team just announced perhaps the most eagerly anticipated feature yet: remote editing.
 
 In this post, Brian breaks down the 3 new remote editing extensions (Remote - WSL; Remote - Container; Remote - SSHand), why enabling development from a local VS Code instance against a remote environment is "a dream come true", and how/why/when to use each extension.
 
@@ -379,9 +379,9 @@ Related Links:
 
 **by: Seth Juarez**
 
-Machine learning: everyone's heard of it, and everyone says they need it. 
+Machine learning: everyone's heard of it, and everyone says they need it.
 
-But what *is* machine learning exactly, and what should programmers understand about it? 
+But what *is* machine learning exactly, and what should programmers understand about it?
 
 In this lightning talk, Seth properly defines machine learning and describes how machine learning can be used to solve well-defined questions or problems.
 
@@ -391,8 +391,7 @@ Tags: AI/ML
 
 Related Links:
 
-## [Deep Learning for Computer Vision with Applications for Wildlife Conservation
-Seth Juarez & Siyu Yang](https://www.youtube.com/watch?v=cL2YT8WmCzU&list=PLOnHsSCrR68xBQITh2Sf9YjD_z26p0Kt0)
+## [Deep Learning for Computer Vision with Applications for Wildlife Conservation Seth Juarez & Siyu Yang](https://www.youtube.com/watch?v=cL2YT8WmCzU&list=PLOnHsSCrR68xBQITh2Sf9YjD_z26p0Kt0)
 
 **by: Seth Juarez**
 
@@ -412,7 +411,7 @@ Related Links:
 
 **by: Thomas Maurer**
 
-With the latest release of Windows 10 (1903), Microsoft introduced a new feature called Windows Sandbox: a built-in lightweight virtual machine that's based on Hyper-V technology that allows you to spin up an isolated, temporary, desktop environment to run untrusted software - great for demos, troubleshooting, or situations where you're dealing with malware. 
+With the latest release of Windows 10 (1903), Microsoft introduced a new feature called Windows Sandbox: a built-in lightweight virtual machine that's based on Hyper-V technology that allows you to spin up an isolated, temporary, desktop environment to run untrusted software - great for demos, troubleshooting, or situations where you're dealing with malware.
 
 In this short post, Thomas walks you through how to get started  - from prerequisites to set up and install to customizing your environment with advanced configurations and various settings.
 
