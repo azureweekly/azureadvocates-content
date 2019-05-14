@@ -135,9 +135,7 @@ Tags: Docker, VS Code, VS Code Marketplace, Java
 
 Related Links:
 * [Visual Studio Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview?wt.mc_id=vscode-medium-brborges)
-* [
-        Remote Development - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack&wt.mc_id=vscode-medium-brborges )
+* [Remote Development - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack&wt.mc_id=vscode-medium-brborges )
 
 ## [Durable Functions Workflow sample](https://github.com/aaronpowell/durable-functions-workflow-demo)
 
@@ -154,9 +152,7 @@ Tags: JavaScript, Node.js, F#, .NET, .NET Core, C#, Serverless, Azure Functions,
 Related Links:
 * [Durable Functions Overview - Azure : Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview?WT.mc_id=durablefunctionsworkflowdemo-github-aapowell)
 * [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/?WT.mc_id=durablefunctionsworkflowdemo-github-aapowell)
-* [
-        Azure Functions - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=durablefunctionsworkflowdemo-github-aapowell)
+* [Azure Functions - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=durablefunctionsworkflowdemo-github-aapowell)
 * [Create your Azure free account today : Microsoft Azure](https://azure.microsoft.com/en-us/free/?wt.mc_id=durablefunctionsworkflowdemo-github-aapowell )
 
 ## [Giving TodoMVC the API It Deserves: Part 1 - Todo Creation](https://dev.to/azure/giving-todo-mvc-the-api-it-deserves-part-1-todo-creation-19h4)
@@ -245,9 +241,7 @@ Related Links:
 * [Azure Cognitive Services Documentation : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/?WT.mc_id=devto-blog-pdecarlo )
 * [Container support - Azure Cognitive Services : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-container-support?WT.mc_id=devto-blog-pdecarlo )
 * [Download Visual Studio Code - Mac, Linux, Windows](https://code.visualstudio.com/Download?WT.mc_id=devto-blog-pdecarl )
-* [
-        Azure IoT Edge - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-edge&WT.mc_id=devto-blog-pdecarlo )
+* [Azure IoT Edge - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-edge&WT.mc_id=devto-blog-pdecarlo )
 * [How to install and run containers - Computer Vision : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/computer-vision-how-to-install-containers#run-the-container-with-docker-run?WT.mc_id=devto-blog-pdecarlo )
 * [Deploy modules from Visual Studio Code - Azure IoT Edge : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-edge/how-to-deploy-modules-vscode?WT.mc_id=devto-blog-pdecarlo )
 
@@ -365,15 +359,9 @@ Tags: Containers, Windows Subsystem for Linux, VS Code, VS Code Marketplace
 [Read More](https://www.brianketelsen.com/vscode-remote-development/)
 
 Related Links:
-* [
-        Remote - WSL - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
-* [
-        Remote - Containers - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
-* [
-        Remote - SSH - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh )
+* [Remote - WSL - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
+* [Remote - Containers - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+* [Remote - SSH - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh )
 
 ## [A Machine Learning Primer (Lightning Talk)](https://www.youtube.com/watch?v=awGJkRe9m50&list=PLOnHsSCrR68xBQITh2Sf9YjD_z26p0Kt0&index=24&t=0s)
 
@@ -421,4 +409,3 @@ Tags: Windows 10, Windows
 
 Related Links:
 * [Windows Sandbox - Config Files - Microsoft Tech Community - 354902](https://techcommunity.microsoft.com/t5/Windows-Kernel-Internals/Windows-Sandbox-Config-Files/ba-p/354902?WT.mc_id=thomasmaurer-blog-thmaure)
-
