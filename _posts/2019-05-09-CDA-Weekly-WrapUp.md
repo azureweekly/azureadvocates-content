@@ -375,7 +375,7 @@ In this lightning talk, Seth properly defines machine learning and describes how
 
 Tags: AI/ML
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/awGJkRe9m50&list=PLOnHsSCrR68xBQITh2Sf9YjD_z26p0Kt0&index=24&t=0s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/awGJkRe9m50" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Related Links:
 
@@ -391,7 +391,7 @@ While this session is not for the faint of heart, initiates will leave with a  s
 
 Tags: AI/ML, Deep Learning
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cL2YT8WmCzU&list=PLOnHsSCrR68xBQITh2Sf9YjD_z26p0Kt0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cL2YT8WmCzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Related Links:
 
