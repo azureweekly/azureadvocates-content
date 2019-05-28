@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CDA Weekly Content Wrapup (05/27/2019)
-subtitle: 
+subtitle:
 tags: [Python, AI/ML, Azure Cognitive Services, DevOps, Advice, JavaScript, Node.js, Azure IoT Edge, Rust, Security, SecOps, Azure Container Instances, Docker, Containers, Azure Container Registry, Azure Kubernetes Service, VS Code, VS Code Marketplace, Kubernetes, DevSecOps, Azure Pipelines, Azure DevOps Projects, Azure Bot Service, Windows Subsystem for Linux, TypeScript, IoT, Azure IoT Central, .NET, .NET Core, C#, Open Source, .NET Core, Azure Data Explorer, Data Science, R, Azure Logic Apps, Azure Key Vault, Azure, Web Development, Vue]
 ---
 
@@ -58,7 +58,7 @@ You’ll learn about Oliver’s journey with Rust, what led Oliver to use Rust f
 
 Tags: Azure IoT Edge, Rust
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FYGS2q1bljE&feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FYGS2q1bljE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -80,7 +80,7 @@ Tags: Security, Advice, SecOps
 
 If you use Docker, there are some actions you likely do again and again - like authoring a Dockerfile or docker-compose.yml and deploying to production (and the cloud).
 
-In this post, Chris looks at the popular Docker extension for VS Code, which includes a number of features that enable building, running, and deploying to the cloud - saving time and reducing complexity in your Docker workflow. 
+In this post, Chris looks at the popular Docker extension for VS Code, which includes a number of features that enable building, running, and deploying to the cloud - saving time and reducing complexity in your Docker workflow.
 
 You'll not only learn where to find and install the extension, you'll see how to manage your container images and do all sort of things with them - from building and running them to analyzing logs and bringing them to the cloud.
 
@@ -102,7 +102,7 @@ Related Links:
 
 Kubernetes is a BIG topic, and this is the first in a 5-part series that takes a look at Kubernetes "from the beginning."
 
-In Part I, you'll get an introduction to Kubernetes - including why Kubernetes and Orchestration are important and basic concepts, like Nodes, Pods, and Clusters. 
+In Part I, you'll get an introduction to Kubernetes - including why Kubernetes and Orchestration are important and basic concepts, like Nodes, Pods, and Clusters.
 
 To make it more concrete, Chris also takes us through a Hello World example, talking through Minikube and a simple deploy scenario.
 
@@ -122,9 +122,9 @@ Related Links:
 
 **by: Tanya Janca**
 
-In this talk at the RSA Conference, Tanya Janca argues that DevOps could be the best thing to happen to application security since OWASP - if only developers and operations teams were enabled make security a part of their everyday work. 
+In this talk at the RSA Conference, Tanya Janca argues that DevOps could be the best thing to happen to application security since OWASP - if only developers and operations teams were enabled make security a part of their everyday work.
 
-To do this, we must build security into each of the “Three Ways”: if developers and operations teams are sprinting, then we need to sprint too. 
+To do this, we must build security into each of the “Three Ways”: if developers and operations teams are sprinting, then we need to sprint too.
 
 So put on your running shoes, it’s time for DevSecOps! You'll learn what DevOps is, what DevSecOps is, and 21 ideas for adding security to DevOps.
 
@@ -153,7 +153,7 @@ Tags: Docker, VS Code
 
 **by: Tanya Janca**
 
-This is one video of a multi-part series on "Patty the Pipeline," exploring how to incorporate security into DevOps with Azure DevOps Pipeline and relevant tools. 
+This is one video of a multi-part series on "Patty the Pipeline," exploring how to incorporate security into DevOps with Azure DevOps Pipeline and relevant tools.
 
 In this video, Tanya Janca and Nancy Gariché explain how to install, run, and interpret the results of the Secure DevOps Kit for Azure (AzSK).
 
@@ -185,7 +185,7 @@ Tags: Security, DevOps, Azure Pipelines, Azure DevOps Projects
 
 Part of multi-video series on "Patty the Pipeline," where Tanya and friends explore Azure DevOps Services and related tools, showing us how to build a secure DevOps pipelines.
 
-In this video, Tanya and Nancy look at how to install and use Qualys' SSL Labs - available for free - in their Azure DevOps Pipeline. 
+In this video, Tanya and Nancy look at how to install and use Qualys' SSL Labs - available for free - in their Azure DevOps Pipeline.
 
 You'll see how to run it, hear them discuss the results, and then run the same test from the SSL Labs website.
 
@@ -213,7 +213,7 @@ Tags: DevSecOps, Security, DevOps, Azure Pipelines
 
 **by: Brian Clark**
 
-Catch this livestream recording to hear Brian and his streamer audience chat about good resources for getting started with programming and Brian’s experience setting up WSL on his machine. 
+Catch this livestream recording to hear Brian and his streamer audience chat about good resources for getting started with programming and Brian’s experience setting up WSL on his machine.
 
 From there, they dig into reading, researching, and figuring out the best approach for creating integrations and unit tests for a Node.js Twitch chatbot written in TypeScript.
 
@@ -227,7 +227,7 @@ Tags: JavaScript, Node.js, Azure Bot Service, Windows Subsystem for Linux, TypeS
 
 **by: Christopher Maneu**
 
-Programmez is French podcast about technology, programming, best practices, and news for developers. 
+Programmez is French podcast about technology, programming, best practices, and news for developers.
 
 In this episode, Christopher talks about the retry pattern, explaining how and why to use it.
 
@@ -292,7 +292,7 @@ Tags: .NET Core
 
 **by: Bryan Hughes**
 
-In this blog post, Bryan Hughes discusses a new coding style for switch statements that addresses a scoping issue with new ES2015 constructs. 
+In this blog post, Bryan Hughes discusses a new coding style for switch statements that addresses a scoping issue with new ES2015 constructs.
 
 It's not uncommon for switch statements to have somewhat-repeated code between cases, but with variations that make it tricky to easily abstract it.
 
@@ -309,7 +309,7 @@ Related Links:
 
 **by: David Smith**
 
-AzureKusto, the R interface to Azure Data Explorer - a fast, fully managed data analytics service from Microsoft - is now available! 
+AzureKusto, the R interface to Azure Data Explorer - a fast, fully managed data analytics service from Microsoft - is now available!
 
 In this post, you’ll get a quick overview of what’s included and see how to get started.
 
@@ -376,11 +376,11 @@ Related Links:
 
 **by: Chris Noring**
 
-Going deeper on Kubernetes in the second part of a 5-part series looking at Kubernetes from the beginning. 
+Going deeper on Kubernetes in the second part of a 5-part series looking at Kubernetes from the beginning.
 
-In Part II we look at Nodes and Pods once more with a recap on their importance and a deeper dive into their workings. 
+In Part II we look at Nodes and Pods once more with a recap on their importance and a deeper dive into their workings.
 
-We then take a look at Services, which help with routing and access to pods, before explaining labels, which as you might expect, help us in the organisation. 
+We then take a look at Services, which help with routing and access to pods, before explaining labels, which as you might expect, help us in the organisation.
 
 Finally, theres a chance to get hands on and create a service of our own.
 
