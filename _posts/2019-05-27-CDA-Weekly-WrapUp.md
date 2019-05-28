@@ -248,12 +248,6 @@ Tags: IoT, Azure IoT Central
 [Read More](https://dev.to/azure/azure-iot-central-and-mxchip-hands-on-lab-328i)
 
 Related Links:
-* [404 - Not Found](https://azure.microsoft.com/pricing/details/iot-central,)
-* [404 - Content Not Found : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-central/howto-show-hide-chat,)
-* [404 - Content Not Found : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-central/tutorial-customize-operator,)
-* [404 - Content Not Found : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-central/howto-personalize-dashboard,)
-* [404 - Content Not Found : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-central/tutorial-define-device-type,)
-* [404 - Content Not Found : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-central/tutorial-add-device,)
 * [Use device sets in your Azure IoT Central application : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-central/howto-use-device-sets)
 * [Use device sets in your Azure IoT Central application : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-central/howto-use-device-sets)
 * [Create and run jobs in your Azure IoT Central application : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-central/howto-run-a-job)
