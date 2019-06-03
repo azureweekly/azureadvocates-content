@@ -510,7 +510,7 @@ In this video, Laurent explains how to migrate a Mongo database over to an Azure
 
 Tags: Azure CosmosDB, MongoDB
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YWnvcKcs7Qk&list=PLLasX02E8BPCkCMbNDPT-hUfNsnP_RSBm&index=4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YWnvcKcs7Qk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Related Links:
 * [Azure Database Migration Service : Microsoft Azure](https://azure.microsoft.com/en-us/services/database-migration/?WT.mc_id=onedevquestion-channel9-lbugnion)
@@ -527,7 +527,7 @@ In this video, Laurent explains how to make sure your existing SQL Server databa
 
 Tags: Migration, Azure SQL Database Manage Instance, SQL Server, Azure SQL Data Migration Service
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LVLowyBPo0s&list=PLLasX02E8BPCkCMbNDPT-hUfNsnP_RSBm&index=5" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LVLowyBPo0s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Related Links:
 * [Overview of Data Migration Assistant (SQL Server) - SQL Server : Microsoft Docs](https://docs.microsoft.com/en-us/sql/dma/dma-overview?WT.mc_id=onedevquestion-channel9-lbugnion&view=sql-server-2017)
@@ -544,7 +544,7 @@ In this video, Laurent explains how to move your more complex existing SQL Serve
 
 Tags: Azure SQL Database Manage Instance, Azure Database Migration Service, SQL Server
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FEKhnU8CcUc&list=PLLasX02E8BPCkCMbNDPT-hUfNsnP_RSBm&index=6" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FEKhnU8CcUc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Related Links:
 * [Managed instance documentation - Tutorials, API Reference : Microsoft Docs](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-managed-instance-index?WT.mc_id=onedevquestion-channel9-lbugnion)
@@ -561,7 +561,7 @@ In this video, Laurent explains what App Service deployment slots are.
 
 Tags: Azure App Service, azure
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JWFDUflR1Mg&list=PLLasX02E8BPCkCMbNDPT-hUfNsnP_RSBm&index=7" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JWFDUflR1Mg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Related Links:
 * [Set up staging environments for web apps in Azure App Service : Microsoft Docs](https://docs.microsoft.com/en-us/azure/app-service/deploy-staging-slots?WT.mc_id=onedevquestion-channel9-lbugnion)
@@ -578,7 +578,7 @@ In this video, Laurent explains how to run your ASP.NET apps on Windows or Linux
 
 Tags: ASP.NET Core, Linux, Visual Studio, Windows, macOS, Azure App Service
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N-AoN8xN2Ks&list=PLLasX02E8BPCkCMbNDPT-hUfNsnP_RSBm&index=8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N-AoN8xN2Ks" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Related Links:
 * [Introduction to App Service on Linux - Azure : Microsoft Docs](https://docs.microsoft.com/en-us/azure/app-service/containers/app-service-linux-intro?WT.mc_id=onedevquestion-channel9-lbugnion)
@@ -595,7 +595,7 @@ In this video, Laurent explains how to create cross-platform apps with your exis
 
 Tags: .NET, .NET Core, C#, Xamarin
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LCm00Mm765E&list=PLLasX02E8BPCkCMbNDPT-hUfNsnP_RSBm&index=9" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LCm00Mm765E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Related Links:
 * [Xamarin Documentation - Xamarin : Microsoft Docs](https://docs.microsoft.com/en-us/xamarin/?WT.mc_id=onedevquestion-channel9-lbugnion)
@@ -612,7 +612,7 @@ In this video, Laurent explains how to use native features in cross-platform mob
 
 Tags: Xamarin Plugins, Xamarin, Xamarin.Essentials
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h52Hs7diLAM&list=PLLasX02E8BPCkCMbNDPT-hUfNsnP_RSBm&index=10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h52Hs7diLAM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Related Links:
 * [Xamarin.Essentials - Xamarin : Microsoft Docs](https://docs.microsoft.com/en-us/xamarin/essentials/?WT.mc_id=onedevquestion-channel9-lbugnion)
@@ -629,7 +629,7 @@ In this video, Laurent explains the most cost-effective ways of storing mobile a
 
 Tags: Azure CosmosDB, Azure Table Storage
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DSs1UmwbZPo&list=PLLasX02E8BPCkCMbNDPT-hUfNsnP_RSBm&index=11" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DSs1UmwbZPo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Related Links:
 * [Introduction to Table storage - Object storage in Azure : Microsoft Docs](https://docs.microsoft.com/en-us/azure/storage/tables/table-storage-overview?WT.mc_id=onedevquestion-channel9-lbugnion)
@@ -646,7 +646,7 @@ In this video, Laurent explains what an Azure static website is.
 
 Tags: Azure Static Sites, Azure Blob Storage
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4QXzznGRNg&list=PLLasX02E8BPCkCMbNDPT-hUfNsnP_RSBm&index=12" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4QXzznGRNg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Related Links:
 * [Tutorial: Host a static website on Blob storage - Azure Storage : Microsoft Docs](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website-host?WT.mc_id=onedevquestion-channel9-lbugnion)
@@ -663,7 +663,7 @@ In this video, Laurent explains how to develop and test functions on Windows and
 
 Tags: Linux, Visual Studio, Windows, Azure Functions, macOS, VS Code
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-CjBlcJWzUw&list=PLLasX02E8BPCkCMbNDPT-hUfNsnP_RSBm&index=13" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-CjBlcJWzUw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Related Links:
 * [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/?WT.mc_id=onedevquestion-channel9-lbugnion)
