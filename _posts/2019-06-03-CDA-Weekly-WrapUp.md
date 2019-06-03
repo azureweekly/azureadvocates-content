@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CDA Weekly Content Wrapup (06/03/2019)
-subtitle: 
+subtitle:
 tags: [Azure ARM Templates, JavaScript, Node.js, Azure, Azure Automation, Azure Resource Manager, Azure Virtual Machines, Azure App Insights, Spring, Azure Web Apps, Azure Pipelines, Azure Database for MySQL, Angular, jhipster, Java, Azure MySQL DB, MySQL Workbench, azure, Azure App Service, VS Code, VS Code Marketplace, Vue, MS Learn, Docker, Containers, Serverless, TypeScript, Azure Functions, Mobile Development, Kotlin, Azure Storage, Linux, PowerShell, Windows, Azure Cloud Shell, Azure Active Directory, Azure Stack HCI, Windows Server, Modernization, Azure Logic Apps, Azure Event Grid, Azure Machine Learning, Microsoft R Open, Azure Machine Learning Service, SQL Server, R, DevOps, ASP.NET Core, F#, Data Visualization, Python, Azure Notebooks, Azure Bot Service, Azure Cognitive Services, SQL, Azure Data Explorer, Data Engineering, Azure Machine Learning Studio, Data Science, Azure App Service on Linux, Visual Studio, .NET Core, Azure CDN, Azure Redis Cache, Azure CosmosDB, Azure DevOps Services, Web Development, Azure VPN Gateways, Azure Network Adapter, Windows Admin Center, Open Source, Migration, MongoDB, Azure SQL Database Manage Instance, Azure SQL Data Migration Service, Azure Database Migration Service, macOS, .NET, .NET Core, C#, Xamarin, Xamarin Plugins, Xamarin.Essentials, Azure Table Storage, Azure Static Sites, Azure Blob Storage, Advice, Big Data, Azure Container Instances, Neural Network, Jupyter notebooks, Deep Learning, AzCopy]
 ---
 
@@ -9,9 +9,9 @@ tags: [Azure ARM Templates, JavaScript, Node.js, Azure, Azure Automation, Azure 
 
 **by: Jay Gordon**
 
-In this video tutorial, Jay Gordon walks you (interactively) through the process of using Azure with Chef, to build and deploy a website. You'll learn how to use the Azure Resource Manager (ARM) with ARM Templates and the Chef Automate server for Azure, to bootstrap a new node. 
+In this video tutorial, Jay Gordon walks you (interactively) through the process of using Azure with Chef, to build and deploy a website. You'll learn how to use the Azure Resource Manager (ARM) with ARM Templates and the Chef Automate server for Azure, to bootstrap a new node.
 
-All the code used in the tutorial is available in an open-source repository that you can use to create, modify and deploy your own Node.js app to Azure: https://github.com/jaydestro/chefconf2019. 
+All the code used in the tutorial is available in an open-source repository that you can use to create, modify and deploy your own Node.js app to Azure: https://github.com/jaydestro/chefconf2019.
 
 You can also leave comments or discussions at the dev.to page for this article at: https://dev.to/azure/deploying-azure-with-azure-resource-templates-and-chef-automate-488k
 
@@ -20,7 +20,9 @@ Tags: Azure ARM Templates, JavaScript, Node.js, Azure, Azure Automation, Azure R
 [Read More](https://youtu.be/aqjvBJWexnk)
 
 Related Links:
-* [Chef extension for Azure VMs : Microsoft Docs](https://docs.microsoft.com/azure/virtual-machines/extensions/chef?WT.mc_id=youtube-chefconf-jagord, https://azuremarketplace.microsoft.com/en/marketplace/apps/chef-software.chef-automate?tab=Overview?WT.mc_id=youtube-chefconf-jagord, https://docs.microsoft.com/en-us/azure/chef/chef-overview?WT.mc_id=youtube-chefconf-jagord)
+* [Chef extension for Azure VMs : Microsoft Docs](https://docs.microsoft.com/azure/virtual-machines/extensions/chef?WT.mc_id=youtube-chefconf-jagord)
+* [Chef Automate : Azure Marketplace](https://azuremarketplace.microsoft.com/en/marketplace/apps/chef-software.chef-automate?tab=Overview?WT.mc_id=youtube-chefconf-jagord)
+* [Using Chef with Azure : Microsoft Docs](https://docs.microsoft.com/en-us/azure/chef/chef-overview?WT.mc_id=youtube-chefconf-jagord)
 
 
 ## [Creating a Spring Boot and Angular application for Azure (1/7)](https://dev.to/jdubois/creating-a-spring-boot-and-angular-application-for-azure-1-7-2mb8)
@@ -45,16 +47,13 @@ Related Links:
 
 In Spring and Angular applications on Azure series, we are going to deploy a full-stack application to Azure, and learn how to set up many components efficiently, and in a cost-conscious way.
 
-Part II dives in to creating and configuring Azure Web Apps and MySQL to host the Spring Boot application you created in Part I. 
+Part II dives in to creating and configuring Azure Web Apps and MySQL to host the Spring Boot application you created in Part I.
 
 You'll learn how to use Azure Portal, Resource Groups, Azure MySQL database, and Azure Web Apps in more depth - and get your infrastructure ready for Part III: continuous deployment! .
 
 Tags: Azure App Insights, Azure MySQL DB, Spring, Azure Web Apps, Angular, MySQL Workbench, Java, azure
 
 [Read More](https://dev.to/jdubois/creating-and-configuring-azure-web-app-and-mysql-to-host-a-spring-boot-application-2-7-1n13)
-
-Related Links:
-* [Microsoft Azure](https://ms.portal.azure.com/?WT.mc_id=spring-on-azure-blog-judubois#home)
 
 
 ## [GitHub Repository: Calculator in Vue.js](https://github.com/glaucia86/live-coding-vuejs-calculadora)
@@ -70,21 +69,10 @@ Tags: JavaScript, Node.js, Azure App Service, VS Code, VS Code Marketplace, Vue,
 Related Links:
 * [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/?WT.mc_id=live-coding-vuejs-calculadora-github-gllemos)
 * [Servi&#231;o de Aplicativo do Azure – hospedagem de aplicativo : Microsoft Azure](https://azure.microsoft.com/pt-br/services/app-service/?WT.mc_id=live-coding-vuejs-calculadora-github-gllemos)
-* [
-        Vue 2 Snippets - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets&WT.mc_id=live-coding-vuejs-calculadora-github-gllemos)
-* [
-        Vue 2 Snippets - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets&WT.mc_id=live-coding-vuejs-calculadora-github-gllemos)
-* [
-        Vetur - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=octref.vetur&WT.mc_id=live-coding-vuejs-calculadora-github-gllemos)
-* [
-        vue - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=liuji-jim.vue&WT.mc_id=live-coding-vuejs-calculadora-github-gllemos)
-* [
-        Vue VSCode Snippets - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets&WT.mc_id=live-coding-vuejs-calculadora-github-gllemos)
+* [Vue 2 Snippets - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets&WT.mc_id=live-coding-vuejs-calculadora-github-gllemos)
+* [Vetur - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=octref.vetur&WT.mc_id=live-coding-vuejs-calculadora-github-gllemos)
+* [vue - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=liuji-jim.vue&WT.mc_id=live-coding-vuejs-calculadora-github-gllemos)
+* [Vue VSCode Snippets - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets&WT.mc_id=live-coding-vuejs-calculadora-github-gllemos)
 * [Criar um site simples usando HTML, CSS e JavaScript - Learn : Microsoft Docs](https://docs.microsoft.com/pt-br/learn/modules/build-simple-website/?WT.mc_id=medium-blog-gllemos)
 * [Desenvolver aplicativos Web com o Visual Studio Code - Learn : Microsoft Docs](https://docs.microsoft.com/pt-br/learn/modules/develop-web-apps-with-vs-code/?WT.mc_id=medium-blog-gllemos)
 
@@ -114,7 +102,7 @@ Related Links:
 
 In Spring and Angular applications on Azure series we are going to deploy a full-stack application to Azure, and learn how to set up many components efficiently, and in a cost-conscious way.
 
-This time, Julien configures Azure Application Insights with Spring Boot, so we can monitor our server-side application before moving on to do the same for our Angular frontend. 
+This time, Julien configures Azure Application Insights with Spring Boot, so we can monitor our server-side application before moving on to do the same for our Angular frontend.
 
 You'll learn about Azure App Insights key features and how to test your configuration along the way.
 
@@ -133,7 +121,7 @@ Related Links:
 
 **by: Frank Boucher**
 
-In this session, Frank is finishing the "Dockerization" of the Web API (MyClippings-Parser - https://github.com/FBoucher/MyClippings-Parser). 
+In this session, Frank is finishing the "Dockerization" of the Web API (MyClippings-Parser - https://github.com/FBoucher/MyClippings-Parser).
 
 The Goal: build and execute the unit test with-in Docker from an Azure Pipeline. If the build and all the unit tests pass, we'll push the image to Docker Hub.
 
@@ -156,9 +144,7 @@ Tags: JavaScript, Node.js, Serverless, TypeScript, Angular, Azure Functions, VS 
 Related Links:
 * [Website deployment with Azure Storage](https://code.visualstudio.com/tutorials/static-website/getting-started?wt.mc_id=ngvikings-event-jopapa)
 * [Azure Functions with Visual Studio Code](https://code.visualstudio.com/tutorials/functions-extension/getting-started?wt.mc_id=ngvikings-event-jopapa)
-* [
-        Azure Tools - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack&wt.mc_id=ngvikings-event-jopapa)
+* [Azure Tools - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack&wt.mc_id=ngvikings-event-jopapa)
 
 
 ## [4 Minutes to Kotlin Coroutines](https://dev.to/azure/5-min-to-kotlin-coroutine-10i3)
@@ -169,7 +155,7 @@ Curious about Kotlin coroutine but don't know how to get started?
 
 Adi takes you through the basics and a short tutorial to get you coding in less than 5 minutes.
 
-You'll learn about: 
+You'll learn about:
 - Suspended functions
 - Context and scope
 - Builders
@@ -181,15 +167,12 @@ Tags: Mobile Development, Java, Kotlin
 
 [Read More](https://dev.to/azure/5-min-to-kotlin-coroutine-10i3)
 
-Related Links:
-* [None Given](None Given)
-
 
 ## [How to Install AzCopy for Azure Storage](https://www.thomasmaurer.ch/2019/05/how-to-install-azcopy-for-azure-storage/)
 
 **by: Thomas Maurer**
 
-AzCopy allows you to copy and manage Azure Storage - including uploading files from your machine to Azure Blob storage - and the latest version (v10) gives you even higher throughput, more efficient data movement, and more. 
+AzCopy allows you to copy and manage Azure Storage - including uploading files from your machine to Azure Blob storage - and the latest version (v10) gives you even higher throughput, more efficient data movement, and more.
 
 In this blog post, Thomas takes you through how to install AzCopy on Windows, Linux, macOS, or update to the latest version in the Azure Cloud Shell.
 
@@ -215,7 +198,6 @@ Tags: Azure App Insights, Spring, Angular, Java, azure
 [Read More](https://dev.to/azure/using-azure-application-insights-with-angular-5-7-4kej)
 
 Related Links:
-
 
 ## [Enabling Data Deduplication on Windows Server 2019 Volumes](https://techcommunity.microsoft.com/t5/ITOps-Talk-Blog/Enabling-Data-Deduplication-on-Windows-Server-2019-Volumes/ba-p/623521)
 
@@ -247,22 +229,17 @@ Tags: Serverless, Azure Logic Apps, Azure Event Grid
 
 Related Links:
 * [Microsoft Ignite : The Tour 2018-2019](https://www.microsoft.com/en-us/ignite-the-tour?utm_source=jeliknes&utm_medium=blog&utm_campaign=azuremedium&WT.mc_id=azuremedium-blog-jeliknes)
-* [;](;)
 * [Azure Functions Overview : Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview?utm_source=jeliknes&utm_medium=blog&utm_campaign=azuremedium&WT.mc_id=azuremedium-blog-jeliknes)
-* [;](;)
 * [Enterprise integration with Azure Logic Apps : Microsoft Docs](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview?utm_source=jeliknes&utm_medium=blog&utm_campaign=azuremedium&WT.mc_id=azuremedium-blog-jeliknes)
-* [;](;)
 * [Azure Event Grid Documentation - Tutorials, API Reference : Microsoft Docs](https://docs.microsoft.com/en-us/azure/event-grid/?utm_source=jeliknes&utm_medium=blog&utm_campaign=azuremedium&WT.mc_id=azuremedium-blog-jeliknes)
-* [;](;)
 * [Investing in Serverless: less servers, more code - YouTube](https://youtu.be/NZYSID8snjI)
-* [;](;)
 
 
 ## [How to Dead Simply Create a Vue Static Site on Azure App Service](https://github.com/burkeholland/dead-simple-vue-azure)
 
 **by: Burke Holland**
 
-In this sample GitHub repository, Burke Holland shows how to host and deploy a Vue static site on Azure App Service - in the simplest possible way. 
+In this sample GitHub repository, Burke Holland shows how to host and deploy a Vue static site on Azure App Service - in the simplest possible way.
 
 He shares steps for Linux and Windows platform, with both requiring only a few lines of code.
 
@@ -278,7 +255,7 @@ Related Links:
 
 **by: David Smith**
 
-Every day since September 17, 2014, we (Microsoft and, before the acquisition, Revolution Analytics) have archived a snapshot of the entire CRAN repository as a service to the R community. 
+Every day since September 17, 2014, we (Microsoft and, before the acquisition, Revolution Analytics) have archived a snapshot of the entire CRAN repository as a service to the R community.
 
 At the time, it was an emerging concept, but now, there are several methods available to ensure that your R code works consistently, even as R and CRAN changes.
 
@@ -300,7 +277,7 @@ Related Links:
 
 **by: Brian Clark**
 
-Brian recently jumped back into making sure he tests his code, so he's sharing how he's set up everything to do exactly that. 
+Brian recently jumped back into making sure he tests his code, so he's sharing how he's set up everything to do exactly that.
 
 You'll step through how to use tools like mocha, chai, supertest, and istanbul to write tests, evaluate your Node.js projects' API code, and make sure everything behaves as expected.
 
@@ -309,9 +286,7 @@ Tags: JavaScript, Node.js, VS Code, VS Code Marketplace
 [Read More](https://youtu.be/1rwfR7Y9m0w)
 
 Related Links:
-* [
-        Mocha Test Explorer - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-mocha-test-adapter&WT.mc_id=youtube-social-brcl)
+* [Mocha Test Explorer - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-mocha-test-adapter&WT.mc_id=youtube-social-brcl)
 
 
 ## [How to Accelerate DevOps with Machine Learning Lifecycle Management](https://medium.com/microsoftazure/how-to-accelerate-devops-with-machine-learning-lifecycle-management-2ca4c86387a0)
@@ -340,7 +315,7 @@ Related Links:
 
 **by: Aaron Powell**
 
-Aaron shares how to extend Saturn - an F# web framework - to support authentication for your apps. 
+Aaron shares how to extend Saturn - an F# web framework - to support authentication for your apps.
 
 He walks through using Saturn's computation expression design to add a custom authentication provider -- and how you can apply the same process to suit your project's needs.
 
@@ -349,7 +324,7 @@ Tags: ASP.NET Core, F#
 [Read More](https://www.aaron-powell.com/posts/2019-05-27-implementing-basic-auth-on-saturn/)
 
 Related Links:
-* [404 - Content Not Found : Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/computation-expressions,)
+* [Computation Expressions : Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/computation-expressions)
 * [Computation Expressions - F# : Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/computation-expressions?#custom-operations,)
 * [Introduction to Identity on ASP.NET Core : Microsoft Docs](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity?view=aspnetcore-2.2&tabs=visual-studio)
 
@@ -398,9 +373,9 @@ Related Links:
 
 **by: Rob Conery**
 
-In episode #006, I told you that we couldn’t use Azure’s free tier (F1) unless we used the Windows operating system. 
+In episode #006, I told you that we couldn’t use Azure’s free tier (F1) unless we used the Windows operating system.
 
-Not a big deal if we’re using Node and are happy to use Azure’s canned hosting engine. But what if we want to do our own thing with Docker? 
+Not a big deal if we’re using Node and are happy to use Azure’s canned hosting engine. But what if we want to do our own thing with Docker?
 
 Fear not, there's now a free tier for Linux operating system too!
 
@@ -412,9 +387,7 @@ Tags: Docker, Containers, Azure App Service on Linux
 
 Related Links:
 * [Create multi-container app using Docker Compose - Azure App Service : Microsoft Docs](https://docs.microsoft.com/en-us/azure/app-service/containers/quickstart-multi-container?WT.mc_id=docs-azurecasts-robcon)
-* [;](;)
 * [Configure custom container - Azure App Service : Microsoft Docs](https://docs.microsoft.com/en-us/azure/app-service/containers/configure-custom-container?WT.mc_id=docs-azurecasts-robcon)
-* [;](;)
 * [What is Kudu? - Azure Web Sites Deployment with David Ebbo](https://azure.microsoft.com/en-us/resources/videos/what-is-kudu-with-david-ebbo?WT.mc_id=docs-azurecasts-robcon)
 
 
@@ -480,7 +453,7 @@ Related Links:
 
 This is the second article in the "Azure for Spoiled People" series where Jen Looper explores Microsoft Azure (and all of its features), building a website and systematically migrating existing features from other technologies (like Firebase) to Azure.
 
-In this segment, Jen looks at how you can stop building and deploying built assets to production in stages, and instead use Azure Pipelines to streamline the process. 
+In this segment, Jen looks at how you can stop building and deploying built assets to production in stages, and instead use Azure Pipelines to streamline the process.
 
 By the end of this post, you should know how to get proper CI set up on your basic Vue.js app with an automated and customizable build and release process.
 
@@ -489,7 +462,9 @@ Tags: Azure DevOps Services, Azure, Azure Pipelines, Azure App Service, Web Deve
 [Read More](https://dev.to/jenlooper/microsoft-azure-for-spoiled-people-2-deploy-your-app-using-azure-pipelines-27f6)
 
 Related Links:
-* [Azure Pipelines : Microsoft Azure](https://azure.microsoft.com/services/devops/pipelines/?nav=min&WT.mc_id=devto-blog-jelooper; https://azure.microsoft.com/pricing/details/devops/azure-devops-services/?nav=min&WT.mc_id=devto-blog-jelooper; https://docs.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops&WT.mc_id=devto-blog-jelooper )
+* [Azure Pipelines : Microsoft Azure](https://azure.microsoft.com/services/devops/pipelines/?nav=min&WT.mc_id=devto-blog-jelooper)
+* [Pricing for Azure DevOps](https://azure.microsoft.com/pricing/details/devops/azure-devops-services/?nav=min&WT.mc_id=devto-blog-jelooper)
+* [Azure Pipelines Documentation](https://docs.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops&WT.mc_id=devto-blog-jelooper)
 
 
 ## [OpenVPN Support in Azure VPN Gateways](https://www.thomasmaurer.ch/2019/05/openvpn-support-in-azure-vpn-gateways/)
@@ -513,7 +488,7 @@ Related Links:
 
 **by: Laurent Bugnion**
 
-Timezones are hard. 
+Timezones are hard.
 
 Azure makes it easier by setting servers in UTC time -- but this requires some preparation if you're migrating from on-premises to the cloud, and Laurent shows a simple way to prepare your code, whether you're migrating now or in the future.
 
@@ -523,7 +498,6 @@ Tags: ASP.NET Core, Migration, Visual Studio, Azure App Service
 
 Related Links:
 * [Introduction to Razor Pages in ASP.NET Core : Microsoft Docs](https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?WT.mc_id=devto-blog-lbugnion&view=aspnetcore-2.2&tabs=visual-studio)
-* [Bad Request](https://ms.portal.azure.com/#home)
 
 
 ## [One Dev Question #3: How to migrate a Mongo database to Cosmos DB](https://www.youtube.com/watch?v=YWnvcKcs7Qk&list=PLLasX02E8BPCkCMbNDPT-hUfNsnP_RSBm&index=4)
@@ -547,7 +521,7 @@ Related Links:
 
 **by: Laurent Bugnion**
 
-One Dev Questions is a series of short videos where a developer asks a frequently asked question and then answers it. 
+One Dev Questions is a series of short videos where a developer asks a frequently asked question and then answers it.
 
 In this video, Laurent explains how to make sure your existing SQL Server database will work with Azure.
 
@@ -564,7 +538,7 @@ Related Links:
 
 **by: Laurent Bugnion**
 
-One Dev Questions is a series of short videos where a developer asks a frequently asked question and then answers it. 
+One Dev Questions is a series of short videos where a developer asks a frequently asked question and then answers it.
 
 In this video, Laurent explains how to move your more complex existing SQL Server databases containing cross-database joins to Azure.
 
@@ -581,7 +555,7 @@ Related Links:
 
 **by: Laurent Bugnion**
 
-One Dev Questions is a series of short videos where a developer asks a frequently asked question and then answers it. 
+One Dev Questions is a series of short videos where a developer asks a frequently asked question and then answers it.
 
 In this video, Laurent explains what App Service deployment slots are.
 
@@ -598,7 +572,7 @@ Related Links:
 
 **by: Laurent Bugnion**
 
-One Dev Questions is a series of short videos where a developer asks a frequently asked question and then answers it. 
+One Dev Questions is a series of short videos where a developer asks a frequently asked question and then answers it.
 
 In this video, Laurent explains how to run your ASP.NET apps on Windows or Linux.
 
@@ -649,7 +623,7 @@ Related Links:
 
 **by: Laurent Bugnion**
 
-One Dev Questions is a series of short videos where a developer asks a frequently asked question and then answers it. 
+One Dev Questions is a series of short videos where a developer asks a frequently asked question and then answers it.
 
 In this video, Laurent explains the most cost-effective ways of storing mobile app data in Azure.
 
@@ -683,7 +657,7 @@ Related Links:
 
 **by: Laurent Bugnion**
 
-One Dev Questions is a series of short videos where a developer asks a frequently asked question and then answers it. 
+One Dev Questions is a series of short videos where a developer asks a frequently asked question and then answers it.
 
 In this video, Laurent explains how to develop and test functions on Windows and Linux.
 
@@ -700,9 +674,9 @@ Related Links:
 
 **by: Jason Hand**
 
-This blog post marks the start of a series of articles (and video interviews) that provide a retrospective of the recently completed Microsoft Ignite The Tour (MITT) which recently ended its run in Mumbai. 
+This blog post marks the start of a series of articles (and video interviews) that provide a retrospective of the recently completed Microsoft Ignite The Tour (MITT) which recently ended its run in Mumbai.
 
-In this series, Jason Hand chats with various teammates (Cloud Advocates) about their roles on tour, the topics they're speaking or spoke about, and other areas of interest. 
+In this series, Jason Hand chats with various teammates (Cloud Advocates) about their roles on tour, the topics they're speaking or spoke about, and other areas of interest.
 
 In the kickoff article, Jason talks to Scott Cate on what it meant to be a "speaker manager" for MITT and what he's planning to do after the tour wraps.
 
