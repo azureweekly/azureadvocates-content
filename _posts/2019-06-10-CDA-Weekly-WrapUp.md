@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CDA Weekly Content Wrapup (06/10/2019)
-subtitle: 
+subtitle:
 tags: [DevOps, Advice, .NET, .NET Core, C#, Azure Blob Storage, Web Development, Azure Front Door, Security, Azure Firewall, Azure Application Gateway, Azure Load Balancer, Azure Traffic Manager, JavaScript, Node.js, Go, VS Code, VS Code Marketplace, Rust, AppSec, TypeScript, Angular, Monitoring, SRE, Azure Storage, Azure CLI, Azure Functions, Windows Server, SQL Server, Azure Active Directory, Mixed Reality, VS Extensions, VS Live Share, Azure DevOps Services, Kubernetes, Azure Container Registry, Azure Kubernetes Service, Azure Bot Service, Azure Cognitive Service LUIS, Azure Cognitive Services, Azure App Service, Vue, Windows 10, Office 365, Surface, Azure CosmosDB, MongoDB, MS Learn, Azure SignalR Service, Azure Security Center, Azure, Azure Pipelines, Azure Key Vault, Serverless, Azure Machine Learning, CI/CD, AI/ML, Azure Machine Learning Service, Data Science, Python, Azure Notebooks, Azure ML, Java, Kotlin, .NET Core, Microsoft Threat Modeling Tool, Microservices, Web Assembly WASM, React, Azure Static Sites, PowerShell, Azure Cloud Shell, GraphQL]
 ---
 
@@ -9,7 +9,7 @@ tags: [DevOps, Advice, .NET, .NET Core, C#, Azure Blob Storage, Web Development,
 
 **by: Jay Gordon**
 
-Weekly podcast featuring interviews with DevOps experts and IT pros on their experiences dealing with "on-call" emergencies. 
+Weekly podcast featuring interviews with DevOps experts and IT pros on their experiences dealing with "on-call" emergencies.
 
 This week Jay Gordon is live at DevOpsDays Toronto and talks to Quintessence Anx - a Developer Advocate for logz.io and a community leader in the Buffalo, NY region - on her career path, learnings from a decade in tech and modern DevOps.
 
@@ -24,7 +24,7 @@ Related Links:
 
 **by: Jeremy Likness**
 
-Interest and adoption of WebAsssembly grows every day, and, with Blazor, the dream of writing C# and .NET code that can literally run anywhere is finally realized. 
+Interest and adoption of WebAsssembly grows every day, and, with Blazor, the dream of writing C# and .NET code that can literally run anywhere is finally realized.
 
 In this article, you'll learn the history and motivation behind Blazor -  client-side library that supports Single Page Applications written in C#, enables code reuse, and allows developers to  port legacy code to modern web applications - then explore technical details and how to get started.
 
@@ -53,7 +53,8 @@ Related Links:
 * [Azure Front Door Service - Routing rule matching monitoring : Microsoft Docs](https://docs.microsoft.com/en-us/azure/frontdoor/front-door-route-matching?WT.mc_id=ITOpsTalk-Blog-pierrer)
 * [Azure Traffic Manager - traffic routing methods : Microsoft Docs](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-routing-methods?WT.mc_id=ITOpsTalk-Blog-pierrer)
 * [What is Azure Firewall? : Microsoft Docs](https://docs.microsoft.com/en-us/azure/firewall/overview?WT.mc_id=ITOpsTalk-Blog-pierrer)
-* [Azure security groups overview : Microsoft Docs](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview?WT.mc_id=ITOpsTalk-Blog-pierrer https://docs.microsoft.com/en-us/azure/application-gateway/waf-overview?WT.mc_id=ITOpsTalk-Blog-pierrer)
+* [Azure security groups overview : Microsoft Docs](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview?WT.mc_id=ITOpsTalk-Blog-pierrer)
+* [Web application firewall for Azure Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/waf-overview?WT.mc_id=ITOpsTalk-Blog-pierrer)
 * [Azure Front Door Service - Routing rule matching monitoring : Microsoft Docs](https://docs.microsoft.com/en-us/azure/frontdoor/front-door-route-matching?WT.mc_id=ITOpsTalk-Blog-pierrer )
 
 
@@ -61,7 +62,7 @@ Related Links:
 
 **by: John Papa**
 
-You know JavaScript developers love Visual Studio Code, but did you know Go and Rust are some of the most used languages in VS Code? 
+You know JavaScript developers love Visual Studio Code, but did you know Go and Rust are some of the most used languages in VS Code?
 
 Check out this post and Five Things episode to hear from the team building VS Code, including how you to pair program with Live Share, ways Python, Go, and Rust are used in VS Code, and tips for listing and sharing your extensions.
 
@@ -91,16 +92,13 @@ Related Links:
 
 **by: Tanya Janca**
 
-As part of her role as a Cloud Advocate, Tanya gets to see a lot of technical talks - and they're not all created equal! 
+As part of her role as a Cloud Advocate, Tanya gets to see a lot of technical talks - and they're not all created equal!
 
 Whether you're an experienced presenter or just starting, her top 20 (ish) tips for making effective technical presentations and talks include something for everyone.
 
 Tags: Advice
 
 [Read More](https://link.medium.com/v5UsbhAi8W)
-
-Related Links:
-* [None Given](None Given)
 
 
 ## [Ep. #31, Evangelizing Security with Tanya Janca of Microsoft](https://www.heavybit.com/library/podcasts/the-secure-developer/ep-31-evangelizing-security-with-tanya-janca-of-microsoft/)
@@ -113,8 +111,6 @@ Tags: Security, AppSec
 
 [Read More](https://www.heavybit.com/library/podcasts/the-secure-developer/ep-31-evangelizing-security-with-tanya-janca-of-microsoft/)
 
-Related Links:
-* [None Given](None Given)
 
 
 ## [Preload Angular Bundles When Good Network Connectivity is Detected](https://dev.to/azure/preload-angular-bundles-when-good-network-connectivity-is-detected-j3a)
@@ -123,7 +119,7 @@ Related Links:
 
 Users want fast, responsive apps. When it comes to web development, getting JavaScript bundles to the browser as quickly as possible is key to making this happen.
 
-In this article, John looks at yet another Angular Preload approach: preloading your bundles when your users have a good network connection - making them available in low bandwidth / low WiFi scenarios. 
+In this article, John looks at yet another Angular Preload approach: preloading your bundles when your users have a good network connection - making them available in low bandwidth / low WiFi scenarios.
 
 You'll learn how to set up and test this strategy, as well as pointers to the other articles in the series for more tips on preloading.
 
@@ -167,7 +163,7 @@ Related Links:
 
 **by: Jason Hand**
 
-Users don't care about the tech stack or the company providing digital services: they just want to accomplish a task. 
+Users don't care about the tech stack or the company providing digital services: they just want to accomplish a task.
 
 Jason details Site Reliability Engineering's role in enabling users and improving their experience, starting with instrumenting for observability. He walks through how and why we need to understand users' needs and the value we offer them -- and instrument our products to monitor for *those* things, rather than purely technical component level failures.
 
@@ -188,7 +184,7 @@ Related Links:
 
 **by: Chloe Condon**
 
-In this blog post, Chloe shows us how to use Azure functions + Twilio integration to create auto text and voice call reminders. 
+In this blog post, Chloe shows us how to use Azure functions + Twilio integration to create auto text and voice call reminders.
 
 In a series of photos, code snippets, and ample jokes, you'll learn how to build and integrate your time triggers, customize your reminders, test, and deploy >> stop forgetting to do things.
 
@@ -197,7 +193,12 @@ Tags: Azure Storage, JavaScript, Node.js, Azure CLI, Azure Functions, VS Code
 [Read More](http://aka.ms/chloereminder;)
 
 Related Links:
-* [Azure Functions Documentation - Tutorials : Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-functions/?WT.mc_id=azuremediumreminderapp-blog-chcondon; https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-azure-function-azure-cli?WT.mc_id=azuremediumreminderapp-blog-chcondon; https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview?WT.mc_id=azuremediumreminderapp-blog-chcondon; https://docs.microsoft.com/en-us/azure/azure-functions/functions-scale?WT.mc_id=azuremediumreminderapp-blog-chcondon; https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-twilio?WT.mc_id=azuremediumreminderapp-blog-chcondon; https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-timer?WT.mc_id=azuremediumreminderapp-blog-chcondon )
+* [Azure Functions Documentation - Tutorials : Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-functions/?WT.mc_id=azuremediumreminderapp-blog-chcondon)
+* [Create your first function from the command line](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-azure-function-azure-cli?WT.mc_id=azuremediumreminderapp-blog-chcondon)
+* [Azure Resource Manager overview](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview?WT.mc_id=azuremediumreminderapp-blog-chcondon)
+* [Azure Functions scale and hosting](https://docs.microsoft.com/en-us/azure/azure-functions/functions-scale?WT.mc_id=azuremediumreminderapp-blog-chcondon)
+* [Twilio binding for Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-twilio?WT.mc_id=azuremediumreminderapp-blog-chcondon)
+* [Timer trigger for Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-timer?WT.mc_id=azuremediumreminderapp-blog-chcondon)
 * [Introduction to Azure Storage - Cloud storage on Azure : Microsoft Docs](https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction?WT.mc_id=azuremediumreminderapp-blog-chcondon)
 
 
@@ -205,7 +206,7 @@ Related Links:
 
 **by: Anthony Bartolo**
 
-Always On Availability Groups in SQL take disaster recovery and high availability to a new level: enabling multiple copies of your database to be highly available, offering Read-Only workloads, and offloading management tasks (like backups).  
+Always On Availability Groups in SQL take disaster recovery and high availability to a new level: enabling multiple copies of your database to be highly available, offering Read-Only workloads, and offloading management tasks (like backups).
 
 This step-by-step details the creation of a SQL Server 2016 Always On Availability Group, walking how through how to add extra failover protection to your mission-critical databases.
 
@@ -236,7 +237,7 @@ Related Links:
 
 **by: Brian Clark**
 
-In this session, Brian and chat continue on their journey to write tests for a Node.js app. 
+In this session, Brian and chat continue on their journey to write tests for a Node.js app.
 
 They go down a rabbit hole for a bit, working through date/time math to determine his steam's uptime in hours, minutes and seconds -- and the new plan? Work on writing tests for that API request and calculating date/time in the next stream.
 
@@ -368,7 +369,7 @@ Related Links:
 
 **by: Thomas Maurer**
 
-In the latest Office Insider Fast build for Outlook (1907 Build 11727.20034 - released May 31, 2019), you're able to create drawings or handwritten emails in Outlook, using your only your finger or pen. 
+In the latest Office Insider Fast build for Outlook (1907 Build 11727.20034 - released May 31, 2019), you're able to create drawings or handwritten emails in Outlook, using your only your finger or pen.
 
 From playing tic-tac-toe and giving emails a personal touch to quickly creating a drawing to explain something to a colleague, the possibilities are endless. Thomas shares a few ways he's been using the new feature, plus where to install and find more information.
 
@@ -405,7 +406,7 @@ Related Links:
 
 **by: Glaucia Lemos**
 
-In a series of tutorial videos, Glaucia shows us how to develop a MEAN (MongoDB, Express, Angular e Node) app, and host on Azure, using features like App Service and CosmosDB. 
+In a series of tutorial videos, Glaucia shows us how to develop a MEAN (MongoDB, Express, Angular e Node) app, and host on Azure, using features like App Service and CosmosDB.
 
 In this chapter, you’ll learn how create the basic CRUD (Create, Read, Update & Delete) methods.
 
@@ -425,7 +426,7 @@ Related Links:
 
 **by: Glaucia Lemos**
 
-In a series of tutorial videos, Glaucia shows us how to develop a MEAN (MongoDB, Express, Angular e Node) app, and host on Azure, using features like App Service and CosmosDB. 
+In a series of tutorial videos, Glaucia shows us how to develop a MEAN (MongoDB, Express, Angular e Node) app, and host on Azure, using features like App Service and CosmosDB.
 
 In this chapter, you’ll learn how create the basic CRUD (Create, Read, Update & Delete) methods.
 
@@ -445,13 +446,13 @@ Related Links:
 
 **by: Anthony Chu**
 
-In this Learn module, you use a sample scenario to learn how to broadcast real-time document changes between clients and servers. 
+In this Learn module, you use a sample scenario to learn how to broadcast real-time document changes between clients and servers.
 
 Broken into 8 mini-units totalling less than 60 minutes, you walk through implementing a function in Azure Functions that runs only when data changes in an Azure Cosmos DB, broadcasting changes to connected clients via SignalR Service, and updating your client web app to respond to SignalR messages.
 
 
 
-Also check out this workshop on Azure Functions by the same author. 
+Also check out this workshop on Azure Functions by the same author.
 https://anthonychu.ca/post/cosmosdb-real-time-azure-functions-signalr-service/
 https://github.com/anthonychu/functions-serverless-realtime-tutorial
 
@@ -466,7 +467,7 @@ Related Links:
 
 **by: Tanya Janca**
 
-Tanya joins the AppSec micro podcast to talk all things mentorship, an important part of healthy communities. Learn how and why she started a Twitter hashtag for mentors to find mentee and vice versa. 
+Tanya joins the AppSec micro podcast to talk all things mentorship, an important part of healthy communities. Learn how and why she started a Twitter hashtag for mentors to find mentee and vice versa.
 
 In just over 5 minutes, you'll get advice for where to start asking and offering help - including getting involved with #MentoringMonday.
 
@@ -481,7 +482,7 @@ Related Links:
 
 **by: Tanya Janca**
 
-Nancy Gariché and Tanya Janca - two of the project leaders for OWASP DevSlop - join the Application Security podcast,  and we realize that it is much more than a project: it’s a movement and place for its creators to share what they've learned and build a community platform. 
+Nancy Gariché and Tanya Janca - two of the project leaders for OWASP DevSlop - join the Application Security podcast,  and we realize that it is much more than a project: it’s a movement and place for its creators to share what they've learned and build a community platform.
 
 DevSlop consists of four main components, including an Azure-based DevSecOps pipeline, tools for testing and learning about app security, and a weekly live-stream series focused on solving problems in real-time and connecting community members.
 
@@ -511,7 +512,7 @@ Related Links:
 
 **by: Tanya Janca**
 
-Tanya Janca, Cloud Advocate at Microsoft, shares her review of the Global AppSec Conference in Tel Aviv, including her favorite sessions, links to resources, and ample photos.  
+Tanya Janca, Cloud Advocate at Microsoft, shares her review of the Global AppSec Conference in Tel Aviv, including her favorite sessions, links to resources, and ample photos.
 
 Global AppSec is the international OWASP annual conference and concentrates on application security, from DevSecOps and white hat hacking to code review and so much more.
 
@@ -550,7 +551,7 @@ Related Links:
 
 The Data Science lifecycle or "inner loop" - which focuses on (re)training your model, including data ingestion, preparation, and machine learning experimentation - can be automated with the Azure Machine Learning pipeline. Likewise, the application lifecycle or "outer loop" - which includes unit and integration testing of the model and the larger business application - can be automated with the Azure DevOps pipeline.
 
-In this article, Cloud Advocate Francesca Lazzeri describes why it's important to connect data science and application lifecycles, and how you can bridge Azure Machine Learning and Azure DevOps pipelines to make the data science process an intuitive part of your applications' development pipeline. 
+In this article, Cloud Advocate Francesca Lazzeri describes why it's important to connect data science and application lifecycles, and how you can bridge Azure Machine Learning and Azure DevOps pipelines to make the data science process an intuitive part of your applications' development pipeline.
 
 The result? No more finger pointing when there are unexpected delays or teams discover bugs late in the process or post-release - and more focus on shipping high quality software and building high quality models.
 
@@ -570,9 +571,9 @@ Related Links:
 
 **by: Francesca Lazzeri**
 
-In this open sourced GitHub tutorial, Cloud Advocate Francesca Lazzeri walks through setting up Azure Notebooks to explain a model using AML explain-model package on raw features. 
+In this open sourced GitHub tutorial, Cloud Advocate Francesca Lazzeri walks through setting up Azure Notebooks to explain a model using AML explain-model package on raw features.
 
-In machine learning, the process of 'explaining the model' allows data scientists to provide stakeholders visibility into the data points - or features- that have most impact.  Features are the data fields used to predict a target data point, and feature importance tells you how each data field (feature) impacts your model's prediction accuracy (for example, to predict credit risk, features (data fields) could include factors like age, account size, and account age. 
+In machine learning, the process of 'explaining the model' allows data scientists to provide stakeholders visibility into the data points - or features- that have most impact.  Features are the data fields used to predict a target data point, and feature importance tells you how each data field (feature) impacts your model's prediction accuracy (for example, to predict credit risk, features (data fields) could include factors like age, account size, and account age.
 
 You'll use Scikit-learn to train a Logistic Regression model, run "explain_model on the full dataset and the summarized datasets (both in local mode), and visualize the global and local explanations on a dashboard.
 
@@ -589,7 +590,7 @@ Related Links:
 
 Watch someone live code online…why would I do that? Brian sets out to answer this question for you, sharing his experiences with Twitch, both as a host and viewer.
 
-There’s a ton of value that developers can get out of traditional, scripted trainings, which you can find on many existing channels, from YouTube to Pluralsight -- but live-streaming is an interactive (and realistic) to scripted training that helps you solve practical problems in real-time. 
+There’s a ton of value that developers can get out of traditional, scripted trainings, which you can find on many existing channels, from YouTube to Pluralsight -- but live-streaming is an interactive (and realistic) to scripted training that helps you solve practical problems in real-time.
 
 Whether you're a beginner or experienced developer, Brian describes three reasons you may want to start tuning in to Twitch.
 
@@ -618,7 +619,7 @@ Related Links:
 
 **by: Dave Glover**
 
-Kotlin's quickly becoming the default language for Android Development and being eyed with interest by those with investments in Java and looking for a more modern JVM language. 
+Kotlin's quickly becoming the default language for Android Development and being eyed with interest by those with investments in Java and looking for a more modern JVM language.
 
 In this how-to post, Dave Glover takes you through the end-to-end workflow for creating Kotlin Azure Functions with the new Maven Kotlin Azure Functions Archetype. You'll see how to do everything from setting up your dev environment and configuring your projects to debugging, adding various serverless Functions triggers, and deploying to Azure.
 
@@ -627,15 +628,13 @@ Tags: Azure CLI, Serverless, Azure Functions, Java, Kotlin
 [Read More](https://dev.to/azure/get-started-with-the-new-kotlin-azure-functions-archetype-and-intellij-idea-33h)
 
 Related Links:
-* [404 - Content Not Found : Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-maven-intellij,)
-* [404 - Content Not Found : Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-java,)
-* [404 - Sadržaj nije pronađen : Microsoft Docs](https://docs.microsoft.com/bs-latn-ba/azure/azure-functions/functions-bindings-register,)
-* [Maven Plugin for Azure Functions : Microsoft Docs](https://docs.microsoft.com/en-us/java/api/overview/azure/maven/azure-functions-maven-plugin/readme?view=azure-java-stable,)
+* [Create your first Azure function with Java and IntelliJ](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-maven-intellij)
+* [Azure Functions Java developer guide : Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-java)
+* [Register Azure Functions binding extensions : Microsoft Docs](https://docs.microsoft.com/bs-latn-ba/azure/azure-functions/functions-bindings-register)
+* [Maven Plugin for Azure Functions : Microsoft Docs](https://docs.microsoft.com/en-us/java/api/overview/azure/maven/azure-functions-maven-plugin/readme?view=azure-java-stable)
 * [Azure Toolkit for IntelliJ : Microsoft Docs](https://docs.microsoft.com/en-us/java/azure/intellij/azure-toolkit-for-intellij?view=azure-java-stable,)
 * [Installing the Azure Toolkit for IntelliJ : Microsoft Docs](https://docs.microsoft.com/en-us/java/azure/intellij/azure-toolkit-for-intellij-installation?view=azure-java-stable,)
 * [Overview of the Azure CLI : Microsoft Docs](https://docs.microsoft.com/cli/azure)
-* [404 - Content Not Found : Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local,)
-* [404 - Content Not Found : Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-http-webhook,)
 * [Maven Plugin for Azure Functions : Microsoft Docs](https://docs.microsoft.com/en-us/java/api/overview/azure/maven/azure-functions-maven-plugin/readme?view=azure-java-stable#azure-functionsadd,)
 * [Maven Plugin for Azure Functions : Microsoft Docs](https://docs.microsoft.com/en-us/java/api/overview/azure/maven/azure-functions-maven-plugin/readme?view=azure-java-stable#azure-functionsdeploy)
 
@@ -662,7 +661,7 @@ Related Links:
 
 **by: Thomas Maurer**
 
-With AzCopy v10, the team added a new function to sync folders with Azure Blob Storage. This is great if you have a local folder running on a server -- or even on a client device which you can to keep synchronized with Azure Blob storage. 
+With AzCopy v10, the team added a new function to sync folders with Azure Blob Storage. This is great if you have a local folder running on a server -- or even on a client device which you can to keep synchronized with Azure Blob storage.
 
 Thomas shares how to get started, including how to use the “–delete-destination” parameter to let AzCopy to automatically reconcile deleted files from your local folders and Azure Blob Storage account.
 
@@ -682,7 +681,7 @@ Related Links:
 
 In Part III, we covered scaling -- and now, we're ready to tackle how we scale *automatically.*
 
-Auto scaling is a great way to ensure that our apps are able to handle sudden increases in incoming requests, and Chris looks at why this is important and shows you how to get started with a hands-on lab. 
+Auto scaling is a great way to ensure that our apps are able to handle sudden increases in incoming requests, and Chris looks at why this is important and shows you how to get started with a hands-on lab.
 
 
 You'll learn how to set up autoscaling in kubectl, simulate an influx of incoming requests, inspect the results, and understand what to expect as your traffic normalizes across pods.
@@ -734,7 +733,9 @@ Related Links:
 * [Comparing gRPC services with HTTP APIs : Microsoft Docs](https://docs.microsoft.com/en-us/aspnet/core/grpc/comparison?view=aspnetcore-3.0&WT.mc_id=ondotnet-c9-cxa )
 
 
-## [JSConf EU Chat with Ashley Williams](https://www.youtube.com/watch?v=HQbWPCle12Y https://twitter.com/ryan_levick/status/1135963738358657024)
+## [JSConf EU Chat with Ashley Williams](https://www.youtube.com/watch?v=HQbWPCle12Y]
+
+[](https://twitter.com/ryan_levick/status/1135963738358657024)
 
 **by: Ryan Levick**
 
@@ -747,11 +748,11 @@ Tags: Web Assembly (WASM), Rust
 Related Links:
 
 
-## [JSConf EU Chat with Madeleine Neumann](https://www.youtube.com/watch?v=1gibI01fdZk https://twitter.com/ryan_levick/status/1135965127717662721)
+## [JSConf EU Chat with Madeleine Neumann](https://www.youtube.com/watch?v=1gibI01fdZk)
 
 **by: Ryan Levick**
 
-In this 4-minute mini-interview, Cloud Advocate Ryan Levick talks with Madeleine Neumann, organiser of PottJS meetup and RuhrJS conference. 
+In this 4-minute mini-interview, Cloud Advocate Ryan Levick talks with Madeleine Neumann, organiser of PottJS meetup and RuhrJS conference.
 
 Shot at JSConf.EU, Europe's largest JavaScript conference, the two tackle an apt topic: the JavaScript community (and why it's so awesome).
 
@@ -777,9 +778,7 @@ Tags: Azure Storage, JavaScript, Node.js, React, Azure Static Sites, Serverless,
 Related Links:
 * [Website deployment with Azure Storage](https://code.visualstudio.com/tutorials/static-website/getting-started?wt.mc_id=athensmeetup-event-jopapa)
 * [Azure Functions with Visual Studio Code](https://code.visualstudio.com/tutorials/functions-extension/getting-started?wt.mc_id=athensmeetup-event-jopapa)
-* [
-        Azure Tools - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack&wt.mc_id=athensmeetup-event-jopapa)
+* [Azure Tools - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack&wt.mc_id=athensmeetup-event-jopapa)
 
 
 ## [Azure Cloud Shell Tips for SysAdmins (bash)](https://dev.to/azure/azure-cloud-shell-tips-for-sysadmins-bash-4h2e)
@@ -806,7 +805,7 @@ Related Links:
 
 **by: Chris Noring**
 
-Five Things is back! 
+Five Things is back!
 
 We're back for Season 2, and this week, we're bringing you five tools for building APIs with GraphQL. You learn about Express, Apollo, Azure Functions serverless support, where to find sandboxes, and Chris picks whistles over bells (because of course he does).
 
@@ -838,12 +837,9 @@ Related Links:
 **by: Jay Gordon**
 
 1. oncall nightmares podcast interview with full stack dev of medstack
-2 podcast
-3 modern ops
+2. podcast
+3. modern ops
 
 Tags: DevOps, Advice
 
 [Read More](https://www.podomatic.com/podcasts/oncallnightmares/episodes/2019-06-06T06_35_11-07_00)
-
-Related Links:
-
