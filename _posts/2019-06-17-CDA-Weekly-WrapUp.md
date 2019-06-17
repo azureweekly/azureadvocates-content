@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CDA Weekly Content Wrapup (06/17/2019)
-subtitle: 
+subtitle:
 tags: [AI/ML, Advice, Open Source, Agnostic, .NET, .NET Core, C#, Azure, Xamarin.Forms, Xamarin, Visual Studio Tools for Xamarin, Azure Event Grid, F#, Azure Event Hubs, Azure CosmosDB, .NET Core, Azure Functions, Azure IoT Hub, Azure App Service, Azure Table Storage, IoT, Security, AppSec, Azure Pipelines, Containers, Azure Container Instances, Azure Logic Apps, JavaScript, Node.js, Azure Bot Service, Azure Cognitive Service LUIS, Linux, Docker, Azure IoT Edge, VS Code, VS Code Marketplace, Spring, Serverless, Java, Web Development, Azure Machine Learning, Azure Cognitive Services, Azure Cognitive Services Speech API, Visual Studio App Center, Developer Relations General, MS Learn, Azure Generation 2 Virtual Machine, VMs, Hyper-V, Startups, DevOps, DevSecOps, Kubernetes, Azure Kubernetes Service, TensorFlow, ethical IT, Python, Visual Studio, Azure Cognitive Services Computer Vision API, Azure Cognitive Services Bing Search API, .NET Standard 2.0, Azure Security Center, Azure DevOps Services, Identity Management]
 ---
 
@@ -23,7 +23,7 @@ Tags: AI/ML
 
 This is a quick guide for first-time contributors and people who want to start helping on open source projects.
 
-Read this article to learn how to identify a project you want to work on, fork it, clone it and install dependencies, fix an issue, make a commit to push your changes, and send a Pull Request to project maintainers. 
+Read this article to learn how to identify a project you want to work on, fork it, clone it and install dependencies, fix an issue, make a commit to push your changes, and send a Pull Request to project maintainers.
 
 Wassim includes various ways to get started and addresses common new contributor questions, giving you the confidence you need to apply *your* strengths and improve the community.
 
@@ -74,78 +74,8 @@ Related Links:
 * [Microsoft Learn : Microsoft Docs](https://docs.microsoft.com/en-us/learn/?WT.mc_id=xamarinpodcast62-podcast-masoucou)
 * [Azure Cloud Shell features : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cloud-shell/features?WT.mc_id=xamarinpodcast62-podcast-masoucou)
 * [Publish and subscribe to application events - Azure Event Grid : Microsoft Docs](https://docs.microsoft.com/en-us/azure/event-grid/overview?WT.mc_id=xamarinpodcast62-podcast-masoucou)
-* [Create your Azure free account today : Microsoft Azure](https://azure.microsoft.com/en-us/free/?WT.mc_id=xamarinpodcast62-podcast-masoucou
 
-https://devblogs.microsoft.com/xamarin/introducing-xamarin-forms-4-0-the-era-of-shell/?WT.mc_id=xamarinpodcast62-podcast-masoucou
-
-https://devblogs.microsoft.com/xamarin/shell-xamarin-forms-4-0-getting-started/?WT.mc_id=xamarinpodcast62-podcast-masoucou
-
-https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/shell/introduction?WT.mc_id=xamarinpodcast62-podcast-masoucou
-
-https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/shell/navigation?WT.mc_id=xamarinpodcast62-podcast-masoucou
-
-https://docs.microsoft.com/en-us/xamarin/xamarin-forms/internals/fast-renderers?WT.mc_id=xamarinpodcast62-podcast-masoucou
-
-https://docs.microsoft.com/en-us/dotnet/api/Xamarin.Forms.ImageSource?WT.mc_id=xamarinpodcast62-podcast-masoucou)
-* [view=xamarin-forms
-
-https://devblogs.microsoft.com/xamarin/checkbox-xamarin-forms-4-1-0-pre-release/?WT.mc_id=xamarinpodcast62-podcast-masoucou
-
-https://devblogs.microsoft.com/xamarin/64-bit-requirements-xamarin-android-apps/?WT.mc_id=xamarinpodcast62-podcast-masoucou
-
-https://docs.microsoft.com/en-us/xamarin/android/deploy-test/multicore-devices?WT.mc_id=xamarinpodcast62-podcast-masoucou
-
-https://devblogs.microsoft.com/xamarin/cleartext-http-android-network-security/?WT.mc_id=xamarinpodcast62-podcast-masoucou
-
-https://docs.microsoft.com/en-us/learn/?WT.mc_id=xamarinpodcast62-podcast-masoucou
-
-https://docs.microsoft.com/en-us/azure/cloud-shell/features?WT.mc_id=xamarinpodcast62-podcast-masoucou
-
-https://docs.microsoft.com/en-us/azure/event-grid/overview?WT.mc_id=xamarinpodcast62-podcast-masoucou](view=xamarin-forms
-
-https://devblogs.microsoft.com/xamarin/checkbox-xamarin-forms-4-1-0-pre-release/?WT.mc_id=xamarinpodcast62-podcast-masoucou
-
-https://devblogs.microsoft.com/xamarin/64-bit-requirements-xamarin-android-apps/?WT.mc_id=xamarinpodcast62-podcast-masoucou
-
-https://docs.microsoft.com/en-us/xamarin/android/deploy-test/multicore-devices?WT.mc_id=xamarinpodcast62-podcast-masoucou
-
-https://devblogs.microsoft.com/xamarin/cleartext-http-android-network-security/?WT.mc_id=xamarinpodcast62-podcast-masoucou
-
-https://docs.microsoft.com/en-us/learn/?WT.mc_id=xamarinpodcast62-podcast-masoucou
-
-https://docs.microsoft.com/en-us/azure/cloud-shell/features?WT.mc_id=xamarinpodcast62-podcast-masoucou
-
-https://docs.microsoft.com/en-us/azure/event-grid/overview?WT.mc_id=xamarinpodcast62-podcast-masoucou)
-* [Create your Azure free account today : Microsoft Azure](https://azure.microsoft.com/en-us/free/?WT.mc_id=xamarinpodcast62-podcast-masoucou
-
-https://devblogs.microsoft.com/xamarin/introducing-xamarin-forms-4-0-the-era-of-shell/?WT.mc_id=xamarinpodcast62-podcast-masoucou
-
-https://devblogs.microsoft.com/xamarin/shell-xamarin-forms-4-0-getting-started/?WT.mc_id=xamarinpodcast62-podcast-masoucou
-
-https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/shell/introduction?WT.mc_id=xamarinpodcast62-podcast-masoucou
-
-https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/shell/navigation?WT.mc_id=xamarinpodcast62-podcast-masoucou
-
-https://docs.microsoft.com/en-us/xamarin/xamarin-forms/internals/fast-renderers?WT.mc_id=xamarinpodcast62-podcast-masoucou
-
-https://docs.microsoft.com/en-us/dotnet/api/Xamarin.Forms.ImageSource?WT.mc_id=xamarinpodcast62-podcast-masoucou&view=xamarin-forms
-
-https://devblogs.microsoft.com/xamarin/checkbox-xamarin-forms-4-1-0-pre-release/?WT.mc_id=xamarinpodcast62-podcast-masoucou
-
-https://devblogs.microsoft.com/xamarin/64-bit-requirements-xamarin-android-apps/?WT.mc_id=xamarinpodcast62-podcast-masoucou
-
-https://docs.microsoft.com/en-us/xamarin/android/deploy-test/multicore-devices?WT.mc_id=xamarinpodcast62-podcast-masoucou
-
-https://devblogs.microsoft.com/xamarin/cleartext-http-android-network-security/?WT.mc_id=xamarinpodcast62-podcast-masoucou
-
-https://docs.microsoft.com/en-us/learn/?WT.mc_id=xamarinpodcast62-podcast-masoucou
-
-https://docs.microsoft.com/en-us/azure/cloud-shell/features?WT.mc_id=xamarinpodcast62-podcast-masoucou
-
-https://docs.microsoft.com/en-us/azure/event-grid/overview?WT.mc_id=xamarinpodcast62-podcast-masoucou)
-
-
-## [Home Grown IoT Part II - Solution Design](https://dev.to/azure/home-grown-iot-solution-design-io5 & https://www.aaron-powell.com/posts/2019-06-05-home-grown-iot-solution-design/)
+## [Home Grown IoT Part II - Solution Design](https://dev.to/azure/home-grown-iot-solution-design-io5)
 
 **by: Aaron Powell**
 
@@ -155,48 +85,14 @@ If you're curious about getting started with IoT, get ready to learn about Azure
 
 Tags: F#, Azure Event Hubs, Azure CosmosDB, .NET Core, Azure Functions, Azure IoT Hub, Azure App Service, Azure Table Storage
 
-[Read More](https://dev.to/azure/home-grown-iot-solution-design-io5 & https://www.aaron-powell.com/posts/2019-06-05-home-grown-iot-solution-design/)
+[Read More](https://dev.to/azure/home-grown-iot-solution-design-io5]
 
 Related Links:
-* [404 - Not Found](https://azure.microsoft.com/en-us/services/functions/,)
 * [Table storage : Microsoft Azure](https://azure.microsoft.com/en-us/services/storage/tables/)
-* [404 - Not Found](https://azure.microsoft.com/en-us/services/app-service/,)
-* [404 - Content Not Found : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cosmos-db/introduction,)
 * [Supported languages in Azure Functions : Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-functions/supported-languages#languages-in-runtime-1x-and-2x,)
-* [404 - Content Not Found : Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-http-webhook,)
 * [Docker images for ASP.NET Core : Microsoft Docs](https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/docker/building-net-docker-images?view=aspnetcore-2.2,)
-* [404 - Content Not Found : Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-function-linux-custom-image,)
-* [404 - Not Found](https://azure.microsoft.com/en-us/services/iot-hub/,)
-* [404 - Content Not Found : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-compare-event-hubs,)
-* [404 - Content Not Found : Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-iot,)
-* [404 - Content Not Found : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-hub/tutorial-routing,)
-* [404 - Content Not Found : Microsoft Docs](https://docs.microsoft.com/en-us/azure/event-hubs/,)
-* [404 - Content Not Found : Microsoft Docs](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-queues-topics-subscriptions,)
-* [404 - Content Not Found : Microsoft Docs](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction,)
-* [404 – Content not found : Microsoft Docs](https://docs.microsoft.com/en-gb/azure/iot-hub/iot-hub-devguide-routing-query-syntax,)
-* [404 - Content Not Found : Microsoft Docs](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-features,)
 * [Azure Event Hubs bindings for Azure Functions : Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-hubs)
-* [Bad Request](https://azure.microsoft.com/en-us/services/functions/,
-https://azure.microsoft.com/en-us/services/storage/tables/
-https://azure.microsoft.com/en-us/services/app-service/,
-https://docs.microsoft.com/en-us/azure/cosmos-db/introduction,
-https://docs.microsoft.com/en-us/azure/azure-functions/supported-languages#languages-in-runtime-1x-and-2x,
-https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-http-webhook,
-https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/docker/building-net-docker-images?view=aspnetcore-2.2,
-https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-function-linux-custom-image,
-https://azure.microsoft.com/en-us/services/iot-hub/,
-https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-compare-event-hubs,
-https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-iot,
-https://docs.microsoft.com/en-us/azure/iot-hub/tutorial-routing,
-https://docs.microsoft.com/en-us/azure/event-hubs/,
-https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-queues-topics-subscriptions,
-https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction,
-https://docs.microsoft.com/en-gb/azure/iot-hub/iot-hub-devguide-routing-query-syntax,
-https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-features,
-https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-hubs)
 * [Azure Functions—Develop Faster With Serverless Compute : Microsoft Azure](https://azure.microsoft.com/en-us/services/functions/)
-* [Bad Request](https://azure.microsoft.com/en-us/services/storage/tables/
-https://azure.microsoft.com/en-us/services/app-service/)
 * [Introduction to Azure Cosmos DB : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cosmos-db/introduction)
 * [Supported languages in Azure Functions : Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-functions/supported-languages#languages-in-runtime-1x-and-2x)
 * [Azure Functions HTTP triggers and bindings : Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-http-webhook)
@@ -213,15 +109,15 @@ https://azure.microsoft.com/en-us/services/app-service/)
 * [Overview of features - Azure Event Hubs : Microsoft Docs](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-features)
 
 
-## [Home Grown IoT Part III- Data](https://www.aaron-powell.com/posts/2019-06-07-home-grown-iot-data/ & https://dev.to/azure/home-grown-iot-data-g18)
+## [Home Grown IoT Part III- Data](https://www.aaron-powell.com/posts/2019-06-07-home-grown-iot-data/]
 
 **by: Aaron Powell**
 
 Data is often a cornerstone of an IoT project - and ensuring you store it in the right way dramatically impacts your end result.  jump to choosing the right database type and then determine how to work your application into it.
 
-Instead of jumping straight to choosing your database type and making your app fit into it, Aaron encourages you to flip the direction: start by thinking about what data you're collecting, what you want to *do* with it >> find the best fit for your end goal. 
+Instead of jumping straight to choosing your database type and making your app fit into it, Aaron encourages you to flip the direction: start by thinking about what data you're collecting, what you want to *do* with it >> find the best fit for your end goal.
 
-In his project, he receives three data sets labels for each monitored sensors, values from each monitored sensor, and the power his solar energy system generates (in five minute increments). 
+In his project, he receives three data sets labels for each monitored sensors, values from each monitored sensor, and the power his solar energy system generates (in five minute increments).
 
 You'll learn how he weighed his options and selected Azure Table Storage, plus how he structured his data to achieve what he's after with his final project.
 
@@ -230,22 +126,11 @@ Tags: F#, IoT, Azure Table Storage
 [Read More](https://www.aaron-powell.com/posts/2019-06-07-home-grown-iot-data/ & https://dev.to/azure/home-grown-iot-data-g18)
 
 Related Links:
-* [404 - Not Found](https://azure.microsoft.com/en-us/services/time-series-insights/,)
-* [404 - Not Found](https://azure.microsoft.com/en-us/services/machine-learning-service/,)
-* [404 - Not Found](https://azure.microsoft.com/en-us/services/stream-analytics/,)
-* [404 - Not Found](https://azure.microsoft.com/en-us/services/power-bi-embedded/,)
-* [404 - Content Not Found : Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/records,)
-* [Bad Request](https://azure.microsoft.com/en-us/services/time-series-insights/,
-https://azure.microsoft.com/en-us/services/machine-learning-service/,
-https://azure.microsoft.com/en-us/services/stream-analytics/,
-https://azure.microsoft.com/en-us/services/power-bi-embedded/,
-https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/records,)
 * [Time Series Insights : Microsoft Azure](https://azure.microsoft.com/en-us/services/time-series-insights/)
 * [Machine Learning Service : Microsoft Azure](https://azure.microsoft.com/en-us/services/machine-learning-service/)
 * [Stream Analytics - Real-time data analytics : Microsoft Azure](https://azure.microsoft.com/en-us/services/stream-analytics/)
 * [Power BI Embedded analytics : Microsoft Azure](https://azure.microsoft.com/en-us/services/power-bi-embedded/)
 * [Records - F# : Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/records)
-
 
 ## [Train the Trainer - Pushing Left, Like a Boss Talk](https://github.com/shehackspurple/TTT-Pushing-Left)
 
@@ -258,7 +143,6 @@ Tanya Janca's "Pushing Left Like a Boss" talk focuses on how and why to weave se
 Tags: Security, AppSec
 
 [Read More](https://github.com/shehackspurple/TTT-Pushing-Left)
-
 
 
 ## [Sharing Talks with the InfoSec & IT Community and Industry](https://dev.to/azure/sharing-talks-with-the-infosec-it-community-and-industry-4l66)
@@ -344,20 +228,14 @@ Related Links:
 * [Microsoft Azure Cloud Computing Platform &amp; Services](https://azure.microsoft.com/en-us/?WT.mc_id=spring-boot-azure-functions-blog-judubois)
 * [Azure Functions Premium plan (preview) : Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-functions/functions-premium-plan?WT.mc_id=spring-boot-azure-functions-blog-judubois)
 * [Pricing - Functions : Microsoft Azure](https://azure.microsoft.com/is-is/pricing/details/functions/?WT.mc_id=spring-boot-azure-functions-blog-judubois)
-* [Azure Functions Documentation - Tutorials : Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-functions/?WT.mc_id=spring-boot-azure-functions-blog-judubois
-
-https://azure.microsoft.com/en-us/?WT.mc_id=spring-boot-azure-functions-blog-judubois
-
-https://docs.microsoft.com/en-us/azure/azure-functions/functions-premium-plan?WT.mc_id=spring-boot-azure-functions-blog-judubois
-
-https://azure.microsoft.com/is-is/pricing/details/functions/?WT.mc_id=spring-boot-azure-functions-blog-judubois)
+* [Azure Functions Documentation - Tutorials : Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-functions/?WT.mc_id=spring-boot-azure-functions-blog-judubois]
 
 
 ## [AI Resources Repository](https://github.com/Yonet/AIResources)
 
 **by: Aysegul Yonet**
 
-A collection of resources and code samples for learning AI using Azure Cognitive Services and Azure Machine Learning. 
+A collection of resources and code samples for learning AI using Azure Cognitive Services and Azure Machine Learning.
 
 This repo contains frameworks, databases, blogs and learning paths for you to utilize.
 
@@ -366,19 +244,14 @@ Tags: Azure Machine Learning, Azure Cognitive Services, Azure Cognitive Services
 [Read More](https://github.com/Yonet/AIResources)
 
 Related Links:
-* [Azure Cognitive Services Documentation : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/?WT.mc_id=airesources-github-ayyonet; https://docs.microsoft.com/en-us/azure/machine-learning/?WT.mc_id=airesources-github-ayyonet; https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/?WT.mc_id=airesources-github-ayyonet; https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/?WT.mc_id=airesources-github-ayyonet; https://aischool.microsoft.com/en-us/services/learning-paths; https://labs.cognitive.microsoft.com/?WT.mc_id=airesources-github-ayyonet; https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/data-science-and-machine-learning?toc=https%3A%2F%2Fdocs.microsoft.com%2Fen-gb%2Fazure%2Fmachine-learning%2Ftoc.json&bc=https%3A%2F%2Fdocs.microsoft.com%2Fen-gb%2Fazure%2Fbread%2Ftoc.json&WT.mc_id=docs-twitter-ayyonet&WT.mc_id=airesources-github-ayyonet#windows-ml; https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/data-science-and-machine-learning?toc=https%3A%2F%2Fdocs.microsoft.com%2Fen-gb%2Fazure%2Fmachine-learning%2Ftoc.json&bc=https%3A%2F%2Fdocs.microsoft.com%2Fen-gb%2Fazure%2Fbread%2Ftoc.json&WT.mc_id=airesources-github-ayyonet#mlnet)
-* [Azure Cognitive Services Documentation : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/?WT.mc_id=airesources-github-ayyonet; https://docs.microsoft.com/en-us/azure/machine-learning/?WT.mc_id=airesources-github-ayyonet; https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/?WT.mc_id=airesources-github-ayyonet; https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/?WT.mc_id=airesources-github-ayyonet; https://aischool.microsoft.com/en-us/services/learning-paths; https://labs.cognitive.microsoft.com/?WT.mc_id=airesources-github-ayyonet; https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/data-science-and-machine-learning?toc=https%3A%2F%2Fdocs.microsoft.com%2Fen-gb%2Fazure%2Fmachine-learning%2Ftoc.json)
-* [bc=https%3A%2F%2Fdocs.microsoft.com%2Fen-gb%2Fazure%2Fbread%2Ftoc.json](bc=https%3A%2F%2Fdocs.microsoft.com%2Fen-gb%2Fazure%2Fbread%2Ftoc.json)
-* [WT.mc_id=docs-twitter-ayyonet](WT.mc_id=docs-twitter-ayyonet)
-* [WT.mc_id=airesources-github-ayyonet#windows-ml; https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/data-science-and-machine-learning?toc=https%3A%2F%2Fdocs.microsoft.com%2Fen-gb%2Fazure%2Fmachine-learning%2Ftoc.json](WT.mc_id=airesources-github-ayyonet#windows-ml; https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/data-science-and-machine-learning?toc=https%3A%2F%2Fdocs.microsoft.com%2Fen-gb%2Fazure%2Fmachine-learning%2Ftoc.json)
-* [WT.mc_id=airesources-github-ayyonet#mlnet](WT.mc_id=airesources-github-ayyonet#mlnet)
-
+* [Azure Cognitive Services Documentation : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/?WT.mc_id=airesources-github-ayyonet)
+* [Azure Cognitive Services Documentation : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/?WT.mc_id=airesources-github-ayyonet)
 
 ## [Schedule Recurring Builds in App Center](https://www.codetraveler.io/2019/06/06/scheduling-app-center-builds/)
 
 **by: Brandon Minnick**
 
-App Center Build offers a continuous integration solution for iOS, Android, and UWP apps that will trigger each time we commit code to our repository. 
+App Center Build offers a continuous integration solution for iOS, Android, and UWP apps that will trigger each time we commit code to our repository.
 
 In this walkthrough, you'll see how to setup scheduled builds, using App Center APIs and Azure Timer Function to trigger a build every night.
 
@@ -387,7 +260,7 @@ Tags: Visual Studio App Center, Azure Functions
 [Read More](https://www.codetraveler.io/2019/06/06/scheduling-app-center-builds/)
 
 Related Links:
-* [Visual Studio App Center : iOS, Android, Xamarin & React Native](https://appcenter.ms/?WT.mc_id=appcenterbuilds-codetraveler-bramin; https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-timer?WT.mc_id=appcenterbuilds-codetraveler-bramin; https://ms.portal.azure.com/?WT.mc_id=appcenterbuilds-codetraveler-bramin#home; https://appcenter.ms/?WT.mc_id=appcenterbuilds-codetraveler-bramin; https://docs.microsoft.com/en-us/appcenter/api-docs/?WT.mc_id=appcenterbuilds-codetraveler-bramin; https://docs.microsoft.com/en-us/appcenter/build/?WT.mc_id=appcenterbuilds-codetraveler-bramin)
+* [Visual Studio App Center : iOS, Android, Xamarin & React Native](https://appcenter.ms/?WT.mc_id=appcenterbuilds-codetraveler-bramin)
 
 
 ## [The New Stack Makers: Microsoft’s Chloe Condon on All Things Developer Advocacy](https://thenewstack.io/microsofts-chloe-condon-on-all-things-developer-advocacy/)
@@ -410,7 +283,7 @@ Related Links:
 
 **by: Thomas Maurer**
 
-Microsoft recently announced the public preview of Generation 2 Virtual Machines on Azure. 
+Microsoft recently announced the public preview of Generation 2 Virtual Machines on Azure.
 
 Generation 2 Virtual Machines add support for a lot of new technologies, like increased memory, Intel Software Guard Extensions (SGX), and virtual persistent memory (vPMEM) -- and Thomas shows the advantages of Azure Generation 2 Virtual Machines in Azure IaaS.
 
@@ -430,24 +303,13 @@ Related Links:
 * [Azure Windows VM sizes - previous generations : Microsoft Docs](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-previous-gen?WT.mc_id=thomasmaurer-blog-thmaure#ls-series)
 * [Azure Windows VM sizes - Storage : Microsoft Docs](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-storage?WT.mc_id=thomasmaurer-blog-thmaure#lsv2-series)
 * [Azure VM sizes for Windows - Memory : Microsoft Docs](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-memory?WT.mc_id=thomasmaurer-blog-thmaure#mv2-series)
-* [Should I create a generation 1 or 2 virtual machine in Hyper-V? : Microsoft Docs](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/plan/should-i-create-a-generation-1-or-2-virtual-machine-in-hyper-v?WT.mc_id=thomasmaurer-blog-thmaure
-https://azure.microsoft.com/en-in/updates/azure-site-recovery-updates-support-for-gen2-vms-networking-enhancements-and-larger-operating-system-drives/?WT.mc_id=thomasmaurer-blog-thmaure
-https://docs.microsoft.com/en-us/azure/virtual-machines/windows/generation-2?WT.mc_id=thomasmaurer-blog-thmaure
-https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-general?WT.mc_id=thomasmaurer-blog-thmaure#dsv2-series
-https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-general?WT.mc_id=thomasmaurer-blog-thmaure#dsv3-series-1
-https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-memory?WT.mc_id=thomasmaurer-blog-thmaure#esv3-series
-https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-compute?WT.mc_id=thomasmaurer-blog-thmaure#fsv2-series-1
-https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-memory?WT.mc_id=thomasmaurer-blog-thmaure#gs-series
-https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-previous-gen?WT.mc_id=thomasmaurer-blog-thmaure#ls-series
-https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-storage?WT.mc_id=thomasmaurer-blog-thmaure#lsv2-series
-https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-memory?WT.mc_id=thomasmaurer-blog-thmaure#mv2-series)
-
+* [Should I create a generation 1 or 2 virtual machine in Hyper-V? : Microsoft Docs](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/plan/should-i-create-a-generation-1-or-2-virtual-machine-in-hyper-v?WT.mc_id=thomasmaurer-blog-thmaure)
 
 ## [#CreateStartups SF, London and Tel-Aviv](https://www.linkedin.com/pulse/createstartups-sf-london-tel-aviv-nitya-narasimhan)
 
 **by: Nitya Narasimhan**
 
-The #CreateStartups Tour is entering the last leg in June, with stops in San Francisco, London and Tel-Aviv. In this article, Nitya provides some perspective on what the tour is about and why it matters to entrepreneurs and technologists alike.  
+The #CreateStartups Tour is entering the last leg in June, with stops in San Francisco, London and Tel-Aviv. In this article, Nitya provides some perspective on what the tour is about and why it matters to entrepreneurs and technologists alike.
 
 In particular, the article includes a sketch-note of the "Building Your Technology Roadmap" from Duncan Davidson - which provides a high-level overview of the technology choices facing startups looking to scale, and sets up tech talks from key Cloud Advocates on topics like Governance, Resilience and AI/ML.
 
@@ -465,7 +327,7 @@ Tanya Janca, also known as SheHacksPurple, is a senior cloud advocate for Micros
 
 Tags: DevSecOps
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PWJuggJsJyo&feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PWJuggJsJyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -485,7 +347,7 @@ Tags: AppSec
 
 **by: Yoshio Terada**
 
-Yoshio cautions developers against  creating max node sizes on Kubernetes clusters, listing the top reasons why - from wider impact to more microservices at once to increased upgrade times, and additional maintenance. 
+Yoshio cautions developers against  creating max node sizes on Kubernetes clusters, listing the top reasons why - from wider impact to more microservices at once to increased upgrade times, and additional maintenance.
 
 He recommends what to do instead, as well as resources to learn more.
 
@@ -496,8 +358,7 @@ Tags: Kubernetes, Azure Kubernetes Service
 Related Links:
 * [Quotas, SKUs, and region availability in Azure Kubernetes Service (AKS) : Microsoft Docs](https://docs.microsoft.com/en-us/azure/aks/quotas-skus-regions?WT.mc_id=devto-blog-yoterada)
 * [Azure Kubernetes Service: Kubernetes 1.9 end-of-life notice : Azure updates : Microsoft Azure](https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-kubernetes-1-9-end-of-life-notice/?WT.mc_id=devto-blog-yoterada)
-* [Quotas, SKUs, and region availability in Azure Kubernetes Service (AKS) : Microsoft Docs](https://docs.microsoft.com/en-us/azure/aks/quotas-skus-regions?WT.mc_id=devto-blog-yoterada 
-https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-kubernetes-1-9-end-of-life-notice/?WT.mc_id=devto-blog-yoterada)
+* [Quotas, SKUs, and region availability in Azure Kubernetes Service (AKS) : Microsoft Docs](https://docs.microsoft.com/en-us/azure/aks/quotas-skus-regions?WT.mc_id=devto-blog-yoterada)
 
 
 ## [Taking Advantage of AI Easily with Azure Cognitive Services](https://galasoft.ch/presentations/details/2019013)
@@ -517,23 +378,14 @@ Related Links:
 * [Microsoft Learn : Microsoft Docs](https://docs.microsoft.com/en-us/learn/?WT.mc_id=devsum19-slides-lbugnion)
 * [Create your Azure free account today : Microsoft Azure](https://azure.microsoft.com/en-us/free/?WT.mc_id=devsum19-slides-lbugnion)
 * [Azure for Education : Microsoft Azure](https://azure.microsoft.com/en-us/education/?WT.mc_id=devsum19-slides-lbugnion)
-* [Getting started with Azure Cognitive Services in containers : Blog : Microsoft Azure](https://azure.microsoft.com/en-us/blog/getting-started-with-azure-cognitive-services-in-containers/?WT.mc_id=devsum19-slides-lbugnion 
-
-https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/export-your-model?WT.mc_id=devsum19-slides-lbugnion  
-https://docs.microsoft.com/en-us/azure/cognitive-services/?WT.mc_id=devsum19-slides-lbugnion 
-
-https://docs.microsoft.com/en-us/learn/?WT.mc_id=devsum19-slides-lbugnion  
-
-https://azure.microsoft.com/en-us/free/?WT.mc_id=devsum19-slides-lbugnion  
-
-https://azure.microsoft.com/en-us/education/?WT.mc_id=devsum19-slides-lbugnion)
+* [Getting started with Azure Cognitive Services in containers : Blog : Microsoft Azure](https://azure.microsoft.com/en-us/blog/getting-started-with-azure-cognitive-services-in-containers/?WT.mc_id=devsum19-slides-lbugnion)
 
 
 ## [The Ethical Implications and Risks of AI and Deep Learning](https://galasoft.ch/presentations/details/2019018)
 
 **by: Laurent Bugnion**
 
-There is no question that Artificial Intelligence and Deep Learning will play an important role in the future (and the present!) of humanity. Taking advantage of faster and faster computers, larger and larger databases, we are able to run very complex algorithms against humongous amounts of data. This allows the creation of tools that can help us in complex areas of our lives. From autonomous vehicles to image and speech recognition, from assisting impaired humans to saving lives in critical situations, from inspecting industrial installations to sending machines in deep space or deep waters, the possibilities are amazing. But this power comes with big responsibilities. How do we take steps to minimize flaws in the data we use for our models? How do we build machines that act for the greater good? What are the risks? 
+There is no question that Artificial Intelligence and Deep Learning will play an important role in the future (and the present!) of humanity. Taking advantage of faster and faster computers, larger and larger databases, we are able to run very complex algorithms against humongous amounts of data. This allows the creation of tools that can help us in complex areas of our lives. From autonomous vehicles to image and speech recognition, from assisting impaired humans to saving lives in critical situations, from inspecting industrial installations to sending machines in deep space or deep waters, the possibilities are amazing. But this power comes with big responsibilities. How do we take steps to minimize flaws in the data we use for our models? How do we build machines that act for the greater good? What are the risks?
 
 In this session, Laurent will talk about what could happen, and what we can do to prevent it.
 
@@ -552,9 +404,9 @@ https://www.microsoft.com/en-us/research/group/fate/?WT.mc_id=dotnetday19-slides
 
 **by: Laurent Bugnion**
 
-This talk introduces Deep Learning, including why and how it differs from Artificial Intelligence. 
+This talk introduces Deep Learning, including why and how it differs from Artificial Intelligence.
 
-Laurent covers the deep learning model development process, the math behind the modeling process, and ends with reminders about bias and ethics in model development. 
+Laurent covers the deep learning model development process, the math behind the modeling process, and ends with reminders about bias and ethics in model development.
 
 His slides and code samples give you the tools you need to get started with deep learning, Pytorch, and Azure Cognitive Services.
 
@@ -564,14 +416,9 @@ Tags: Python, AI/ML, Azure Cognitive Services, MS Learn
 
 Related Links:
 * [Introduction to machine learning with Python and Azure Notebooks - Learn : Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/intro-to-ml-with-python/?WT.mc_id=itcamp19-slides-lbugnion)
-* [;](;)
 * [Build AI solutions with Azure Machine Learning service - Learn : Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/build-ai-solutions-with-azure-ml-service/?WT.mc_id=itcamp19-slides-lbugnion)
 * [Use Azure Machine Learning Services in Azure Notebooks : Microsoft Docs](https://docs.microsoft.com/en-us/azure/notebooks/use-machine-learning-services-jupyter-notebooks?WT.mc_id=itcamp19-slides-lbugnion)
-* [Introduction to machine learning with Python and Azure Notebooks - Learn : Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/intro-to-ml-with-python/?WT.mc_id=itcamp19-slides-lbugnion
-;
-https://docs.microsoft.com/en-us/learn/paths/build-ai-solutions-with-azure-ml-service/?WT.mc_id=itcamp19-slides-lbugnion
-;
-https://docs.microsoft.com/en-us/azure/notebooks/use-machine-learning-services-jupyter-notebooks?WT.mc_id=itcamp19-slides-lbugnion)
+* [Introduction to machine learning with Python and Azure Notebooks - Learn : Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/intro-to-ml-with-python/?WT.mc_id=itcamp19-slides-lbugnion)
 
 
 ## [Fast Focus: Serverless Computing - Azure Functions and Xamarin in 20 Minutes](https://galasoft.ch/presentations/details/2019023)
@@ -587,19 +434,17 @@ Tags: .NET, .NET Core, C#, Xamarin.Forms, Visual Studio, Serverless, Xamarin, Az
 [Read More](https://galasoft.ch/presentations/details/2019023)
 
 Related Links:
-* [Implementing a simple Azure Function with a Xamarin.Forms client : Microsoft Azure](https://azure.microsoft.com/en-us/resources/samples/functions-xamarin-getting-started/?WT.mc_id=vsliveboston19-slides-lbugnion https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-your-first-function-visual-studio?WT.mc_id=vsliveboston19-slides-lbugnion)
+* [Implementing a simple Azure Function with a Xamarin.Forms client : Microsoft Azure](https://azure.microsoft.com/en-us/resources/samples/functions-xamarin-getting-started/?WT.mc_id=vsliveboston19-slides-lbugnion)
 * [Create your first function from the Azure portal : Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-azure-function?WT.mc_id=vsliveboston19-slides-lbugnion)
 * [Azure Functions Overview : Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview?WT.mc_id=vsliveboston19-slides-lbugnion)
-* [Implementing a simple Azure Function with a Xamarin.Forms client : Microsoft Azure](https://azure.microsoft.com/en-us/resources/samples/functions-xamarin-getting-started/?WT.mc_id=vsliveboston19-slides-lbugnion https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-your-first-function-visual-studio?WT.mc_id=vsliveboston19-slides-lbugnion
-https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-azure-function?WT.mc_id=vsliveboston19-slides-lbugnion
-https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview?WT.mc_id=vsliveboston19-slides-lbugnion)
+* [Implementing a simple Azure Function with a Xamarin.Forms client : Microsoft Azure](https://azure.microsoft.com/en-us/resources/samples/functions-xamarin-getting-started/?WT.mc_id=vsliveboston19-slides-lbugnion)
 
 
 ## [Taking Advantage of AI Easily with Azure Cognitive Services](https://galasoft.ch/presentations/details/2019021)
 
 **by: Laurent Bugnion**
 
-In this session, Laurent shows you how you can use Azure Cognitive Services to enhance your apps with advanced capabilities. 
+In this session, Laurent shows you how you can use Azure Cognitive Services to enhance your apps with advanced capabilities.
 
 You'll learn how to train models with your own data and how you can integrate Cognitive Services with other Azure services to automate tasks.
 
@@ -617,24 +462,16 @@ Related Links:
 * [GitHub - microsoft/Cognitive-Samples-IntelligentKiosk: Welcome to the Intelligent Kiosk Sample! Here you will find several demos showcasing workflows and experiences built on top of the Microsoft Cognitive Services.](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk/)
 * [Create your Azure free account today : Microsoft Azure](https://azure.microsoft.com/en-us/free/?WT.mc_id=vsliveboston19-slides-lbugnion)
 * [Azure for Education : Microsoft Azure](https://azure.microsoft.com/en-us/education/?WT.mc_id=vsliveboston19-slides-lbugnion)
-* [Export your model to mobile - Custom Vision Service : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/export-your-model?WT.mc_id=vsliveboston19-slides-lbugnion
-https://azure.microsoft.com/en-us/blog/getting-started-with-azure-cognitive-services-in-containers/?WT.mc_id=vsliveboston19-slides-lbugnion
-https://docs.microsoft.com/en-us/azure/cognitive-services/?WT.mc_id=vsliveboston19-slides-lbugnion
-https://docs.microsoft.com/en-us/learn/?WT.mc_id=vsliveboston19-slides-lbugnion
-https://docs.microsoft.com/en-us/azure/cognitive-services/Welcome?WT.mc_id=vsliveboston19-slides-lbugnion
-https://azure.microsoft.com/en-us/services/cognitive-services/
-https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk/
-https://azure.microsoft.com/en-us/free/?WT.mc_id=vsliveboston19-slides-lbugnion
-https://azure.microsoft.com/en-us/education/?WT.mc_id=vsliveboston19-slides-lbugnion)
+* [Export your model to mobile - Custom Vision Service : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/export-your-model?WT.mc_id=vsliveboston19-slides-lbugnion)
 
 
 ## [.NET Standard, .NET Core, Why and How?](https://galasoft.ch/presentations/details/2019022)
 
 **by: Laurent Bugnion**
 
-In this session, Laurent shares how and why .NET Standard can benefit you. 
+In this session, Laurent shares how and why .NET Standard can benefit you.
 
-You'll learn a bit about the history of .NET, then dive into ASP.NET Core and see how you containerize and deploy your web applications to Linux on Azure. 
+You'll learn a bit about the history of .NET, then dive into ASP.NET Core and see how you containerize and deploy your web applications to Linux on Azure.
 
 Laurent also covers what .NET Core 3 means for enterprise application frameworks, such as Windows Forms and Windows Presentation Foundation -- as well as his experiences converting his open source framework to .NET Standard.
 
@@ -647,26 +484,21 @@ Related Links:
 * [.NET Standard : Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/net-standard?WT.mc_id=vsliveboston19-slides-lbugnion)
 * [Create ASP.NET Core app on Linux - Azure App Service : Microsoft Docs](https://docs.microsoft.com/en-us/azure/app-service/containers/quickstart-dotnetcore?WT.mc_id=vsliveboston19-slides-lbugnion)
 * [Cross-Platform Development with the Portable Class Library : Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/cross-platform/cross-platform-development-with-the-portable-class-library?WT.mc_id=vsliveboston19-slides-lbugnion)
-* [The .NET Portability Analyzer - .NET : Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/analyzers/portability-analyzer?WT.mc_id=vsliveboston19-slides-lbugnion
-https://docs.microsoft.com/en-us/dotnet/standard/net-standard?WT.mc_id=vsliveboston19-slides-lbugnion
-https://docs.microsoft.com/en-us/azure/app-service/containers/quickstart-dotnetcore?WT.mc_id=vsliveboston19-slides-lbugnion
-https://docs.microsoft.com/en-us/dotnet/standard/cross-platform/cross-platform-development-with-the-portable-class-library?WT.mc_id=vsliveboston19-slides-lbugnion)
+* [The .NET Portability Analyzer - .NET : Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/analyzers/portability-analyzer?WT.mc_id=vsliveboston19-slides-lbugnion)
 
 
 ## [DevSecOps with OWASP DevSlop](https://www.slideshare.net/TanyaJanca/devsecops-with-owasp-devslop)
 
 **by: Tanya Janca**
 
-For many people 'the cloud' and DevSecOps can be a bit mysterious. The OWASP DevSlop team is dedicated to learning and teaching DevSecOps via examples -- and “Patty the Pipeline” is no exception. 
+For many people 'the cloud' and DevSecOps can be a bit mysterious. The OWASP DevSlop team is dedicated to learning and teaching DevSecOps via examples -- and “Patty the Pipeline” is no exception.
 
 In this talk, Tanya breaks down a start-to-finish demo of the system, finishing with the DevSlop team releasing their own website live on stage, using the pipeline.
 
-You'll see how to load up an app in your editor, make a change, run it through your pipeline (and pass the security checks!), then publish it into the cloud -- as well as tools like SSL Labs, White Source Bolt, Azure DevOps Security Toolkit OWASP Zap, and more. 
+You'll see how to load up an app in your editor, make a change, run it through your pipeline (and pass the security checks!), then publish it into the cloud -- as well as tools like SSL Labs, White Source Bolt, Azure DevOps Security Toolkit OWASP Zap, and more.
 
 Supporting videos are available on OWASP DevSlop YouTube Channel: https://aka.ms/DevSlopShow .
 
 Tags: Azure Security Center, Security, Azure DevOps Services, DevOps, Identity Management, Open Source
 
 [Read More](https://www.slideshare.net/TanyaJanca/devsecops-with-owasp-devslop)
-
-
