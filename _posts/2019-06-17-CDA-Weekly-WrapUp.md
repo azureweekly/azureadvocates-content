@@ -185,8 +185,6 @@ Tags: Azure Container Instances, Azure Logic Apps
 
 [Read More](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-06-07-Create%20an%20Azure%20LogicApp%20to%20write%20a%20ReadingNotes%20Summary.md)
 
-Related Links:
-* [NA](NA)
 
 
 ## [Building Slides for a Talk on a Chat Bot in Azure](https://www.twitch.tv/videos/435747274)
@@ -251,7 +249,14 @@ Tags: Azure Machine Learning, Azure Cognitive Services, Azure Cognitive Services
 [Read More](https://github.com/Yonet/AIResources)
 
 Related Links:
-* [Azure Cognitive Services Documentation : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/?WT.mc_id=airesources-github-ayyonet; https://docs.microsoft.com/en-us/azure/machine-learning/?WT.mc_id=airesources-github-ayyonet; https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/?WT.mc_id=airesources-github-ayyonet; https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/?WT.mc_id=airesources-github-ayyonet; https://aischool.microsoft.com/en-us/services/learning-paths; https://labs.cognitive.microsoft.com/?WT.mc_id=airesources-github-ayyonet; https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/data-science-and-machine-learning?toc=https%3A%2F%2Fdocs.microsoft.com%2Fen-gb%2Fazure%2Fmachine-learning%2Ftoc.json&bc=https%3A%2F%2Fdocs.microsoft.com%2Fen-gb%2Fazure%2Fbread%2Ftoc.json&WT.mc_id=docs-twitter-ayyonet&WT.mc_id=airesources-github-ayyonet#windows-ml; https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/data-science-and-machine-learning?toc=https%3A%2F%2Fdocs.microsoft.com%2Fen-gb%2Fazure%2Fmachine-learning%2Ftoc.json&bc=https%3A%2F%2Fdocs.microsoft.com%2Fen-gb%2Fazure%2Fbread%2Ftoc.json&WT.mc_id=airesources-github-ayyonet#mlnet)
+* [Azure Cognitive Services Documentation : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/?WT.mc_id=airesources-github-ayyonet)
+* [Azure Machine Learning Documentation – Tutorials, API reference : Microsoft Docs]( https://docs.microsoft.com/en-us/azure/machine-learning/?WT.mc_id=airesources-github-ayyonet)
+* [Speech Services documentation - Tutorials, quickstarts, API reference - Azure Cognitive Services : Microsoft Docs]( https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/?WT.mc_id=airesources-github-ayyonet)
+* [Speech Services documentation - Tutorials, quickstarts, API reference - Azure Cognitive Services : Microsoft Docs]( https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/?WT.mc_id=airesources-github-ayyonet)
+* [AI Services]( https://aischool.microsoft.com/en-us/services/learning-paths)
+* [Microsoft Cognitive Services Labs - Cognitive Services LabsVISIONProject GestureProject Ink AnalysisSEARCHProject Local InsightsProject Event TrackingProject Answer SearchProject URL PreviewLANGUAGEProject Conversation LearnerProject Personality ChatKNOWLEDGEProject Knowledge ExplorationProject Academic KnowledgeProject Entity LinkingProject Custom Decision]( https://labs.cognitive.microsoft.com/?WT.mc_id=airesources-github-ayyonet)
+* [Choosing a machine learning technology : Microsoft Docs]( https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/data-science-and-machine-learning?toc=https%3A%2F%2Fdocs.microsoft.com%2Fen-gb%2Fazure%2Fmachine-learning%2Ftoc.json&bc=https%3A%2F%2Fdocs.microsoft.com%2Fen-gb%2Fazure%2Fbread%2Ftoc.json&WT.mc_id=docs-twitter-ayyonet&WT.mc_id=airesources-github-ayyonet#windows-ml)
+* [Choosing a machine learning technology : Microsoft Docs]( https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/data-science-and-machine-learning?toc=https%3A%2F%2Fdocs.microsoft.com%2Fen-gb%2Fazure%2Fmachine-learning%2Ftoc.json&bc=https%3A%2F%2Fdocs.microsoft.com%2Fen-gb%2Fazure%2Fbread%2Ftoc.json&WT.mc_id=airesources-github-ayyonet#mlnet)
 
 
 ## [Schedule Recurring Builds in App Center](https://www.codetraveler.io/2019/06/06/scheduling-app-center-builds/)
@@ -267,7 +272,12 @@ Tags: Visual Studio App Center, Azure Functions
 [Read More](https://www.codetraveler.io/2019/06/06/scheduling-app-center-builds/)
 
 Related Links:
-* [Visual Studio App Center : iOS, Android, Xamarin & React Native](https://appcenter.ms/?WT.mc_id=appcenterbuilds-codetraveler-bramin; https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-timer?WT.mc_id=appcenterbuilds-codetraveler-bramin; https://ms.portal.azure.com/?WT.mc_id=appcenterbuilds-codetraveler-bramin#home; https://appcenter.ms/?WT.mc_id=appcenterbuilds-codetraveler-bramin; https://docs.microsoft.com/en-us/appcenter/api-docs/?WT.mc_id=appcenterbuilds-codetraveler-bramin; https://docs.microsoft.com/en-us/appcenter/build/?WT.mc_id=appcenterbuilds-codetraveler-bramin)
+* [Visual Studio App Center : iOS, Android, Xamarin & React Native](https://appcenter.ms/?WT.mc_id=appcenterbuilds-codetraveler-bramin)
+* [Timer trigger for Azure Functions : Microsoft Docs]( https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-timer?WT.mc_id=appcenterbuilds-codetraveler-bramin)
+* [Microsoft Azure]( https://ms.portal.azure.com/?WT.mc_id=appcenterbuilds-codetraveler-bramin#home)
+* [Visual Studio App Center : iOS, Android, Xamarin & React Native]( https://appcenter.ms/?WT.mc_id=appcenterbuilds-codetraveler-bramin)
+* [App Center API Documentation - Visual Studio App Center : Microsoft Docs]( https://docs.microsoft.com/en-us/appcenter/api-docs/?WT.mc_id=appcenterbuilds-codetraveler-bramin)
+* [App Center Build - Visual Studio App Center : Microsoft Docs]( https://docs.microsoft.com/en-us/appcenter/build/?WT.mc_id=appcenterbuilds-codetraveler-bramin)
 
 
 ## [The New Stack Makers: Microsoft’s Chloe Condon on All Things Developer Advocacy](https://thenewstack.io/microsofts-chloe-condon-on-all-things-developer-advocacy/)
@@ -336,8 +346,6 @@ Tags: DevSecOps
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PWJuggJsJyo&feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Related Links:
-* [NA](NA)
 
 
 ## [Absolute AppSec Ep. #61: Tanya Janca @shehackspurple](https://www.youtube.com/watch?v=KEsBR-K31dE)
@@ -350,8 +358,6 @@ Tags: AppSec
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KEsBR-K31dE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Related Links:
-* [NA](NA)
 
 
 ## [Please Don't Move from Monolithic Application to Monolithic Kubernetes Cluster](https://dev.to/azure/important-points-of-kubernetes-cluster-design-4b2h)
