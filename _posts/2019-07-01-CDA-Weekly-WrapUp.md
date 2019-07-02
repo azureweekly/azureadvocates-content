@@ -628,7 +628,7 @@ Tags: Azure Machine Learning, Azure Notebooks, AI/ML, VS Code, VS Code Marketpla
 Related Links:
 * [Azure Machine Learning Service Documentation – Tutorials, API reference : Microsoft Docs](https://docs.microsoft.com/en-us/azure/machine-learning/service/?WT.mc_id=educative-article-lazzeri)
 
-## [A VS Code Extension for Managing Profiles](https://dev.to/azure/a-vs-code-extension-for-managing-profiles-ga2 and https://www.aaron-powell.com/posts/2019-06-28-vscode-extension-for-managing-profiles/)
+## [A VS Code Extension for Managing Profiles](https://dev.to/azure/a-vs-code-extension-for-managing-profiles-ga2)
 
 **by: Aaron Powell**
 
