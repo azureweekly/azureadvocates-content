@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CDA Weekly Content Wrapup (07/01/2019)
-subtitle: 
+subtitle:
 tags: [Open Source, Data, Jupyter notebooks, Azure CLI, Docker, Kubernetes, Azure Kubernetes Service, AI/ML, Azure ML, Security, Diversity in Tech, AppSec, Azure Security Center, Azure, Azure Resource Manager, Azure Cloud Shell, Azure Mobile Apps, Azure Portal, VS Code, VS Code Marketplace, GraphQL, JavaScript, Node.js, Serverless, Vue, PowerShell, Windows 10, Windows, Windows Terminal, WSL, Visual Studio, Azure IoT Edge, Azure IoT Hub, DevSecOps, DevOps, Advice, Azure Machine Learning, Azure Notebooks, Data Science, Developer Relations General, VMs, Data Visualization, Python, Power BI, Azure Storage Explorer, Azure Blob Storage, MS Learn, .NET, .NET Core, C#, Azure DevOps Projects, .NET Core, Azure Bastion, azure, Azure Cost Management, Windows Server, Azure Active Directory, IT Ops, Azure Cognitive Services, Azure Functions, Web Development, Containers, TensorFlow, Linux]
 ---
 
@@ -15,7 +15,7 @@ In summary: you’ll learn what open data is, where existing datasets fall short
 
 Tags: Open Source, Data
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cQCbCP64BYE&feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cQCbCP64BYE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>****
 
 Related Links:
 * [Explore Microsoft open source projects, releases and information - opensource.microsoft.com](http://opensource.microsoft.com)
@@ -54,28 +54,14 @@ Related Links:
 * [Create virtual nodes using the portal in Azure Kubernetes Services (AKS) : Microsoft Docs](https://docs.microsoft.com/en-us/azure/aks/virtual-nodes-portal?WT.mc_id=kubeconChina-github-sccoulto)
 * [Virtual Kubelet Introduction](https://azure.microsoft.com/en-us/resources/videos/azure-friday-virtual-kubelet-introduction/?WT.mc_id=kubeconChina-github-sccoulto)
 * [Install the Azure CLI : Microsoft Docs](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest&WT.mc_id=kubeconChina-github-sccoulto)
-* [Azure Kubernetes Service (AKS) : Microsoft Azure](https://azure.microsoft.com/en-us/services/kubernetes-service/?WT.mc_id=kubeconChina-github-sccoulto
-
-https://docs.microsoft.com/en-us/azure/aks/virtual-nodes-portal?WT.mc_id=kubeconChina-github-sccoulto
-
-https://azure.microsoft.com/en-us/resources/videos/azure-friday-virtual-kubelet-introduction/?WT.mc_id=kubeconChina-github-sccoulto
-
-https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
-* [WT.mc_id=kubeconChina-github-sccoulto](WT.mc_id=kubeconChina-github-sccoulto)
-* [Azure Kubernetes Service (AKS) : Microsoft Azure](https://azure.microsoft.com/en-us/services/kubernetes-service/?WT.mc_id=kubeconChina-github-sccoulto
-
-https://docs.microsoft.com/en-us/azure/aks/virtual-nodes-portal?WT.mc_id=kubeconChina-github-sccoulto
-
-https://azure.microsoft.com/en-us/resources/videos/azure-friday-virtual-kubelet-introduction/?WT.mc_id=kubeconChina-github-sccoulto
-
-https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest&WT.mc_id=kubeconChina-github-sccoulto)
+* [Azure Kubernetes Service (AKS) : Microsoft Azure](https://azure.microsoft.com/en-us/services/kubernetes-service/?WT.mc_id=kubeconChina-github-sccoulto)
 
 
 ## [What Startups Need to Know about NLP, AI, & ML on the Cloud](https://www.slideshare.net/AaronAriBornstein/what-startups-need-to-know-about-nlp-ai-ml-on-the-cloud)
 
 **by: Ari  Bornstein**
 
-In this Create Startup Tour 2019 presentation, Ari separates the technology from the marketing when it comes to Artificial Intelligence and Machine Learning and NLP. 
+In this Create Startup Tour 2019 presentation, Ari separates the technology from the marketing when it comes to Artificial Intelligence and Machine Learning and NLP.
 
 He opens with a quick explanation about how teams can apply NLP concepts and the "stages of AI," then dives straight into  demos of each, using Azure Machine Learning and Cognitive Services to show: Pre-Trained AI via Text Analysis, Enhanced AI via LUIS, and Bespoke AI.
 
@@ -101,7 +87,7 @@ Tags: Security, Diversity in Tech, AppSec
 
 **by: Tanya Janca**
 
-Nadeem Douba is the key organizer for the iHack conference in Ottawa, Canada. 
+Nadeem Douba is the key organizer for the iHack conference in Ottawa, Canada.
 
 In this interview, he chats with Tanya about his vision for growing the conference, ensuring it is inclusive, and why education should be free.
 
@@ -115,7 +101,7 @@ Tags: Security, AppSec
 
 **by: Tanya Janca**
 
-Microsoft Cloud Advocate Tanya Janca joins us to talk about securing Azure and the challenges of pushing security left.  
+Microsoft Cloud Advocate Tanya Janca joins us to talk about securing Azure and the challenges of pushing security left.
 
 In this product-heavy discussion, we cover multi-cloud strategy, JIT, cloud interoperability, and security tools that work natively in the cloud.
 
@@ -141,9 +127,9 @@ Tags: Security
 
 **by: Tanya Janca**
 
-Have you ever wondered how security is different "in the cloud," or the “Cloud Native” security approach compares to a traditional data center? 
+Have you ever wondered how security is different "in the cloud," or the “Cloud Native” security approach compares to a traditional data center?
 
-In this live-stream recording, Tanya and Orin answer these questions, plus how to know what’s going on with your resources, server configs, install patches, set up security incident notifications, manage incidents, and more. 
+In this live-stream recording, Tanya and Orin answer these questions, plus how to know what’s going on with your resources, server configs, install patches, set up security incident notifications, manage incidents, and more.
 
 Over the course of the workshop, they:
 (1) Facilitate a group discussion about cloud native security v. traditional data centre security
@@ -163,7 +149,7 @@ Related Links:
 
 **by: Thomas Maurer**
 
-If you often edit files and write code and Azure Resource Manager (ARM) templates in Visual Studio Code, you probably either use a local Azure PowerShell or Azure CLI installation, or switch from Visual Studio Code to your browser to run Cloud Shell. 
+If you often edit files and write code and Azure Resource Manager (ARM) templates in Visual Studio Code, you probably either use a local Azure PowerShell or Azure CLI installation, or switch from Visual Studio Code to your browser to run Cloud Shell.
 
 However, there is also a third option: run Cloud Shell directly within Visual Studio Code. In this short article and how-to video, Thomas shows how you can set up Cloud Shell in Visual Studio Code in a few straightforward steps.
 
@@ -176,20 +162,12 @@ Related Links:
 * [Azure mobile app : Microsoft Azure](https://azure.microsoft.com/en-us/features/azure-portal/mobile-app/?WT.mc_id=itopstalk-blog-thmaure)
 * [Sign in to your account](https://shell.azure.com/?WT.mc_id=itopstalk-blog-thmaure)
 * [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/?WT.mc_id=thomasmaurer-blog-thmaure)
-* [Microsoft Azure](https://ms.portal.azure.com/?WT.mc_id=itopstalk-blog-thmaure#home
-
-https://azure.microsoft.com/en-us/features/azure-portal/mobile-app/?WT.mc_id=itopstalk-blog-thmaure
-
-https://shell.azure.com/?WT.mc_id=itopstalk-blog-thmaure
-
-https://code.visualstudio.com/?WT.mc_id=thomasmaurer-blog-thmaure)
-
 
 ## [How Do I Even Dev? Cloud Advocate-authored Workshop Clearinghouse](https://howdoievendev.azurewebsites.net/)
 
 **by: Jen Looper**
 
-"How Do I Even Dev?" is your ever-growing destination for Cloud Advocate generated workshop content. 
+"How Do I Even Dev?" is your ever-growing destination for Cloud Advocate generated workshop content.
 
 At launch, the site features workshops for Express (from Tierney Cyren), Vue.JS (from Glaucia Lemos, in Portuguese), and will soon feature even more content, including a brand new GraphQL/Serverless workshop (from Jen Looper and Chris Noring).
 
@@ -205,7 +183,7 @@ Tags: GraphQL, JavaScript, Node.js, Serverless, Vue
 
 **by: Thomas Maurer**
 
-At Microsoft Build 2019, the team announced a new open source Windows Terminal (Preview) - available for download from the Microsoft Store! The Preview allows you to run different shells and includes multiple tabs support, GPU accelerated DirectWrite/DirectX-based text rendering engine, advanced configuration settings, and many more improvements. 
+At Microsoft Build 2019, the team announced a new open source Windows Terminal (Preview) - available for download from the Microsoft Store! The Preview allows you to run different shells and includes multiple tabs support, GPU accelerated DirectWrite/DirectX-based text rendering engine, advanced configuration settings, and many more improvements.
 
 In this short post, Thomas shares a bit about the preview, how to install it, and where to submit pull requests and learn more from the team.
 
@@ -218,20 +196,6 @@ Related Links:
 * [Introducing Windows Terminal : Windows Command Line Tools For Developers](https://devblogs.microsoft.com/commandline/introducing-windows-terminal/?WT.mc_id=thomasmaurer-blog-thmaure)
 * [GitHub - microsoft/terminal: The new Windows Terminal, and the original Windows console host -- all in the same place!](https://github.com/Microsoft/Terminal)
 * [Your request appears to be from an automated process](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701?WT.mc_id=thomasmaurer-blog-thmaure)
-* [activetab=pivot:overviewtab
-
-https://devblogs.microsoft.com/commandline/introducing-windows-terminal/?WT.mc_id=thomasmaurer-blog-thmaure
-
-https://github.com/Microsoft/Terminal](activetab=pivot:overviewtab
-
-https://devblogs.microsoft.com/commandline/introducing-windows-terminal/?WT.mc_id=thomasmaurer-blog-thmaure
-
-https://github.com/Microsoft/Terminal)
-* [Your request appears to be from an automated process](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701?WT.mc_id=thomasmaurer-blog-thmaure&activetab=pivot:overviewtab
-
-https://devblogs.microsoft.com/commandline/introducing-windows-terminal/?WT.mc_id=thomasmaurer-blog-thmaure
-
-https://github.com/Microsoft/Terminal)
 
 
 ## [Home Grown IoT Part V: Local Dev](https://dev.to/azure/home-grown-iot-local-dev-246b & https://www.aaron-powell.com/posts/2019-06-19-home-grown-iot-local-dev/)
@@ -247,20 +211,6 @@ Tags: Docker, Visual Studio, Azure IoT Edge, Azure IoT Hub, VS Code
 [Read More](https://dev.to/azure/home-grown-iot-local-dev-246b & https://www.aaron-powell.com/posts/2019-06-19-home-grown-iot-local-dev/)
 
 Related Links:
-* [404 - Content Not Found : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-edge/,)
-* [404 - Content Not Found : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-hub/,)
-* [404 - Content Not Found : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-edge/how-to-vs-code-develop-module,)
-* [404 - Content Not Found : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-edge/how-to-visual-studio-develop-module,)
-* [Internal server error](https://code.visualstudio.com/Docs/editor/debugging,)
-* [Internal server error](https://code.visualstudio.com/Docs/editor/tasks,)
-* [Bad Request](https://code.visualstudio.com/Docs/editor/tasks#_compound-task)
-* [Bad Request](https://docs.microsoft.com/en-us/azure/iot-edge/,
-https://docs.microsoft.com/en-us/azure/iot-hub/,
-https://docs.microsoft.com/en-us/azure/iot-edge/how-to-vs-code-develop-module,
-https://docs.microsoft.com/en-us/azure/iot-edge/how-to-visual-studio-develop-module,
-https://code.visualstudio.com/Docs/editor/debugging,
-https://code.visualstudio.com/Docs/editor/tasks,
-https://code.visualstudio.com/Docs/editor/tasks#_compound-task)
 * [Azure IoT Edge : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-edge/)
 * [Azure IoT Hub Documentation - Tutorials, API Reference : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-hub/)
 * [Develop and debug modules for Azure IoT Edge : Microsoft Docs](https://docs.microsoft.com/en-us/azure/iot-edge/how-to-vs-code-develop-module)
@@ -299,7 +249,7 @@ Tags: DevOps, Azure Cloud Shell
 
 **by: Francesca Lazzeri**
 
-Learn how to automatically generate a regression model to predict taxi fare prices with Azure Machine Learning automated machine learning capabilities. 
+Learn how to automatically generate a regression model to predict taxi fare prices with Azure Machine Learning automated machine learning capabilities.
 
 Francesca Lazzeri uses a publically available prepared dataset (NYC Taxi data) to demonstrate how to define your machine learning goals and constraints, testing, and tuning models to find one best suited to your scenario.
 
@@ -311,9 +261,6 @@ Related Links:
 * [What is automated ML / automl - Azure Machine Learning service : Microsoft Docs](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-automated-ml?WT.mc_id=azuremedium-blog-lazzeri,)
 * [Azure Machine Learning Service Documentation – Tutorials, API reference : Microsoft Docs](https://docs.microsoft.com/en-us/azure/machine-learning/service/?WT.mc_id=azuremedium-blog-lazzeri,)
 * [Get Started with Machine Learning : Microsoft Azure](https://azure.microsoft.com/en-us/trial/get-started-machine-learning/?WT.mc_id=azuremedium-blog-lazzeri)
-* [What is automated ML / automl - Azure Machine Learning service : Microsoft Docs](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-automated-ml?WT.mc_id=azuremedium-blog-lazzeri,
-https://docs.microsoft.com/en-us/azure/machine-learning/service/?WT.mc_id=azuremedium-blog-lazzeri, 
-https://azure.microsoft.com/en-us/trial/get-started-machine-learning/?WT.mc_id=azuremedium-blog-lazzeri)
 * [What is automated ML / automl - Azure Machine Learning service : Microsoft Docs](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-automated-ml?WT.mc_id=azuremedium-blog-lazzeri)
 * [Azure Machine Learning Service Documentation – Tutorials, API reference : Microsoft Docs](https://docs.microsoft.com/en-us/azure/machine-learning/service/?WT.mc_id=azuremedium-blog-lazzeri)
 
@@ -322,7 +269,7 @@ https://azure.microsoft.com/en-us/trial/get-started-machine-learning/?WT.mc_id=a
 
 **by: Francesca Lazzeri**
 
-In this interactive code lab (Github repo), Cloud Advocate Francesca Lazzeri walks through how to use Automated Machine Learning and scikit-learn's diabetes dataset to solve simple regression problems. 
+In this interactive code lab (Github repo), Cloud Advocate Francesca Lazzeri walks through how to use Automated Machine Learning and scikit-learn's diabetes dataset to solve simple regression problems.
 
 The Azure Notebook includes how to create an experiment (in an existing Workspace), configure AutoML (using AutoMLConfig), train the model (using local compute), explore results, and finally, test the best-fitted model.
 
@@ -348,7 +295,7 @@ Tags: JavaScript, Node.js
 
 **by: Wassim Chegham**
 
-Want to learn the new async/await syntax in ES2015? 
+Want to learn the new async/await syntax in ES2015?
 
 Watch this <10 animation to visualize and understand the difference between the old-good callback pattern and the new Async/Await syntax.
 
@@ -397,12 +344,7 @@ Tags: VS Code, VS Code Marketplace
 Related Links:
 * [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/?wt.mc_id=profileswitcher-github-aapowell,)
 * [Your First Extension : Visual Studio Code Extension API](https://code.visualstudio.com/api/get-started/your-first-extension?wt.mc_id=profileswitcher-github-aapowell,)
-* [VS Code API : Visual Studio Code Extension API](https://code.visualstudio.com/api/references/vscode-api?wt.mc_id=profileswitcher-github-aapowell,)
-* [Bad Request](https://code.visualstudio.com/updates/v1_32#_bundling-extensions-with-webpack?wt.mc_id=profileswitcher-github-aapowell)
-* [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/?wt.mc_id=profileswitcher-github-aapowell,
-https://code.visualstudio.com/api/get-started/your-first-extension?wt.mc_id=profileswitcher-github-aapowell,
-https://code.visualstudio.com/api/references/vscode-api?wt.mc_id=profileswitcher-github-aapowell,
-https://code.visualstudio.com/updates/v1_32#_bundling-extensions-with-webpack?wt.mc_id=profileswitcher-github-aapowell)
+* [VS Code API : Visual Studio Code Extension API](https://code.visualstudio.com/api/references/vscode-api?wt.mc_id=profileswitcher-github-aapowell)
 * [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/?wt.mc_id=profileswitcher-github-aapowell)
 * [Your First Extension : Visual Studio Code Extension API](https://code.visualstudio.com/api/get-started/your-first-extension?wt.mc_id=profileswitcher-github-aapowell)
 * [VS Code API : Visual Studio Code Extension API](https://code.visualstudio.com/api/references/vscode-api?wt.mc_id=profileswitcher-github-aapowell)
@@ -427,15 +369,13 @@ Tags: JavaScript, Node.js, Azure Cloud Shell, VMs
 
 
 
-## [[2 connected articles]
-Are you Love Island's "Type on Paper"?
-'Grafting' Love Island Data: Analysing the stories behind the TV Show](https://medium.com/@amynic/are-you-love-islands-type-on-paper-2549d94a110f)
+## [Are you Love Island's "Type on Paper"? & 'Grafting' Love Island Data: Analysing the stories behind the TV Show](https://medium.com/@amynic/are-you-love-islands-type-on-paper-2549d94a110f)
 
 **by: Amy Boyd**
 
 In this two part series, Amy Boyd uses her data science prowess to analyzes historical data from the popular UK TV show "Love Island," uncovering interesting patterns and correlations about contestants and winners >> possible predictions for the 2019 season.
 
-Armed with three years of contestant data, she dives into common roles, hometown, and more - and, more importantly, illustrates how data analysis can be applied to a somewhat frivolous topic: reality television and dating shows. 
+Armed with three years of contestant data, she dives into common roles, hometown, and more - and, more importantly, illustrates how data analysis can be applied to a somewhat frivolous topic: reality television and dating shows.
 
 The first post covers the findings, while the second dives into how she grafted the 2015-2018 contestant data and, with the help of Azure Notebooks, Blob Storage, and PowerBI, analyzed and visualized her results to make conclusions.
 
@@ -456,30 +396,7 @@ Related Links:
 * [Get started building with Power BI - Learn : Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/?WT.mc_id=loveisland-medium-amynic)
 * [Introduction to machine learning with Python and Azure Notebooks - Learn : Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/intro-to-ml-with-python/?WT.mc_id=loveisland-medium-amynic)
 * [Azure Storage Explorer – cloud storage management : Microsoft Azure](https://azure.microsoft.com/en-us/features/storage-explorer/?WT.mc_id=loveisland-medium-amynic)
-* [Azure Notebooks Documentation - Quickstarts, Tutorials, Guides : Microsoft Docs](https://docs.microsoft.com/en-us/azure/notebooks/?WT.mc_id=loveisland-medium-amynic
-
-https://docs.microsoft.com/en-us/power-bi/consumer/end-user-q-and-a?WT.mc_id=loveisland-medium-amynic
-
-https://docs.microsoft.com/en-us/power-bi/desktop-report-themes?WT.mc_id=loveisland-medium-amynic
-
-https://docs.microsoft.com/en-us/power-bi/?WT.mc_id=loveisland-medium-amynic
-
-https://code.visualstudio.com/?WT.mc_id=loveisland-medium-amynic
-
-https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction?WT.mc_id=loveisland-medium-amynic
-
-https://docs.microsoft.com/en-us/learn/?WT.mc_id=loveisland-medium-amynic
-
-https://docs.microsoft.com/en-us/learn/modules/choose-data-science-option-in-azure/?WT.mc_id=loveisland-medium-amynic
-
-https://docs.microsoft.com/en-us/learn/paths/store-data-in-azure/?WT.mc_id=loveisland-medium-amynic
-
-https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/?WT.mc_id=loveisland-medium-amynic
-
-https://docs.microsoft.com/en-us/learn/paths/intro-to-ml-with-python/?WT.mc_id=loveisland-medium-amynic
-
-https://azure.microsoft.com/en-us/features/storage-explorer/?WT.mc_id=loveisland-medium-amynic)
-
+* [Azure Notebooks Documentation - Quickstarts, Tutorials, Guides : Microsoft Docs](https://docs.microsoft.com/en-us/azure/notebooks/?WT.mc_id=loveisland-medium-amynic)
 
 ## [TWC9: Microsoft Edge for Windows 7 and 8, Docker for Windows Updates, Azure Bastion and more](https://channel9.msdn.com/Shows/This+Week+On+Channel+9/TWC9-Microsoft-Edge-for-Windows-7-and-8-Docker-for-Windows-Updates-Azure-Bastion-and-more)
 
@@ -502,51 +419,17 @@ Related Links:
 * [Five Things You Didn't Know Python Could Do &#124; Five Things &#124; Channel 9](https://channel9.msdn.com/Shows/5-Things/Five-Things-You-Didnt-Know-Python-Could-Do?WT.mc_id=twc9-c9-chwarren)
 * [Azure IoT Edge development with Azure DevOps &#124; Internet of Things Show &#124; Channel 9](https://channel9.msdn.com/Shows/Internet-of-Things-Show/Azure-IoT-Edge-development-with-Azure-DevOps?WT.mc_id=twc9-c9-chwarren)
 * [Create your Azure free account today : Microsoft Azure](https://azure.microsoft.com/en-us/free/?utm_source=channel9&utm_medium=descriptionlinks&utm_campaign=freeaccount)
-* [Azure Shared Image Gallery now generally available : Blog : Microsoft Azure](https://azure.microsoft.com/en-us/blog/azure-shared-image-gallery-now-generally-available/?WT.mc_id=twc9-c9-chwarren 
-
-https://azure.microsoft.com/en-us/blog/first-microsoft-cloud-regions-in-middle-east-now-available/?WT.mc_id=twc9-c9-chwarren 
-
-https://azure.microsoft.com/en-us/blog/announcing-the-preview-of-microsoft-azure-bastion/?WT.mc_id=twc9-c9-chwarren 
-
-https://docs.microsoft.com/en-us/azure/bastion/bastion-overview?WT.mc_id=twc9-c9-chwarren 
-
-https://techcommunity.microsoft.com/t5/ITOps-Talk-Blog/How-to-Use-Cloud-Shell-in-Visual-Studio-Code/ba-p/663431?WT.mc_id=twc9-c9-chwarren 
-
-https://channel9.msdn.com/Shows/On-NET/NET-Core-30-with-Scott-Hunter?WT.mc_id=twc9-c9-chwarren 
-
-https://channel9.msdn.com/Shows/5-Things/Five-Things-You-Didnt-Know-Python-Could-Do?WT.mc_id=twc9-c9-chwarren 
-
-https://channel9.msdn.com/Shows/Internet-of-Things-Show/Azure-IoT-Edge-development-with-Azure-DevOps?WT.mc_id=twc9-c9-chwarren 
-
-https://azure.microsoft.com/en-us/free/?utm_source=channel9)
-* [utm_medium=descriptionlinks](utm_medium=descriptionlinks)
-* [utm_campaign=freeaccount](utm_campaign=freeaccount)
-* [Azure Shared Image Gallery now generally available : Blog : Microsoft Azure](https://azure.microsoft.com/en-us/blog/azure-shared-image-gallery-now-generally-available/?WT.mc_id=twc9-c9-chwarren 
-
-https://azure.microsoft.com/en-us/blog/first-microsoft-cloud-regions-in-middle-east-now-available/?WT.mc_id=twc9-c9-chwarren 
-
-https://azure.microsoft.com/en-us/blog/announcing-the-preview-of-microsoft-azure-bastion/?WT.mc_id=twc9-c9-chwarren 
-
-https://docs.microsoft.com/en-us/azure/bastion/bastion-overview?WT.mc_id=twc9-c9-chwarren 
-
-https://techcommunity.microsoft.com/t5/ITOps-Talk-Blog/How-to-Use-Cloud-Shell-in-Visual-Studio-Code/ba-p/663431?WT.mc_id=twc9-c9-chwarren 
-
-https://channel9.msdn.com/Shows/On-NET/NET-Core-30-with-Scott-Hunter?WT.mc_id=twc9-c9-chwarren 
-
-https://channel9.msdn.com/Shows/5-Things/Five-Things-You-Didnt-Know-Python-Could-Do?WT.mc_id=twc9-c9-chwarren 
-
-https://channel9.msdn.com/Shows/Internet-of-Things-Show/Azure-IoT-Edge-development-with-Azure-DevOps?WT.mc_id=twc9-c9-chwarren 
-
-https://azure.microsoft.com/en-us/free/?utm_source=channel9&utm_medium=descriptionlinks&utm_campaign=freeaccount)
+* [Azure Shared Image Gallery now generally available : Blog : Microsoft Azure](https://azure.microsoft.com/en-us/blog/azure-shared-image-gallery-now-generally-available/?WT.mc_id=twc9-c9-chwarren)
+* [Azure Shared Image Gallery now generally available : Blog : Microsoft Azure](https://azure.microsoft.com/en-us/blog/azure-shared-image-gallery-now-generally-available/?WT.mc_id=twc9-c9-chwarren)
 
 
 ## [Azure Cloud Shell Tips for SysAdmins, Part II: Using the Cloud Shell Tools to Migrate](https://dev.to/azure/azure-cloud-shell-tips-for-sysadmins-part-ii-using-the-cloud-shell-tools-to-migrate-3ka8)
 
 **by: Jay Gordon**
 
-As an Azure Advocate, Jay spends a lot of his time learning the easiest ways for beginners to get started with Azure. 
+As an Azure Advocate, Jay spends a lot of his time learning the easiest ways for beginners to get started with Azure.
 
-In this tutorial-style post, Jay builds on his prior post and dives deeper on migration ("lift and shift") tasks and concepts. 
+In this tutorial-style post, Jay builds on his prior post and dives deeper on migration ("lift and shift") tasks and concepts.
 
 He breaks down various options and considerations, then walks through how to use a combination of tools to create an UbuntuLTS Linux server, and use Ansible to deploy Node.js from the NodeSource binary distributions repository.
 
@@ -555,7 +438,6 @@ Tags: JavaScript, Node.js, Azure Cloud Shell, VMs
 [Read More](https://dev.to/azure/azure-cloud-shell-tips-for-sysadmins-part-ii-using-the-cloud-shell-tools-to-migrate-3ka8)
 
 Related Links:
-* [400 - Bad Request](https://azure.microsoft.com/en-us/services/, https://azure.microsoft.com/en-us/migration/get-started/)
 * [Directory of Azure Cloud Services : Microsoft Azure](https://azure.microsoft.com/en-us/services/)
 * [Cloud Migration Strategies—Assess, Plan, Migrate &amp; Manage : Microsoft Azure](https://azure.microsoft.com/en-us/migration/get-started/)
 
@@ -585,16 +467,7 @@ Related Links:
 * [aka.ms/costmgmt/docs,](aka.ms/costmgmt/docs,)
 * [aka.ms/costmgmt/videos,](aka.ms/costmgmt/videos,)
 * [Predict costs and optimize spending for Azure - Learn : Microsoft Docs](https://docs.microsoft.com/learn/modules/predict-costs-and-optimize-spending/?WT.mc_id=itopstalk-blog-socuff)
-* [Tutorial - Create and manage Azure budgets : Microsoft Docs](https://docs.microsoft.com/azure/cost-management/tutorial-acm-create-budgets?WT.mc_id=itopstalk-blog-socuff,
-https://docs.microsoft.com/azure/cost-management/assign-access-acm-data?WT.mc_id=itopstalk-blog-socuff,
-https://docs.microsoft.com/azure/cost-management/aws-integration-manage?WT.mc_id=itopstalk-blog-socuff,
-https://docs.microsoft.com/rest/api/consumption/?WT.mc_id=itopstalk-blog-socuff,
-https://docs.microsoft.com/rest/api/billing/?WT.mc_id=itopstalk-blog-socuff,
-https://docs.microsoft.com/power-bi/service-connect-to-azure-consumption-insights?WT.mc_id=itopstalk-blog-socuff,
-azure.com/costmanagement,
-aka.ms/costmgmt/docs,
-aka.ms/costmgmt/videos,
-https://docs.microsoft.com/learn/modules/predict-costs-and-optimize-spending/?WT.mc_id=itopstalk-blog-socuff)
+* [Tutorial - Create and manage Azure budgets : Microsoft Docs](https://docs.microsoft.com/azure/cost-management/tutorial-acm-create-budgets?WT.mc_id=itopstalk-blog-socuff)
 * [Tutorial - Create and manage Azure budgets : Microsoft Docs](https://docs.microsoft.com/azure/cost-management/tutorial-acm-create-budgets?WT.mc_id=itopstalk-blog-socuff)
 * [Assign access to Azure Cost Management data : Microsoft Docs](https://docs.microsoft.com/azure/cost-management/assign-access-acm-data?WT.mc_id=itopstalk-blog-socuff)
 * [Manage AWS costs and usage in Azure Cost Management : Microsoft Docs](https://docs.microsoft.com/azure/cost-management/aws-integration-manage?WT.mc_id=itopstalk-blog-socuff)
@@ -655,20 +528,7 @@ Related Links:
 * [Cognitive Services : Microsoft Azure](https://azure.microsoft.com/en-ca/services/cognitive-services/?WT.mc_id=tohack-github-frbouche)
 * [Azure Functions—Develop Faster With Serverless Compute : Microsoft Azure](https://azure.microsoft.com/en-ca/services/functions/?WT.mc_id=tohack-github-frbouche)
 * [Azure DevOps Services : Microsoft Azure](https://azure.microsoft.com/en-ca/services/devops/?WT.mc_id=tohack-github-frbouche)
-* [Download .NET (Linux, macOS, and Windows)](https://dotnet.microsoft.com/download?WT.mc_id=tohack-github-frbouche
-
-https://code.visualstudio.com/?WT.mc_id=tohack-github-frbouche
-
-https://azure.microsoft.com/en-us/free/?WT.mc_id=tohack-github-frbouche
-
-https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview?WT.mc_id=tohack-github-frbouche
-
-https://azure.microsoft.com/en-ca/services/cognitive-services/?WT.mc_id=tohack-github-frbouche
-
-https://azure.microsoft.com/en-ca/services/functions/?WT.mc_id=tohack-github-frbouche
-
-https://azure.microsoft.com/en-ca/services/devops/?WT.mc_id=tohack-github-frbouche)
-
+* [Download .NET (Linux, macOS, and Windows)](https://dotnet.microsoft.com/download?WT.mc_id=tohack-github-frbouche)
 
 ## [Azure Cloud Shell Tips for SysAdmins Part III - Using Azure CLI](https://dev.to/jaydestro/azure-cloud-shell-tips-for-sysadmins-part-iii-using-azure-cli-for-server-details-9dd)
 
@@ -687,43 +547,14 @@ Related Links:
 * [Sign in to your account](https://shell.azure.com/?WT.mc_id=devto-blog-jagord)
 * [Install the Azure CLI : Microsoft Docs](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?WT.mc_id=devto-blog-jagord&view=azure-cli-latest)
 * [Azure Resource Manager Overview : Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview#resource-groups?WT.mc_id=devto-blog-jagord)
-* [Bash in Azure Cloud Shell Quickstart : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart?WT.mc_id=devto-blog-jagord 
-
-https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview?WT.mc_id=devto-blog-jagord 
-
-https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli?WT.mc_id=devto-blog-jagord)
-* [view=azure-cli-latest 
-
-https://shell.azure.com/?WT.mc_id=devto-blog-jagord 
-
-https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?WT.mc_id=devto-blog-jagord](view=azure-cli-latest 
-
-https://shell.azure.com/?WT.mc_id=devto-blog-jagord 
-
-https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?WT.mc_id=devto-blog-jagord)
-* [view=azure-cli-latest 
-
-https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview#resource-groups?WT.mc_id=devto-blog-jagord](view=azure-cli-latest 
-
-https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview#resource-groups?WT.mc_id=devto-blog-jagord)
-* [Bash in Azure Cloud Shell Quickstart : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart?WT.mc_id=devto-blog-jagord 
-
-https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview?WT.mc_id=devto-blog-jagord 
-
-https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli?WT.mc_id=devto-blog-jagord&view=azure-cli-latest 
-
-https://shell.azure.com/?WT.mc_id=devto-blog-jagord 
-
-https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?WT.mc_id=devto-blog-jagord&view=azure-cli-latest 
-
-https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview#resource-groups?WT.mc_id=devto-blog-jagord)
+* [Bash in Azure Cloud Shell Quickstart : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart?WT.mc_id=devto-blog-jagord)
 
 
 ## [How YOU Can Use Nest.js to Build a GraphQL API](https://dev.to/azure/how-you-can-use-nest-to-build-a-graphql-api-24ii)
 
 **by: Chris Noring**
 
-Chris Noring takes you through how to build a GraphQL API using Nest.js. 
+Chris Noring takes you through how to build a GraphQL API using Nest.js.
 
 Learn GraphQL fundamentals and major constructs, how to create a Nest.js + GraphQL project, and test the full CRUD.
 
@@ -756,28 +587,13 @@ Related Links:
 * [Cognitive Services : Microsoft Azure](https://azure.microsoft.com/en-us/services/cognitive-services/?WT.mc_id=mondph19-slides-lbugnion)
 * [Create your Azure free account today : Microsoft Azure](https://azure.microsoft.com/en-us/free/?WT.mc_id=mondph19-slides-lbugnion)
 * [Azure for Education : Microsoft Azure](https://azure.microsoft.com/en-us/education/?WT.mc_id=mondph19-slides-lbugnion)
-* [Getting started with Azure Cognitive Services in containers : Blog : Microsoft Azure](https://azure.microsoft.com/en-us/blog/getting-started-with-azure-cognitive-services-in-containers/?WT.mc_id=mondph19-slides-lbugnion 
-
-https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/export-your-model?WT.mc_id=mondph19-slides-lbugnion 
-
-https://docs.microsoft.com/en-us/azure/cognitive-services/?WT.mc_id=mondph19-slides-lbugnion 
-
-https://docs.microsoft.com/en-us/learn/?WT.mc_id=mondph19-slides-lbugnion 
-
-https://docs.microsoft.com/en-us/azure/cognitive-services/Welcome?WT.mc_id=mondph19-slides-lbugnion 
-
-https://azure.microsoft.com/en-us/services/cognitive-services/?WT.mc_id=mondph19-slides-lbugnion 
-
-https://azure.microsoft.com/en-us/free/?WT.mc_id=mondph19-slides-lbugnion 
-
-https://azure.microsoft.com/en-us/education/?WT.mc_id=mondph19-slides-lbugnion)
-
+* [Getting started with Azure Cognitive Services in containers : Blog : Microsoft Azure](https://azure.microsoft.com/en-us/blog/getting-started-with-azure-cognitive-services-in-containers/?WT.mc_id=mondph19-slides-lbugnion)
 
 ## [How to Copy files from Windows to Linux using PowerShell Remoting](https://techcommunity.microsoft.com/t5/ITOps-Talk-Blog/How-to-Copy-files-from-Windows-to-Linux-using-PowerShell/ba-p/681442)
 
 **by: Thomas Maurer**
 
-The release of PowerShell Core 6 brings PowerShell to other platforms, like Linux and macOS, and this new cross-platform approach allows us to take advantage of some pretty cool features. 
+The release of PowerShell Core 6 brings PowerShell to other platforms, like Linux and macOS, and this new cross-platform approach allows us to take advantage of some pretty cool features.
 
 In this blog post, Thomas shares how developers and IT pros can use the new PowerShell Remoting Over SSH feature to copy files from Windows machines to Linux.
 
@@ -795,7 +611,7 @@ Related Links:
 
 **by: Francesca Lazzeri**
 
-In this guest post by Francesca on Educative.io's blog, readers will learn how to prepare and deploy machine learning models with Azure Machine Learning. 
+In this guest post by Francesca on Educative.io's blog, readers will learn how to prepare and deploy machine learning models with Azure Machine Learning.
 
 You'll see how to use Azure Machine Learning to get your models ready to deploy in production environments (a common pain point for many data scientists and teams), walking through a series of steps:
 
@@ -810,10 +626,7 @@ Tags: Azure Machine Learning, Azure Notebooks, AI/ML, VS Code, VS Code Marketpla
 [Read More](https://blog.educative.io/how-to-deploy-your-machine-learning-model/)
 
 Related Links:
-* [Azure Machine Learning Service Documentation – Tutorials, API reference : Microsoft Docs](https://docs.microsoft.com/en-us/azure/machine-learning/service/?WT.mc_id=educative-article-lazzeri and https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-ai&WT.mc_id=educative-article-lazzeri and https://azure.microsoft.com/en-us/trial/get-started-machine-learning/?WT.mc_id=educative-article-lazzeri and https://docs.microsoft.com/azure/machine-learning/service/how-to-deploy-and-where?WT.mc_id=educative-article-lazzeri and https://github.com/Azure/MachineLearningNotebooks?WT.mc_id=educative-article-lazzeri)
-* [Azure Machine Learning Service Documentation – Tutorials, API reference : Microsoft Docs](https://docs.microsoft.com/en-us/azure/machine-learning/service/?WT.mc_id=educative-article-lazzeri and https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-ai)
-* [WT.mc_id=educative-article-lazzeri and https://azure.microsoft.com/en-us/trial/get-started-machine-learning/?WT.mc_id=educative-article-lazzeri and https://docs.microsoft.com/azure/machine-learning/service/how-to-deploy-and-where?WT.mc_id=educative-article-lazzeri and https://github.com/Azure/MachineLearningNotebooks?WT.mc_id=educative-article-lazzeri](WT.mc_id=educative-article-lazzeri and https://azure.microsoft.com/en-us/trial/get-started-machine-learning/?WT.mc_id=educative-article-lazzeri and https://docs.microsoft.com/azure/machine-learning/service/how-to-deploy-and-where?WT.mc_id=educative-article-lazzeri and https://github.com/Azure/MachineLearningNotebooks?WT.mc_id=educative-article-lazzeri)
-
+* [Azure Machine Learning Service Documentation – Tutorials, API reference : Microsoft Docs](https://docs.microsoft.com/en-us/azure/machine-learning/service/?WT.mc_id=educative-article-lazzeri)
 
 ## [A VS Code Extension for Managing Profiles](https://dev.to/azure/a-vs-code-extension-for-managing-profiles-ga2 and https://www.aaron-powell.com/posts/2019-06-28-vscode-extension-for-managing-profiles/)
 
@@ -821,7 +634,7 @@ Related Links:
 
 Aaron details how and why he created the VS Code Profile Switcher Extension, allowing you to create and save profiles with specific VS Code setting configurations.
 
-As a Cloud Advocate, Aaron frequently finds himself switching between "audience optimized" VS Code settings for presentation demos (like larger font sizes and higher contrast themes) to his personal preferences for developing his own projects.  
+As a Cloud Advocate, Aaron frequently finds himself switching between "audience optimized" VS Code settings for presentation demos (like larger font sizes and higher contrast themes) to his personal preferences for developing his own projects.
 
 Enter the Profile Switcher: create user profiles with custom settings (e.g., "Presenter"; "Personal"). If you find yourself needing to quickly jump between VS Code settings changes >> check it out - Pull Requests welcome.
 
@@ -830,11 +643,6 @@ Tags: VS Code, VS Code Marketplace, Open Source
 [Read More](https://dev.to/azure/a-vs-code-extension-for-managing-profiles-ga2 and https://www.aaron-powell.com/posts/2019-06-28-vscode-extension-for-managing-profiles/)
 
 Related Links:
-* [Internal server error](https://code.visualstudio.com/api/get-started/your-first-extension,)
-* [
-        Profile Switcher - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=aaronpowell.vscode-profile-switcher)
-* [Bad Request](https://code.visualstudio.com/api/get-started/your-first-extension,
-https://marketplace.visualstudio.com/items?itemName=aaronpowell.vscode-profile-switcher)
+* [Profile Switcher - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=aaronpowell.vscode-profile-switcher)
 * [Your First Extension : Visual Studio Code Extension API](https://code.visualstudio.com/api/get-started/your-first-extension)
 
