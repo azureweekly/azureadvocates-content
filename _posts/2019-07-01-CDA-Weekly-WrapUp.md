@@ -640,7 +640,7 @@ Enter the Profile Switcher: create user profiles with custom settings (e.g., "Pr
 
 Tags: VS Code, VS Code Marketplace, Open Source
 
-[Read More](https://dev.to/azure/a-vs-code-extension-for-managing-profiles-ga2 and https://www.aaron-powell.com/posts/2019-06-28-vscode-extension-for-managing-profiles/)
+[Read More](https://dev.to/azure/a-vs-code-extension-for-managing-profiles-ga2)
 
 Related Links:
 * [Profile Switcher - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=aaronpowell.vscode-profile-switcher)
