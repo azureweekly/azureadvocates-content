@@ -929,7 +929,7 @@ Over the course of the series, you'll learn about bias in data, other ethical is
 
 Tags: AI/ML, Azure Cognitive Services, Azure Cognitive Services (Custom Vision), azure, ethical IT, Deep Learning
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5TpH3kO77Qg&list=PLl8yjZLsL_WobPtlCCIRgoU91Geokx7qK" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5TpH3kO77Qg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -947,7 +947,7 @@ Over the course of the series, you'll learn about bias in data, other ethical is
 
 Tags: AI/ML, Azure Cognitive Services, Azure Cognitive Services (Custom Vision), azure, ethical IT, Deep Learning
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qdnCyJ4owWo&list=PLl8yjZLsL_WobPtlCCIRgoU91Geokx7qK" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qdnCyJ4owWo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
