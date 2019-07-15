@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CDA Weekly Content Wrapup (07/15/2019)
-subtitle: 
+subtitle:
 tags: [Ubuntu, Windows Server, Linux, Windows Virtual Machines, Windows 10, Linux Virtual Machines, Hyper-V, Azure Storage, Azure Container Instances, Azure, Containers, Azure Container Registry, Azure Resource Manager, Azure Data Explorer, Azure Kubernetes Service, Azure Virtual Machines, Azure Data Science Virtual Machines, Microsoft Graph API, Azure Key Vault, Azure Active Directory, R, .NET, .NET Core, C#, Python, VS Code, VS Code Marketplace, DevOps, SRE, Advice, Cloud Computing, Open Source, Azure Security Center, Azure Update Management, VMWare, Azure IAAS/PAAS, Azure Migrate, Azure Stack, Windows Admin Center, Azure IoT Hub, Azure Backup, SQL Server, Windows Server VMs, Go, AI/ML, Data Science, Developer Relations General, MS Learn, Azure Cognitive Services, Azure Portal, JavaScript, Node.js, .NET Core, Azure Functions, Web Development, Web Apps, Azure Bot Service, Web APIs, Java, Azure CLI, Azure CosmosDB, Serverless, Azure Cognitive Services Custom Vision, azure, ethical IT, Deep Learning, Azure Machine Learning, Azure Notebooks, TensorFlow, Azure App Service, Vue, Windows, Power BI, Azure ML, Jupyter notebooks, Docker, Kubernetes, AR/VR, Game Development, IoT, Azure IoT Edge, PowerShell SSH, PowerShell, Security, Leadership, Spring, Azure Web Apps, MongoDB, Azure Event Hubs, Startups, Mobile App Services, macOS, Web Assembly WASM, BinderHub, Reactive, Azure DevOps Services, Azure Cognitive Services Speech API, Windows Imaging Format, ASP.NET Core, Azure ARM Templates, Azure Cognitive Service LUIS, Azure Bastion, Azure Pipelines, Azure Cloud Shell, Xamarin.Forms, Xamarin, azure site recovery, Azure Hybrid Benefit, Azure Disk Encryption, Azure Cost Management]
 ---
 
@@ -9,9 +9,9 @@ tags: [Ubuntu, Windows Server, Linux, Windows Virtual Machines, Windows 10, Linu
 
 **by: Thomas Maurer**
 
-Windows 10 more than a modern desktop operating system - it comes with IT Pro and Developer-related features built-in, including client Hyper-V. 
+Windows 10 more than a modern desktop operating system - it comes with IT Pro and Developer-related features built-in, including client Hyper-V.
 
-Hyper-V - the same hypervisor that powers virtualization in Windows Server and the Microsoft Azure datacenters - allows you to create virtual machines running on Windows 10, without third-party software. 
+Hyper-V - the same hypervisor that powers virtualization in Windows Server and the Microsoft Azure datacenters - allows you to create virtual machines running on Windows 10, without third-party software.
 
 In this blog post, Thomas shows how to use Hyper-V to  create an Ubuntu VM on Windows 10.
 
@@ -29,7 +29,7 @@ Related Links:
 
 In this blog post, Cloud Advocate David Smith and Senior Data Scientist Hong Ooi dive into AzureR, the family of eight packages that provide tools to manage Azure resources from the open source R language.
 
-Together, the AzureR packages provide the capability to efficiently and securely access the Azure services that are most likely to be relevant to R users, including: Azure Activity Directory, Azure Resource Manager, AzureGraph, Azure Key Vault, Azure Storage, Containers, Virtual Machines, and Azure Data Explorer. 
+Together, the AzureR packages provide the capability to efficiently and securely access the Azure services that are most likely to be relevant to R users, including: Azure Activity Directory, Azure Resource Manager, AzureGraph, Azure Key Vault, Azure Storage, Containers, Virtual Machines, and Azure Data Explorer.
 
 David and Hong share a concrete code example that demonstrates how all these packages can be used together -- and where to go to get started.
 
@@ -107,7 +107,7 @@ Related Links:
 
 **by: Brian Clark**
 
-Cecil Phillip and Brian Clark's new Twitch series tackles learning a new programming language: Python. In the first session, they focus on how to set up Python on Windows and get started with Python in VS Code. 
+Cecil Phillip and Brian Clark's new Twitch series tackles learning a new programming language: Python. In the first session, they focus on how to set up Python on Windows and get started with Python in VS Code.
 
 Check out the stream notes for recordings, summary, and jump to specific questions or sections based on what's most interesting to you - be it writing your first line of Python code or learning Python-specific terminology.
 
@@ -131,7 +131,7 @@ Related Links:
 
 Brian recaps the first installment of the Learning Python from Scratch series, where he and Cecil Phillips cover all things Python for a beginner audience.
 
-You'll learn what they covered, why they started the series, and see how to write your first lines of Python code using VS Code and Windows. 
+You'll learn what they covered, why they started the series, and see how to write your first lines of Python code using VS Code and Windows.
 
 
 What's next? Join them to go through the set up experience on macOS on Cecil's machine, vote on what project they should build in a future session, and look at Python on Windows Subsystem for Linux (WSL).
@@ -154,7 +154,7 @@ Related Links:
 
 **by: Jay Gordon**
 
-Weekly podcast featuring interviews with DevOps experts and IT pros on their experiences dealing with "on-call" emergencies. 
+Weekly podcast featuring interviews with DevOps experts and IT pros on their experiences dealing with "on-call" emergencies.
 
 This week Jay talks to Jason Hand -- Cloud Advocate at Microsoft, co-organizer of DevOpsDaysRockies, and author of  books on Site Reliability Engineering, Post-Incident Reviews, and ChatOps -- on site reliability, monitoring, and getting in the van.
 
@@ -170,7 +170,7 @@ Tags: DevOps, SRE, Advice, Cloud Computing, Open Source
 
 **by: Thomas Maurer**
 
-The public cloud is becoming more and more important for companies that want to stay agile and flexible to meet their business demands. But, if a company decides to move to the public cloud, what are the best ways to migrate to Microsoft Azure? 
+The public cloud is becoming more and more important for companies that want to stay agile and flexible to meet their business demands. But, if a company decides to move to the public cloud, what are the best ways to migrate to Microsoft Azure?
 
 In this article, Thomas takes a quick look at various scenarios and the services Microsoft offers catered to your organization's needs.
 
@@ -220,7 +220,7 @@ Tags: Python, DevOps, AI/ML, Data Science
 
 **by: Tania Allard**
 
-In her talk for the Manchester UK ML meetup, Tania dives into the challenges of machine discovery and machine automation: the two main use cases of Machine Learning. 
+In her talk for the Manchester UK ML meetup, Tania dives into the challenges of machine discovery and machine automation: the two main use cases of Machine Learning.
 
 You'll learn about the main barriers we must overcome to take ML into production -- and how academia can contribute in this area, starting now: data unification, "cleanliness"  and error detection.
 
@@ -234,7 +234,7 @@ Tags: AI/ML
 
 **by: Jim Bennett**
 
-In this fun video, Jim "unboxes" his Bit Box - a developer community gift from the UK sub. 
+In this fun video, Jim "unboxes" his Bit Box - a developer community gift from the UK sub.
 
 NOTE: while this highlights the team mascot, Docs and MS Learn, it isn't suitable for global distribution.
 
@@ -272,7 +272,7 @@ Tags: Python, Azure Cognitive Services, Azure Portal
 [Read More](https://github.com/jimbobbennett/TwitchCaptioner)
 
 Related Links:
-* [Microsoft Azure](https://ms.portal.azure.com/?WT.mc_id=twitchcaptions-github-jabenn#create/Microsoft.CognitiveServicesSpeechServices)
+
 * [How to select an audio input device with the Speech SDK - Speech Services - Azure Cognitive Services : Microsoft Docs](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/how-to-select-audio-input-devices?WT.mc_id=twitchcaptions-github-jabenn)
 
 
@@ -280,7 +280,7 @@ Related Links:
 
 **by: Jeremy Likness**
 
-In this blog post, Jeremy Likness introduces the concept of Durable Functions: ideal for workflows that run for a long duration based on time passed, but take up very little compute time - like Bots, which spend most of their time waiting for user input. 
+In this blog post, Jeremy Likness introduces the concept of Durable Functions: ideal for workflows that run for a long duration based on time passed, but take up very little compute time - like Bots, which spend most of their time waiting for user input.
 
 To make things interesting and demonstrate how Durable Functions works, Jeremy presents a turn-based adventure game. "Durable Dungeon" implements common patterns, showing you how an application can interact with Durable Functions, doing things like: posting to endpoints, querying status, and relaying the game state to the end user.
 
@@ -301,7 +301,7 @@ Related Links:
 
 **by: Chloe Condon**
 
-In this blog post, Chloe Condon will walk you through how to use Microsoft Azure Bot Services to create a simple chatbot using minimal programming, Twilio, and a Word Doc >> answer frequently asked questions. 
+In this blog post, Chloe Condon will walk you through how to use Microsoft Azure Bot Services to create a simple chatbot using minimal programming, Twilio, and a Word Doc >> answer frequently asked questions.
 
 This post is Part 1 of her Bot series, where she'll detail how to create various bots with Azure - each with varying difficulty.
 
@@ -323,7 +323,7 @@ Related Links:
 
 **by: Adi Polak**
 
-People love Visual Studio Code for its superfast performance, lightweight nature and active open source community -- and, VS Code supports Java! 
+People love Visual Studio Code for its superfast performance, lightweight nature and active open source community -- and, VS Code supports Java!
 
 In this session - originally developed for Devoxx Poland 2019 - you'll see how to use Visual Studio Code to develop your Java application, including all of the available extensions. Java developers can create a lightweight working environment that's powerful and feature-rich, using a combination of extensions best suited to specific scenario and app needs.
 
@@ -343,7 +343,7 @@ Related Links:
 
 **by: Chris Noring**
 
-Serverless is the new black, the thing that everybody talks about and for good reason. Gone are the days when you had that server room full of cables, and, in this article, Chris goes through building serverless apps with Azure Functions and CosmosDB. 
+Serverless is the new black, the thing that everybody talks about and for good reason. Gone are the days when you had that server room full of cables, and, in this article, Chris goes through building serverless apps with Azure Functions and CosmosDB.
 
 You'll see how to scaffold an Azure Cosmos DB database, create a serverless app (with an Azure Function for each call), and configure your function to connect to our database, simplifying CRUD operations.
 
@@ -366,7 +366,7 @@ Related Links:
 
 In this video series (7 videos to be published over the summer), Laurent shares recordings from his DotNetDay 2019 Ethics in AI session.
 
-The public and many developers are confused about AI, and Laurent brings the focus on the delicate topic of ethics. 
+The public and many developers are confused about AI, and Laurent brings the focus on the delicate topic of ethics.
 
 Over the course of the series, you'll learn about bias in data, other ethical issues, privacy, ways to improve the situation, and situations where we can use AI to improve inclusion in an ethical manner.
 
@@ -380,9 +380,9 @@ Tags: AI/ML
 
 **by: Laurent Bugnion**
 
-In this video series (7 videos to be published over the summer), Laurent shares recordings from his DotNetDay 2019 Ethics in AI session. In Part 2, he dives into the "Banana Conundrum" and his experiences with Azure Cognitive Services and object detection >> demonstrates how societal bias plays into training models. 
+In this video series (7 videos to be published over the summer), Laurent shares recordings from his DotNetDay 2019 Ethics in AI session. In Part 2, he dives into the "Banana Conundrum" and his experiences with Azure Cognitive Services and object detection >> demonstrates how societal bias plays into training models.
 
-The public and many developers are confused about AI, and Laurent brings the focus on the delicate topic of ethics. 
+The public and many developers are confused about AI, and Laurent brings the focus on the delicate topic of ethics.
 
 Over the course of the series, you'll learn about bias in data, other ethical issues, privacy, ways to improve the situation, and situations where we can use AI to improve inclusion in an ethical manner.
 
@@ -400,7 +400,7 @@ Related Links:
 
 Announcement post for Francesca Lazzeri's upcoming three-hour online workshop on Time Series Forecasting - delivered via the O'Reilly Live Online Training platform.
 
-In this course, Francesca walks attendees through the process of building and deploying machine learning models that can forecast the future. She will cover the core steps for building, training, and deploying your time series forecasting models. You'll build a theoretical foundation as you cover the essential aspects of time series representations, modeling, and forecasting before diving into the classical methods for forecasting time series data. 
+In this course, Francesca walks attendees through the process of building and deploying machine learning models that can forecast the future. She will cover the core steps for building, training, and deploying your time series forecasting models. You'll build a theoretical foundation as you cover the essential aspects of time series representations, modeling, and forecasting before diving into the classical methods for forecasting time series data.
 
 You'll walk through of some of the more common methods, including simple exponential smoothing, autoregressive integrated moving average (ARIMA), and neural networks for time series forecasting -- and gain hands-on experience applying these models to a real-world scenario, using machine learning components available in open source Python packages, such as scikit-learn, Keras, and TensorFlow.
 
@@ -445,9 +445,9 @@ Tags: Azure Storage, JavaScript, Node.js, Linux, Windows, Azure App Service, Web
 
 **by: David Smith**
 
-In this June roundup of AI, Machine Learning and Data Science news, Cloud Advocate David Smith reviews key open source and industry news, learning resources and applications that have been of interest in the past month. 
+In this June roundup of AI, Machine Learning and Data Science news, Cloud Advocate David Smith reviews key open source and industry news, learning resources and applications that have been of interest in the past month.
 
-Key announcements include: the release of the TensorFlow 2.0 beta, the MLFlow 1.0 release (for use with DataBricks), and Facebook open-sourcing PyRobot. 
+Key announcements include: the release of the TensorFlow 2.0 beta, the MLFlow 1.0 release (for use with DataBricks), and Facebook open-sourcing PyRobot.
 
 In Microsoft news, we have the launch of the Microsoft Immersive Reader, open-sourcing TensorWatch, the MLOps  Azure DevOps extension for orchestrating and managing models in Azure ML Service, and new time series forecasting capabilities in Azure.
 
@@ -465,7 +465,7 @@ Related Links:
 
 **by: Chris Noring**
 
-In his blog post about Kubernetes and YAML, Chris Noring is elaborates on YAML - what it is and how it works -  and how you can use YAML files to configure your Kubernetes experience. 
+In his blog post about Kubernetes and YAML, Chris Noring is elaborates on YAML - what it is and how it works -  and how you can use YAML files to configure your Kubernetes experience.
 
 
 He walks through a few deployment examples and shares resources to help you get started and learn more.
@@ -486,7 +486,7 @@ Related Links:
 
 **by: Chris Noring**
 
-We all want to document our code and our APIs. What's stopping us? Usually time and/or knowing that the documentation and the actual code will drift -- and that might be worse than no documentation at all. 
+We all want to document our code and our APIs. What's stopping us? Usually time and/or knowing that the documentation and the actual code will drift -- and that might be worse than no documentation at all.
 
 In this article, Chris describes how to add Swagger to your Nest.js project, creating live documentation that updates as your code changes.
 
@@ -556,7 +556,7 @@ Watch Tanya's recorded DevSecOps-focused talk to learn why and how to build secu
 
 Tags: Security, Advice
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zQJ5dxCvniU&t=53" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zQJ5dxCvniU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -564,7 +564,7 @@ Tags: Security, Advice
 
 **by: Tanya Janca**
 
-In this article, a Penn State student shares her advice and experiences breaking into the security community. 
+In this article, a Penn State student shares her advice and experiences breaking into the security community.
 
 In addition to Twitter, conferences, and Slack, she focuses on the importance of finding a mentor - featuring Tanya Janca's #MentoringMonday campaign.
 
@@ -589,7 +589,6 @@ Tags: Spring, Azure Web Apps, Azure CosmosDB, MongoDB, Azure App Service, Java
 Related Links:
 * [Azure App Service – app hosting : Microsoft Azure](https://azure.microsoft.com/en-us/services/app-service/?WT.mc_id=devto-blog-judubois)
 * [Azure Cosmos DB – Multi-Model Database Service : Microsoft Azure](https://azure.microsoft.com/en-us/services/cosmos-db/?WT.mc_id=devto-blog-judubois)
-* [Microsoft Azure](https://portal.azure.com/?WT.mc_id=devto-blog-judubois)
 
 
 ## [Home Grown IoT Part VI:Processing Data](https://dev.to/azure/home-grown-iot-processing-data-5cnm)
@@ -617,7 +616,7 @@ Related Links:
 
 In this presentation, Ari looks at the future of semantics in natural language processing. You'll learn the history of Natural Language Processing, recent trends and neural NLP breakthroughs, pitfalls, and ways to use NLP in your systems and apps.
 
-Since the advent of word2vec, word embeddings have become a go-to method for encapsulating distributional semantics in NLP applications. 
+Since the advent of word2vec, word embeddings have become a go-to method for encapsulating distributional semantics in NLP applications.
 
 Ari shares the strengths and weaknesses of using pre-trained word embeddings, demonstrating how to incorporate more complex semantic representation schemes such as: Semantic Role Labeling, Abstract Meaning Representation and Semantic Dependency Parsing into your applications.
 
@@ -643,7 +642,7 @@ Tags: Python, AI/ML, Deep Learning
 
 **by: Jay Gordon**
 
-Weekly podcast featuring interviews with DevOps experts and IT pros on their experiences dealing with "on-call" emergencies. 
+Weekly podcast featuring interviews with DevOps experts and IT pros on their experiences dealing with "on-call" emergencies.
 
 In this episode, Jay talks to Molly Struve, Lead Site Reliability Engineer at Kenna Security on her journey to tech (starting in Aerospace), modern ops and how to select better ideas when dealing with on-call.
 
@@ -659,7 +658,7 @@ Tags: DevOps, Advice
 
 Thomas shares his upcoming "Azure Security Center: How to Protect Your Datacenter with Next Generation Security" webinar, delivered in partnership with Microsoft MVP Andy Syrewicze.
 
-Join the session to learn about Azure Security Center and how to protect your Cloud and Datacenter Infrastructure from threats. 
+Join the session to learn about Azure Security Center and how to protect your Cloud and Datacenter Infrastructure from threats.
 
 Thomas and Andy will provide an Azure Security Center overview, steps to get started, best practices, tips for integration with other tools, and more.
 
@@ -902,15 +901,15 @@ Tags: Azure Machine Learning, Python, Azure Container Instances, Azure Notebooks
 
 **by: Laurent Bugnion**
 
-In this video series (7 videos to be published over the summer), Laurent shares recordings from his DotNetDay 2019 Ethics in AI session. 
+In this video series (7 videos to be published over the summer), Laurent shares recordings from his DotNetDay 2019 Ethics in AI session.
 
-In Part 3, he introduces the concept of Bias in AI, due to various societal biases found in the data. Laurent illustrates how the main issue in AI models is not the math - but the bias present in our societies. You'll see how bias manifests in the big amounts of data needed to train AI models. 
+In Part 3, he introduces the concept of Bias in AI, due to various societal biases found in the data. Laurent illustrates how the main issue in AI models is not the math - but the bias present in our societies. You'll see how bias manifests in the big amounts of data needed to train AI models.
 
 Over the course of the series, you'll learn about bias in data, other ethical issues, privacy, ways to improve the situation, and situations where we can use AI to improve inclusion in an ethical manner.
 
 Tags: Azure Cognitive Service (LUIS), AI/ML, Azure Cognitive Services, azure, ethical IT, Deep Learning
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hehk0Mo6SfQ&list=PLl8yjZLsL_WobPtlCCIRgoU91Geokx7qK&index=4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hehk0Mo6SfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Related Links:
 * [Making intelligence intelligible with Dr. Rich Caruana - Microsoft Research](https://www.microsoft.com/en-us/research/blog/making-intelligence-intelligible-dr-rich-caruana/?WT.mc_id=dotnetday19-video-lbugnion)
@@ -920,17 +919,17 @@ Related Links:
 
 **by: Laurent Bugnion**
 
-In this video series (7 videos to be published over the summer), Laurent shares recordings from his DotNetDay 2019 Ethics in AI session. 
+In this video series (7 videos to be published over the summer), Laurent shares recordings from his DotNetDay 2019 Ethics in AI session.
 
-In Part 4, Laurent talks about two major bias: racial bias and gender bias. He uses examples to illustrate and explain the implications of these biases in AI models (and why they're arguably the two largest ethical issues). 
+In Part 4, Laurent talks about two major bias: racial bias and gender bias. He uses examples to illustrate and explain the implications of these biases in AI models (and why they're arguably the two largest ethical issues).
 
-The public and many developers are confused about AI, and Laurent brings the focus on the delicate topic of ethics. 
+The public and many developers are confused about AI, and Laurent brings the focus on the delicate topic of ethics.
 
 Over the course of the series, you'll learn about bias in data, other ethical issues, privacy, ways to improve the situation, and situations where we can use AI to improve inclusion in an ethical manner.
 
 Tags: AI/ML, Azure Cognitive Services, Azure Cognitive Services (Custom Vision), azure, ethical IT, Deep Learning
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5TpH3kO77Qg&list=PLl8yjZLsL_WobPtlCCIRgoU91Geokx7qK&index=5" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5TpH3kO77Qg&list=PLl8yjZLsL_WobPtlCCIRgoU91Geokx7qK" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -938,17 +937,17 @@ Tags: AI/ML, Azure Cognitive Services, Azure Cognitive Services (Custom Vision),
 
 **by: Laurent Bugnion**
 
-In this video series (7 videos to be published over the summer), Laurent shares recordings from his DotNetDay 2019 Ethics in AI session. 
+In this video series (7 videos to be published over the summer), Laurent shares recordings from his DotNetDay 2019 Ethics in AI session.
 
 In Part 5, he talks about other ethical issues that can arise when using AI, including privacy - yet another critical factor when we train AI models using real data.
 
-The public and many developers are confused about AI, and Laurent brings the focus on the delicate topic of ethics. 
+The public and many developers are confused about AI, and Laurent brings the focus on the delicate topic of ethics.
 
 Over the course of the series, you'll learn about bias in data, other ethical issues, privacy, ways to improve the situation, and situations where we can use AI to improve inclusion in an ethical manner.
 
 Tags: AI/ML, Azure Cognitive Services, Azure Cognitive Services (Custom Vision), azure, ethical IT, Deep Learning
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qdnCyJ4owWo&list=PLl8yjZLsL_WobPtlCCIRgoU91Geokx7qK&index=6" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qdnCyJ4owWo&list=PLl8yjZLsL_WobPtlCCIRgoU91Geokx7qK" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -1027,7 +1026,7 @@ Related Links:
 
 As an Azure Advocate, Jay spends a lot of his time learning the easiest ways for beginners to get started with Azure. 
 
-In this tutorial-style post, Jay continues his "Cloud Shell Tips" with a look at how you can use Cloud Shell in your browser to rapidly deploy, view and modify the Virtual Machine created in the previous post of the series. No matter where you are in the world, if you log into Azure Cloud Shell, you're able to work on your Azure solution. You can execute remote jobs, automate services using tools like Ansible or modify your Kubernetes cluster. 
+In this tutorial-style post, Jay continues his "Cloud Shell Tips" with a look at how you can use Cloud Shell in your browser to rapidly deploy, view and modify the Virtual Machine created in the previous post of the series. No matter where you are in the world, if you log into Azure Cloud Shell, you're able to work on your Azure solution. You can execute remote jobs, automate services using tools like Ansible or modify your Kubernetes cluster.
 
 You'll get a sense of how you can use the CLI to query the Azure Resource Manager, then upgrade your VM to suit changing requirements or resource needs. And you'll get some useful DevOps advice in the process.
 
@@ -1048,7 +1047,7 @@ Related Links:
 
 **by: Brandon Minnick**
 
-Check out this Reddit post to see the latest Xamarin Docs updates (docs.microsoft.com/xamarin). 
+Check out this Reddit post to see the latest Xamarin Docs updates (docs.microsoft.com/xamarin).
 
 Brandon rounds up the biggest changes to make it easier for .NET/C# mobile developers to start using the latest features.
 
@@ -1107,7 +1106,7 @@ Related Links:
 
 **by: Thomas Maurer**
 
-The Azure Migrate team recently launched an update to the Azure Migrate service, which can help you discover, assess, and migrate applications, infrastructure, and data from your on-prem environment to Microsoft Azure. This is excellent timing since we all know that Windows Server 2008 and Windows Server 2008 R2 are soon out of support and you get free extended security updates if you migrate your VMs to Azure. 
+The Azure Migrate team recently launched an update to the Azure Migrate service, which can help you discover, assess, and migrate applications, infrastructure, and data from your on-prem environment to Microsoft Azure. This is excellent timing since we all know that Windows Server 2008 and Windows Server 2008 R2 are soon out of support and you get free extended security updates if you migrate your VMs to Azure.
 
 With Azure Migrate, you can now centrally track the progress of your migration journey across multiple thrid-party and Microsoft tools. In this post, Thomas shows how you can step-by-step assess and migrate Hyper-V VMs to Azure using Azure Migrate.
 
