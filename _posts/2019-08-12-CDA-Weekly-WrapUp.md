@@ -196,50 +196,39 @@ Related Links:
 * [Basic Queries - EF Core : Microsoft Docs](https://docs.microsoft.com/en-us/ef/core/querying/basic?wt.mc_id=devto-blog-chnoring)
 * [Overview - EF Core : Microsoft Docs](https://docs.microsoft.com/en-us/ef/core/?wt.mc_id=devto-blog-chnoring)
 
+## [Azure Go Labs](https://github.com/Azure-Samples/azure-opensource-labs)
 
-## [Azure Samples Labs for Go](https://github.com/Azure-Samples/azure-opensource-labs)
+**by: Aaron Wislang (& multiple contributors)**
 
-**by: Aaron Wislang**
+A collection of labs demonstrating how to develop applications with Go, Visual Studio Code, the Windows Subsytem for Linux (WSL) 2 and Azure. Updated and delivered at GopherCon 2019 (and previously at GopherCon 2018). The labs include:
 
-Explore collection of 5+ labs, demonstrating how to develop applications with Go, Visual Studio Code, the Windows Subsystem for Linux (WSL) 2 and Azure.
+- Build and Containerize a Go application
+- Containerize a Go application using Visual Studio Code and the Docker extension
+- Open Source Development with the Windows Terminal (Preview) and the Windows Subsystem for Linux (WSL) 2
+- Use Hyperscale (Citus) to speed up analytics
 
-First delivered in person at OSCON 2019, labs can be delivered in person or via self-directed study.
+Labs from GopherCon 2018 cover Go and Athens, the Azure CLI, Azure Resource Manager, Terraform, Virtual Machine Scale Sets, Web Apps, Container Instances and Azure Kubernetes Service.
 
-
-Labs include:
-
-- Build and Containerize a Go application (build a Go app locally and in the cloud with Azure Container Registry (ACR) Build and Docker's multi-stage build capabilities).
-
-- Containerize a Go application using Visual Studio Code and the Docker extension (create, build and run a container for a Go application using the Docker extension for Visual Studio Code to generate Dockerfiles).
-
-- Open Source Development with the Windows Terminal (Preview) and the Windows Subsystem for Linux (WSL) 2 (set up and customize a Windows PC for open source development, then use VS Code to debug an application running in WSL).
-
-- Use Hyperscale (Citus) to speed up analytic (intro to Azure Database for PostgreSQL Hyperscale (Citus), creating a cluster to scale out PostgreSQL, turning it into a distributed database, and more).
-
-10-30 minute labs:
-- Deploy your Go application to an Azure Virtual Machine Scale Set using Azure CLI, Azure Resource Manager or Terraform 
-
-- Deploy your Go application to Azure Web Apps, Azure Web Apps for Containers, Azure Container Instances or Azure Kubernetes Service
-
-- Deploy and try a Go modules proxy from project Athens
-
-Tags: Azure Container Instances, Azure Web Apps for Containers, Azure PostgreSQL, Azure Container Registry, Windows Subsystem for Linux, Azure Resource Manager, Go, Azure Kubernetes Service, Azure App Service, VS Code, VS Code Marketplace, Open Source
-
-[Read More](https://github.com/Azure-Samples/azure-opensource-labs)
-
-
-
-## [Azure Go Labs](https://github.com/Azure-Samples/azure-go-labs)
-
-**by: Aaron Wislang**
-
-A collection of labs demonstrating how to develop applications with Go, Visual Studio Code, the Windows Subsytem for Linux (WSL) 2 and Azure. Originally developed for GopherCon 2018 and updated for GopherCon 2019.
-
-Tags: Go, WSL 2, Visual Studio, azure
+Tags: Go, Azure Container Instances, Azure Web Apps for Containers, Azure PostgreSQL, Azure Container Registry, Windows Subsystem for Linux, Azure Resource Manager, Azure Kubernetes Service, Azure App Service, VS Code, VS Code Marketplace, Open Source
 
 [Read More](https://github.com/Azure-Samples/azure-go-labs)
 
+## [Azure Open Source Labs](https://github.com/Azure-Samples/azure-opensource-labs)
 
+**by: Aaron Wislang (& multiple contributors)**
+
+A collection of labs demonstrating how to build Open Source applications with Azure, Visual Studio Code and the Windows Subsytem for Linux (WSL). First delivered at OSCON 2019, labs can be completed in person or via self-directed study. The labs include: 
+
+- Containerize a Django application using Visual Studio Code
+- Windows for Open Source Developers
+- Try .NET
+- Developing a new Flask application in a Dev Container
+- Developing a Django+PostgreSQL application in a Dev Container
+- Use Azure Functions to build a RESTful API
+- Containerize and Deploy a Python Flask application with Azure Container Registry and Azure Container Instances
+- Use Hyperscale (Citus) to speed up analytics
+
+[Read More](https://github.com/Azure-Samples/azure-opensource-labs)
 
 ## [Learn How You Can Use GraphQL in .NET Core](https://dev.to/dotnet/learn-how-you-can-use-graphql-in-net-core-and-c-4h96)
 
