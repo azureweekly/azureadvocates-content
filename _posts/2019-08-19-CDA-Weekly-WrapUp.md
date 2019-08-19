@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CDA Weekly Content Wrapup (08/19/2019)
-subtitle: 
+subtitle:
 tags: [Azure Security Center, JavaScript, Node.js, Advice, Go, DevOps, Cloud Computing, .NET Core, VS Code, Open Source, Windows Virtual Machines, Windows 10, Windows, Hyper-V, Microservices, .NET, .NET Core, C#, Kubernetes, Azure Virtual Machines, Cloud-Native, Azure Blueprints, IT Ops, Azure Policy, Azure RBAC, Azure Storage, Azure Functions, VS Code Marketplace, APIs/API Development, Python, Containers, VS Extensions, Visual Studio for Mac, Visual Studio, Mobile Development, Xamarin, Visual Studio Tools for Xamarin, Azure AD, Azure Active Directory, Azure SignalR Service, Docker, Azure IoT Central, Developer Relations General, Startups, Certification, azure, MS Learn, Azure ARM Templates, Azure CLI, Azure Cloud Shell, Azure Pipelines, Architecture, ASP.NET Core, Migration, Migration   Modernization, Xamarin.Forms, Serverless, TypeScript, CSS, HTML, IoT, Azure IoT Hub]
 ---
 
@@ -90,7 +90,7 @@ Related Links:
 
 **by: Shayne  Boyer**
 
-Follow Shayne as he explores the Microsoft campus to have Cloud Native explained to him by Distinguished Engineer, Brendan Burns. 
+Follow Shayne as he explores the Microsoft campus to have Cloud Native explained to him by Distinguished Engineer, Brendan Burns.
 
 From two really important aspects of cloud native to blue-green deployments and all things Kubernetes, Brendan and Shayne cover tons of topics and concepts - including Brendan's advice for how to get started.
 
@@ -110,9 +110,9 @@ Related Links:
 
 **by: Phoummala Schmitt**
 
-Businesses need to be agile. They need to quickly adopt to new business trends, or else they are behind the game. Accelerating your business to achieve success is a must, but often the need to accelerate causes lapses in controls to meet compliance and regulation standards. 
+Businesses need to be agile. They need to quickly adopt to new business trends, or else they are behind the game. Accelerating your business to achieve success is a must, but often the need to accelerate causes lapses in controls to meet compliance and regulation standards.
 
-With cloud technologies bursting everywhere, it’s quick and easy to deploy. In a matter of minutes, you can be up and running, BUT it can be dangerous if you don’t have the right plan in place. 
+With cloud technologies bursting everywhere, it’s quick and easy to deploy. In a matter of minutes, you can be up and running, BUT it can be dangerous if you don’t have the right plan in place.
 
 In this blog post, Cloud Advocate Phoummala Schmitt walks you through an achievable plan for building governance into your solutions (while still moving at the speed your business needs), sharing an incremental approach that starts off with foundational layers.
 
@@ -158,7 +158,7 @@ Related Links:
 
 **by: Burke Holland**
 
-Burke pens another article to help developers - this time, focused on how to use VS Code Remote Development to ensure projects work for *all* Developers. 
+Burke pens another article to help developers - this time, focused on how to use VS Code Remote Development to ensure projects work for *all* Developers.
 
 In this post, you'll learn the the basic concept behind Remote-Containers (specify a Dockerfile which in turn specifies all of the necessary dependencies and configuration steps), see it in action as Burke walks through applying it to his urlist.com project, and get resources to get started.
 
@@ -183,7 +183,7 @@ Related Links:
 
 **by: Jeremy Likness**
 
-In this deep dive, Jeremy shows how to use Blazor to easily build a rich client that can issue advanced queries and CRUD operations against a .NET Core Web API OData controller. 
+In this deep dive, Jeremy shows how to use Blazor to easily build a rich client that can issue advanced queries and CRUD operations against a .NET Core Web API OData controller.
 
 This post includes various resources, code examples, compares other modern data transfer protocols, and more!
 
@@ -192,7 +192,6 @@ Tags: .NET Core, APIs/API Development
 [Read More](https://blog.jeremylikness.com/blog/build-data-driven-apps-blazing-fast-with-blazor-and-odata/)
 
 Related Links:
-* [404 - Content Not Found : Microsoft Docs](https://docs.microsoft.com/en-us/previous-versions/dotnet/wcf-ria/ee707344)
 * [Get started with ASP.NET Core Blazor : Microsoft Docs](https://docs.microsoft.com/en-us/aspnet/core/blazor/get-started?view=aspnetcore-3.0&tabs=visual-studio&utm_source=jeliknes&utm_medium=blog&utm_campaign=link&WT.mc_id=link-blog-jeliknes)
 * [Create an OData v4 Endpoint Using ASP.NET Web API 2.2 : Microsoft Docs](https://docs.microsoft.com/en-us/aspnet/web-api/overview/odata-support-in-aspnet-web-api/odata-v4/create-an-odata-v4-endpoint?utm_source=jeliknes&utm_medium=blog&utm_campaign=link&WT.mc_id=link-blog-jeliknes)
 * [What is the Azure SQL Database service? : Microsoft Docs](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-technical-overview?utm_source=jeliknes&utm_medium=blog&utm_campaign=link&WT.mc_id=link-blog-jeliknes)
@@ -219,9 +218,9 @@ Related Links:
 
 **by: Brian Clark**
 
-In this session, Cecil and Brian continue the series on learning python from scratch, with a focus on Tuple and Set types. 
+In this session, Cecil and Brian continue the series on learning python from scratch, with a focus on Tuple and Set types.
 
-Specifically, they learn what they are, some of their unique purposes and use cases, and how to use them in Python. 
+Specifically, they learn what they are, some of their unique purposes and use cases, and how to use them in Python.
 
 The next session will conclude the Advanced Container Types section >> focus on Dictionary types.
 
@@ -239,7 +238,7 @@ Related Links:
 
 **by: Sonia Cuff**
 
-In this guest post, Sonia joins the Diversity & Tech Tech Community blog to preview one of her MS Ignite talk topics: Introversion. 
+In this guest post, Sonia joins the Diversity & Tech Tech Community blog to preview one of her MS Ignite talk topics: Introversion.
 
 Main takeaway: introversion is common in tech -- and even occurs in many high profile public speakers!
 
@@ -253,7 +252,7 @@ Main takeaway: introversion is common in tech -- and even occurs in many high pr
 
 Matt Soucoup and James Montemagno cover all things Xamarin and mobile cloud, and in this episode, they:
 
--  Discuss a lot of Android updates, especially the Android Startup tracing to speed up your app and the new AndroidX. 
+-  Discuss a lot of Android updates, especially the Android Startup tracing to speed up your app and the new AndroidX.
 -  Cover Visual Studio for Mac updates
 - Share their Azure service and pod pick of the month
 
@@ -300,7 +299,7 @@ Related Links:
 
 **by: Anthony Chu**
 
-Azure SignalR Service can add real-time messaging over WebSockets to serverless apps. 
+Azure SignalR Service can add real-time messaging over WebSockets to serverless apps.
 
 In this quickstart, learn how to use SignalR Service and Functions to build a serverless, real-time chat application
 
@@ -422,7 +421,7 @@ Related Links:
 
 Imagine you just  purchased your own domain name and want to host your blog on GitHub pages...
 
-...and then you discover that you need to configure a CNAME record with your DNS provider. Rather than hand-tooling your DNS records, this post shows you how to manage your CNAMEs via an Azure Resource Manager Template in Azure. 
+...and then you discover that you need to configure a CNAME record with your DNS provider. Rather than hand-tooling your DNS records, this post shows you how to manage your CNAMEs via an Azure Resource Manager Template in Azure.
 
 Among a host of other things, this allows you to version, review, and share your template(s) in version control.
 
@@ -482,7 +481,7 @@ Related Links:
 
 This post is the first in a series that explains common patterns and their implementation in software design, starting with the concept of Circuit Breakers.
 
-Applying circuit breaker patterns from electrical engineering to software engineering design prevents individual services from causing damage to other services -- or bringing down the whole system (similar to how electrical circuit breakers will shut down power in one area of your home to protect other rooms from possible damage). 
+Applying circuit breaker patterns from electrical engineering to software engineering design prevents individual services from causing damage to other services -- or bringing down the whole system (similar to how electrical circuit breakers will shut down power in one area of your home to protect other rooms from possible damage).
 
 Jennifer explores this in deeper detail, including pros, cons, risks, and mitigation tactics.
 
@@ -533,7 +532,7 @@ Hear from Mike James, Microsoft Cloud Advocate, as he shares a few ways to migra
 
 Tags: Migration, .NET, .NET Core, C#, Migration     Modernization
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I1_kqOIKQTQ&list=PLEXuFMEOTa_hST60OIJWSRX8W-4FJAfXm&index=2&t=0s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I1_kqOIKQTQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -547,7 +546,7 @@ Check out the github.com/Xamarin/Xamarin.forms for more details.
 
 Tags: Visual Studio for Mac, .NET, .NET Core, C#, Xamarin.Forms, Xamarin
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wWmg7Z5xlmY&list=PLEXuFMEOTa_hST60OIJWSRX8W-4FJAfXm&index=2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wWmg7Z5xlmY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
