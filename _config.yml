@@ -28,6 +28,7 @@ navbar-links:
     - Free Azure Account: "https://azure.microsoft.com/free/?WT.mc_id=wrapup-blog-shboyer"
     - Microsoft Learn: "https://docs.microsoft.com/learn/?WT.mc_id=wrapup-blog-shboyer"
     - Azure Docs: "https://docs.microsoft.com?WT.mc_id=wrapup-blog-shboyer"
+    - Azure Newsletter: "https://azure.microsoft.com/resources/join-the-azure-developer-community/?WT.mc_id=devto-blog-shboyer"
   Follow Us: "http://twitter.com/azureadvocates"
 
 # Image to show in the navigation bar - image must be a square (width = height)
