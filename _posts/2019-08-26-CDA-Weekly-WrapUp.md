@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CDA Weekly Content Wrapup (08/26/2019)
-subtitle: 
+subtitle:
 tags: [GraphQL, JavaScript, Node.js, Serverless, Vue, Developer Relations General, Azure Container Instances, Docker, Containers, Azure Container Registry, Azure App Service, VS Code, VS Code Marketplace, Windows Server, Windows, SQL Server, Security, Azure DevOps Services, CI/CD, Azure Pipelines, AzureGraph, azure, Azure ARM Templates, Azure Functions, Python, MS Learn, .NET, .NET Core, C#, Mobile App Services, Xamarin, Xamarin.Forms, Mobile Development, Visual Studio Tools for Xamarin, Xamarin Plugins, .NET Core, Azure, Certification, Angular, Open Source, Linux, Visual Studio, IoT, GitHub Marketplace, Azure Cloud Shell, Windows Terminal, AzCopy, Azure Storage Explorer, Azure Blob Storage, Git, TypeScript, Diversity in Tech, Advice, DevOps, Cloud Computing]
 ---
 
@@ -9,11 +9,11 @@ tags: [GraphQL, JavaScript, Node.js, Serverless, Vue, Developer Relations Genera
 
 **by: Jen Looper**
 
-"How Do I Even Dev?" is your ever-growing destination for Cloud Advocate generated workshop content. 
+"How Do I Even Dev?" is your ever-growing destination for Cloud Advocate generated workshop content.
 
 The site features workshops on Express, Vue, Cognitive Services, IoT, GraphQL/Serverless, Kubernetes, Python, Xamarin and more  - from advocates including Tierney Cyren, Jen Looper, Glaucia Lemos. Frank Boucher, Nina Zakharenko, Brandon Minnick, Jim Bennett, Chris Noring and more.
 
-Site: https://howdoieven.dev "
+Site: [https://howdoieven.dev](https://howdoieven.dev)
 
 Tags: GraphQL, JavaScript, Node.js, Serverless, Vue
 
@@ -93,7 +93,7 @@ Tags: VS Code, VS Code Marketplace
 Related Links:
 * [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/?WT.mc_id=none-blog-shboyer)
 * [
-	
+
     Extensions for Visual Studio family of products : Visual Studio Marketplace
 
 ](https://marketplace.visualstudio.com/vscode?WT.mc_id=none-blog-shboyer)
@@ -143,7 +143,7 @@ Related Links:
 
 **by: Phoummala Schmitt **
 
-All good things come to end and the end is nearing. What am I talking about you ask? The support countdown clock is ticking. On January 14, 2020, support for several Microsoft products will end. That's 5 short months away when the end of regular security updates begins and several products that will be going end of support ( EOS). 
+All good things come to end and the end is nearing. What am I talking about you ask? The support countdown clock is ticking. On January 14, 2020, support for several Microsoft products will end. That's 5 short months away when the end of regular security updates begins and several products that will be going end of support ( EOS).
 
 Don't let your infrastructure and applications go unprotected. In this blog post Cloud Advocate Phoummala Schmitt talks about what key products will reach end of support and what options you have to get updated and current.
 
@@ -191,7 +191,7 @@ Related Links:
 
 **by: Yohan Lasorsa**
 
-If you're like Yohan, who spends a good part of his free time working on open source software (OSS) on GitHub for (mostly) fun and learning new things, and want to know what CI/CD solution you should use to make your life easier, you've come to the right place!  
+If you're like Yohan, who spends a good part of his free time working on open source software (OSS) on GitHub for (mostly) fun and learning new things, and want to know what CI/CD solution you should use to make your life easier, you've come to the right place!
 
 This blog post gives you a step by step walkthrough of how to setup Azure Pipelines for their OSS projects, more importantly, how and why it can help save some precious time.
 
@@ -264,7 +264,7 @@ Related Links:
 
 Azure Snack is a website for quick-hit azure learnings with step by step workshops, from building applications to deploying them.
 
-Learn how to create an Express app in Node.js and deploy on Azure 
+Learn how to create an Express app in Node.js and deploy on Azure
  is a workshop created by Tierney Cyren to take you step-by-step through the process of building an Express app, documenting the changes as bite-sized chunks that you’ll ideally be able to pick up and iterate upon rapidly.
 
 Tags: Azure Container Instances, JavaScript, Node.js, Azure Pipelines, Azure App Service
@@ -283,7 +283,7 @@ Related Links:
 
 **by: Tanya Janca**
 
-A list of FREE resources that you can use to learn about Application Security - from Cloud Advocate and AppSec pro Tanya Janca. 
+A list of FREE resources that you can use to learn about Application Security - from Cloud Advocate and AppSec pro Tanya Janca.
 
 This is an update from earlier versions, and, while not an exhaustive list, it includes items Tanya highly recommends or has personally created to help you get started.
 
@@ -377,7 +377,7 @@ Related Links:
 
 If you've ever asked "What Microsoft Azure exam should I take?" or "Which certification matters for my job?" or are interested in learning new Azure skills, this post is for you!
 
-In this post, Thomas helps you navigate and select the right Azure certification path and exams, based on your interests or job role. 
+In this post, Thomas helps you navigate and select the right Azure certification path and exams, based on your interests or job role.
 
 While there are many different certifications and exams available depending on your job role, he shares recommendations for beginners and experts and presents each path in an easy-to-understand way.
 
