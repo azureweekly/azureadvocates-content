@@ -618,9 +618,9 @@ In this episode, Jay talks to Mike Grayson - a Senior Database Engineer speciali
 
 Getting paid is a pretty dang important part of your job. Mike and his team at Paychex are working to make sure that the databases that handle that are always online. This week Jay talks to Mike about database ops, his advocacy within that community, and his advice for someone on-call ("don't hesitate to ask questions").
 
-Transcript: https://aka.ms/AA5wnuo
-https://twitter.com/mikegray831
-https://mongomikeblog.wordpress.com/blog/
+Transcript: [https://aka.ms/AA5wnuo](https://aka.ms/AA5wnuo)
+[Mike Grayson - Twitter](https://twitter.com/mikegray831)
+[Mike Grayson - Blog](https://mongomikeblog.wordpress.com/blog/)
 
 Tags: DevOps, Advice, Cloud Computing
 
