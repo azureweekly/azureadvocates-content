@@ -231,9 +231,7 @@ Tags: Python, Containers
 [Read More](https://dev.to/azure/learning-python-from-scratch-dictionaries-5fl7)
 
 Related Links:
-* [
-        Python - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=ms-python.python&WT.mc_id=twitch-social-cxa)
+* [Python - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-python.python&WT.mc_id=twitch-social-cxa)
 
 
 ## [Azure Snacks - Learn How to Create an Express app in Node.js and Deploy on Azure](https://azuresnacks.azurewebsites.net/)
@@ -345,7 +343,6 @@ Tags: .NET, .NET Core, C#
 
 Related Links:
 * [.NET Core Global Tools - .NET Core CLI : Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/core/tools/global-tools?WT.mc_id=devto-blog-aapowell)
-* [.NET Core Global Tools - .NET Core CLI : Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/core/tools/global-tools?WT.mc_id=dotnetdelice-github-aapowell)
 * [.nuspec File Reference for NuGet : Microsoft Docs](https://docs.microsoft.com/en-us/nuget/reference/nuspec?WT.mc_id=devto-blog-aapowell)
 
 
