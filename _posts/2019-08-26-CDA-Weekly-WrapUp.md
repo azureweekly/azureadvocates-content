@@ -65,12 +65,8 @@ Related Links:
 * [Azure for Students – Cr&#233;dito de Conta Gratuita : Microsoft Azure](https://azure.microsoft.com/pt-br/free/students/?wt.mc_id=blog-devto-gllemos)
 * [Azure for Students: cr&#233;dito de la cuenta gratuita : Microsoft Azure](https://azure.microsoft.com/es-es/free/students/?wt.mc_id=blog-devto-gllemos)
 * [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/?WT.mc_id=blog-devto-gllemos)
-* [
-        Docker - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker&WT.mc_id=blog-devto-gllemos)
-* [
-        Azure Tools - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack&WT.mc_id=blog-devto-gllemos)
+* [Docker - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker&WT.mc_id=blog-devto-gllemos)
+* [Azure Tools - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack&WT.mc_id=blog-devto-gllemos)
 * [Compilación de una aplicación web en contenedores con Docker - Learn : Microsoft Docs](https://docs.microsoft.com/es-es/learn/modules/intro-to-containers/?WT.mc_id=blog-devto-gllemos)
 * [Implementación y ejecución de una aplicación web en contenedor con Azure App Service - Learn : Microsoft Docs](https://docs.microsoft.com/es-es/learn/modules/deploy-run-container-app-service/?WT.mc_id=blog-devto-gllemos)
 * [Aprendizaje profundo interactivo con Jupyter, Docker y PyTorch en Data Science Virtual Machine - Learn : Microsoft Docs](https://docs.microsoft.com/es-es/learn/modules/interactive-deep-learning/?WT.mc_id=blog-devto-gllemos)
@@ -92,33 +88,15 @@ Tags: VS Code, VS Code Marketplace
 
 Related Links:
 * [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/?WT.mc_id=none-blog-shboyer)
-* [
-
-    Extensions for Visual Studio family of products : Visual Studio Marketplace
-
-](https://marketplace.visualstudio.com/vscode?WT.mc_id=none-blog-shboyer)
+* [Extensions for Visual Studio family of products : Visual Studio Marketplace](https://marketplace.visualstudio.com/vscode?WT.mc_id=none-blog-shboyer)
 * [GitHub - dotnet-presentations/aspnetcore-app-workshop: This workshop will teach you ASP.NET Core by building a complete conference management website from scratch.](https://github.com/dotnet-presentations/aspnetcore-app-workshop)
-* [
-        C# - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp&WT.mc_id=none-blog-shboyer)
-* [
-        Visual Studio IntelliCode - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode&WT.mc_id=none-blog-shboyer)
-* [
-        SQL Server (mssql) - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql&WT.mc_id=none-blog-shboyer)
-* [
-        Azure Account - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account&WT.mc_id=none-blog-shboyer)
-* [
-        Azure App Service - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice&WT.mc_id=none-blog-shboyer)
-* [
-        Docker - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker&WT.mc_id=none-blog-shboyer)
-* [
-        Live Share Extension Pack - Visual Studio Marketplace
-    ](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack&WT.mc_id=none-blog-shboyer)
+* [C# - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp&WT.mc_id=none-blog-shboyer)
+* [Visual Studio IntelliCode - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode&WT.mc_id=none-blog-shboyer)
+* [SQL Server (mssql) - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql&WT.mc_id=none-blog-shboyer)
+* [Azure Account - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account&WT.mc_id=none-blog-shboyer)
+* [Azure App Service - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice&WT.mc_id=none-blog-shboyer)
+* [Docker - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker&WT.mc_id=none-blog-shboyer)
+* [Live Share Extension Pack - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack&WT.mc_id=none-blog-shboyer)
 
 
 ## [VS Code Can Do That - Workshop](https://burkeholland.gitbook.io/vs-code-can-do-that/)
