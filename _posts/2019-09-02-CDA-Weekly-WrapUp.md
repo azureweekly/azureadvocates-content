@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CDA Weekly Content Wrapup (09/02/2019)
-subtitle: 
+subtitle:
 tags: [GraphQL, JavaScript, Node.js, Serverless, Vue, Azure Container Instances, Azure Pipelines, Azure App Service, Diversity in Tech, Advice, Azure Storage, Azure Front Door, Security, AI/ML, Azure Cognitive Services Speech API, Windows Server, .NET, .NET Core, C#, Web Assembly WASM, CI/CD, DevOps, Databases, Azure Spatial Anchors, Azure Cognitive Services, Azure Cognitive Services Computer Vision API, Mobile App Services, Xamarin.Forms, Visual Studio App Center, Mobile Development, .NET Core, ASP.NET Core, Docker, Windows Subsystem for Linux, Ubuntu, Linux, Windows 10, Hyper-V, Azure, Azure Portal, Rust, Cloud Computing General, Azure Key Vault, Cloud-Native, Diversity & Inclusion]
 ---
 
@@ -9,11 +9,11 @@ tags: [GraphQL, JavaScript, Node.js, Serverless, Vue, Azure Container Instances,
 
 **by: Jen Looper**
 
-"How Do I Even Dev?" is your ever-growing destination for Cloud Advocate generated workshop content. 
+"How Do I Even Dev?" is your ever-growing destination for Cloud Advocate generated workshop content.
 
 The site features workshops on Express, Vue, Cognitive Services, IoT, GraphQL/Serverless, Kubernetes, Python, Xamarin and more  - from advocates including Tierney Cyren, Jen Looper, Glaucia Lemos. Frank Boucher, Nina Zakharenko, Brandon Minnick, Jim Bennett, Chris Noring and more.
 
-Site: https://howdoieven.dev "
+Site: https://howdoieven.dev 
 
 Tags: GraphQL, JavaScript, Node.js, Serverless, Vue
 
@@ -27,7 +27,7 @@ Tags: GraphQL, JavaScript, Node.js, Serverless, Vue
 
 Azure Snack is a website for quick-hit azure learnings with step by step workshops, from building applications to deploying them.
 
-Learn how to create an Express app in Node.js and deploy on Azure 
+Learn how to create an Express app in Node.js and deploy on Azure
  is a workshop created by Tierney Cyren to take you step-by-step through the process of building an Express app, documenting the changes as bite-sized chunks that you’ll ideally be able to pick up and iterate upon rapidly.
 
 Tags: Azure Container Instances, JavaScript, Node.js, Azure Pipelines, Azure App Service
@@ -58,7 +58,7 @@ Tags: Diversity in Tech, Advice
 
 **by: Tanya Janca**
 
-Tanya Janca from the DevSlop team hosted a live Twitter Chat about how to secure web apps hosted in Azure Storage, with guests Burke Holland and Cecil Phillip! 
+Tanya Janca from the DevSlop team hosted a live Twitter Chat about how to secure web apps hosted in Azure Storage, with guests Burke Holland and Cecil Phillip!
 
 Burke and Cecil talk through their web app - the urlist.com - and how to protect it from vulnerabilities, plus what static sites really are and general security best practices.
 
@@ -100,7 +100,7 @@ Tags: AI/ML, Azure Cognitive Services (Speech API)
 
 **by: Orin Thomas**
 
-Orin Thomas - Cloud Advocate at Microsoft - joins Mary Jo Foley to discuss security hardening Windows Server. 
+Orin Thomas - Cloud Advocate at Microsoft - joins Mary Jo Foley to discuss security hardening Windows Server.
 
 Windows Server ships in a mostly secure configuration, but Microsoft has to balance security with backwards compatibility. Thomas has some ideas about things you can do to tighten the security of your Windows Server deployment -- listen to hear his take and recommendations.
 
@@ -133,9 +133,9 @@ Related Links:
 
 **by: Jeremy Likness**
 
-There’s been a ton of buzz in the .NET community lately around Blazor. 
+There’s been a ton of buzz in the .NET community lately around Blazor.
 
-Unlike many hyped technologies however, Blazor seems to have earned the attention - in part by delivering a solution that gives C# developers what they want, but doing so in a way that relied on open web standards. 
+Unlike many hyped technologies however, Blazor seems to have earned the attention - in part by delivering a solution that gives C# developers what they want, but doing so in a way that relied on open web standards.
 
 In this blog post and session recording, Jeremy Likeness goes deeper into what Blazor is, how it works and how you can use it to build web apps.
 
@@ -245,9 +245,9 @@ Related Links:
 
 **by: Tanya Janca**
 
-Tanya Janca, one of the OWASP DevSlop Project Leaders, is currently obsessed with convincing people to enable multi-factor authentication (MFA) on all of their important accounts. 
+Tanya Janca, one of the OWASP DevSlop Project Leaders, is currently obsessed with convincing people to enable multi-factor authentication (MFA) on all of their important accounts.
 
-To this end, she created a short video to show you how to install "2FAnotifier" - a browser plugin that alerts you if a site offers multi-factor authentication its user accounts! 
+To this end, she created a short video to show you how to install "2FAnotifier" - a browser plugin that alerts you if a site offers multi-factor authentication its user accounts!
 
 If you want to learn more about what MFA is and why it's important, check out Tanya's post on Multi-Factor Authentication (MFA).
 
@@ -261,7 +261,7 @@ Tags: Security
 
 **by: Thomas Maurer**
 
-On August 28th, 2019 Microsoft announced the availability of new Microsoft Azure Switzerland regions. 
+On August 28th, 2019 Microsoft announced the availability of new Microsoft Azure Switzerland regions.
 
 In this article, you learn more  about the Microsoft Cloud Switzerland offering, the services available today, and where to go to request access and learn more.
 
@@ -306,7 +306,7 @@ Tags: Web Assembly (WASM), Rust
 
 Get a whirlwind intro to securing cloud computing and various new cloud security tactics.
 
-In this new and interactive talk, Tanya Janca explains how security is different ‘in the cloud’, Cloud Native, Zero Trust, Serverless, Just In Time (access management), and more. 
+In this new and interactive talk, Tanya Janca explains how security is different ‘in the cloud’, Cloud Native, Zero Trust, Serverless, Just In Time (access management), and more.
 
 ...including how to secure them.
 
