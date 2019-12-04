@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CDA Weekly Content Wrapup (10/11/2019)
+title: CDA Weekly Content Wrapup (Oct 14 2019)
 subtitle:
 tags: [Python, Azure Cognitive Services, Python SDK, Azure CLI, Azure, Azure Cognitive Services Custom Vision, IoT, Azure IoT Edge, Github Actions, .NET, .NET Core, C#, SAP HANA, Azure Virtual Machines, Windows Server, azure hybrid cloud, Windows, Azure File Sync, Go, GoLang, JavaScript, TypeScript, Node.js, Azure Functions, Azure App Insights, React, Linux, Docker, WSL 2, VS Code, VS Code Marketplace, Azure Pipelines, Open Source, Kubernetes, Azure Kubernetes Service, C/C++, Web Assembly WASM, Rust, Visual Studio, PowerShell, CI/CD, Spring Boot, Azure ARM Templates, AI/ML, azure, iOS, Azure CosmosDB, Xamarin.Forms, Xamarin, Android, WSL, Azure Management, Azure Update Management, Azure Automation, Azure IAAS/PAAS, Azure Log Analytics, Azure Stack, Windows Admin Center, Hybrid/SCCM, Azure Cognitive Services Text API]
 ---

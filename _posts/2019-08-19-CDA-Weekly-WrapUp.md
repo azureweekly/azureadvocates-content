@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CDA Weekly Content Wrapup (08/19/2019)
+title: CDA Weekly Content Wrapup (Aug 19 2019)
 subtitle:
 tags: [Azure Security Center, JavaScript, Node.js, Advice, Go, DevOps, Cloud Computing, .NET Core, VS Code, Open Source, Windows Virtual Machines, Windows 10, Windows, Hyper-V, Microservices, .NET, .NET Core, C#, Kubernetes, Azure Virtual Machines, Cloud-Native, Azure Blueprints, IT Ops, Azure Policy, Azure RBAC, Azure Storage, Azure Functions, VS Code Marketplace, APIs/API Development, Python, Containers, VS Extensions, Visual Studio for Mac, Visual Studio, Mobile Development, Xamarin, Visual Studio Tools for Xamarin, Azure AD, Azure Active Directory, Azure SignalR Service, Docker, Azure IoT Central, Developer Relations General, Startups, Certification, azure, MS Learn, Azure ARM Templates, Azure CLI, Azure Cloud Shell, Azure Pipelines, Architecture, ASP.NET Core, Migration, Migration   Modernization, Xamarin.Forms, Serverless, TypeScript, CSS, HTML, IoT, Azure IoT Hub]
 ---

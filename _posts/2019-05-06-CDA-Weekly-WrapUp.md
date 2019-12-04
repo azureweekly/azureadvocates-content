@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CDA Weekly Content Wrapup (05/06/2019)
+title: CDA Weekly Content Wrapup (May 06 2019)
 subtitle:
 tags: [Azure App Insights, Azure Storage, Big Data, AI/ML, Azure CLI, Azure Data Science VM, Windows Virtual Machines, Azure CosmosDB, Azure Container Registry, Azure Machine Learning Service, Azure Kubernetes Service, Azure Blob Storage, Azure Key Vault, Azure Machine Learning, Azure Cognitive Services, Azure Data Box, Azure Cognitive Services Custom Vision, IoT, Open Source, Azure Pipelines, Azure Logic Apps, Azure Functions, Security, Docker, Azure Cognitive Services Computer Vision API, DevOps, Linux, Windows Server, .NET, .NET Core, C#, Visual Studio, Azure IoT Hub, Azure Container Instances, PowerShell, Containers, Azure AD, Serverless, VS Code, JavaScript, Node.js, Azure App Service, CI/CD, Monitoring, Azure Stack HCI, VMWare, Azure VMware Solutions, Azure Cloud Shell, Bash, SecOps, Azure]
 ---

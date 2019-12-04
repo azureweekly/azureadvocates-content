@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CDA Weekly Content Wrapup (09/09/2019)
+title: CDA Weekly Content Wrapup (Sep 09 2019)
 subtitle: 
 tags: [React, Angular, VS Code, Web Development, JavaScript, Node.js, Azure DevOps Projects, GitHub Marketplace, Azure, Cloud Computing, UI/UX, Advice, Tech for Good, Azure Storage, Security, Azure CLI, Azure Cloud Shell, APIs/API Development, Azure Functions, VS Code Marketplace, MongoDB, Microservices, .NET Core, Cloud-Native, .NET, .NET Core, C#, DevOps, Spring, Databases, Serverless, SQL Server, Docker, Web API Design, GraphQL, F#, Azure SDK, PowerShell, Azure Resource Graph, Python, Azure DevOps Services, Azure Cognitive Services, Azure Event Hubs, Azure Machine Learning Service, Azure Data Explorer, Azure Kubernetes Service, R, Github Actions, CI/CD, IaC, SQL DBs, Azure App Service, VMs, Certification, MS Learn, Azure Blueprints, Azure Lighthouse, Azure Machine Learning, Azure Container Instances, Azure Notebooks, Azure Data Science Virtual Machines, Web Apps, Vue, Java]
 ---

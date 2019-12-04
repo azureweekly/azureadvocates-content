@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CDA Weekly Content Wrapup (09/16/2019)
+title: CDA Weekly Content Wrapup (Sep 16 2019)
 subtitle: 
 tags: [Advice, AI/ML, Azure Storage, Azure SDK, Spring, Java, Angular, JHipster, Azure SQL Data Warehouse, Windows Virtual Machines, Azure CosmosDB, Azure SQL Database, Azure Reservations, VMs, Linux Virtual Machines, Azure DevOps Services, Azure DevOps Projects, Serverless, Azure Functions, azure, Security, Women in Tech, AppSec, Mentoring, Multi-Factor Authentication, Azure Machine Learning, Python, Azure, Azure Machine Learning Service, Deep Learning, Azure Active Directory, Azure CLI, Azure Automation, PowerShell, Azure Resource Graph, Web Apps, Kubernetes, Azure Kubernetes Service, Azure File Sync, Azure RBAC, Github Actions, Ubuntu, JavaScript, Node.js, Linux, Windows Subsystem for Linux, Windows, VS Code, VS Code Marketplace, Bash, Azure App Service, Azure Data Box, azure site recovery, Azure Blueprints, Migration, MS Learn, Docker, Windows Server, Windows Admin Center, Microsoft Edge, Hyper-V, CI/CD, Azure Pipelines, UI Testing, Web Development, Azure Subscription Cleaner, Azure ARM Templates, .NET, .NET Core, C#, Mobile Development, Xamarin, Microsoft Blazor, Objective C, Kotlin, Azure Policy, SRE]
 ---

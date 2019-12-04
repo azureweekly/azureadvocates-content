@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CDA Weekly Content Wrapup (07/22/2019)
+title: CDA Weekly Content Wrapup (Jul 22 2019)
 subtitle: 
 tags: [Azure Storage, azure, JavaScript, Node.js, Advice, Web Development, Linux, PowerShell, Windows, .NET Core, Azure, MS Learn, DevOps, Cloud Computing, Agnostic, Azure SDK, Azure Java SDK, .NET, .NET Core, C#, Azure CosmosDB, Compute, Serverless, F#, Azure Functions, VS Code, Azure Table Storage, HTML, Leadership, Azure CLI, VS Code Marketplace, Azure Policy, AzCopy, Azure Storage Explorer, Azure DevOps Services, Azure Pipelines, IoT, Azure IoT Edge, Open Source, Azure App Service, Python, Azure Notebooks, Azure Machine Learning Service, Azure ML, Azure Machine Learning, R, Xamarin.Forms, Xamarin, GraphQL, Visual Studio Tools for Xamarin, Azure Security Center, DevSecOps, Security, Docker, Azure Portal, Azure Blob Storage, Azure Active Directory, Go, Rust, NativeScript, TypeScript, Angular, Vue, Windows Server, Windows 10, Windows Admin Center, Hyper-V, Diversity in Tech, AI/ML, Azure Cognitive Services]
 ---

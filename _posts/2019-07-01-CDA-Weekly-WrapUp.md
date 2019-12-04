@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CDA Weekly Content Wrapup (07/01/2019)
+title: CDA Weekly Content Wrapup (Jul 01 2019)
 subtitle:
 tags: [Open Source, Data, Jupyter notebooks, Azure CLI, Docker, Kubernetes, Azure Kubernetes Service, AI/ML, Azure ML, Security, Diversity in Tech, AppSec, Azure Security Center, Azure, Azure Resource Manager, Azure Cloud Shell, Azure Mobile Apps, Azure Portal, VS Code, VS Code Marketplace, GraphQL, JavaScript, Node.js, Serverless, Vue, PowerShell, Windows 10, Windows, Windows Terminal, WSL, Visual Studio, Azure IoT Edge, Azure IoT Hub, DevSecOps, DevOps, Advice, Azure Machine Learning, Azure Notebooks, Data Science, Developer Relations General, VMs, Data Visualization, Python, Power BI, Azure Storage Explorer, Azure Blob Storage, MS Learn, .NET, .NET Core, C#, Azure DevOps Projects, .NET Core, Azure Bastion, azure, Azure Cost Management, Windows Server, Azure Active Directory, IT Ops, Azure Cognitive Services, Azure Functions, Web Development, Containers, TensorFlow, Linux]
 ---

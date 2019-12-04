@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CDA Weekly Content Wrapup (06/24/2019)
+title: CDA Weekly Content Wrapup (Jun 24 2019)
 subtitle:
 tags: [Azure AD B2C, Visual Studio App Center, Azure CosmosDB, Azure AD, Xamarin, Web Development, Vue, Microservices, Open Source, Rust, F#, IoT, Azure IoT Edge, IoT Hub, Azure IoT Hub, DevOps, Advice, Azure Resource Manager, Azure Cloud Shell, Azure Mobile Apps, Azure Portal, VS Code, PowerShell, Windows Subsystem for Linux, Windows 10, Virtual Machine Platform, Hyper-V, Azure Logic Apps, .NET, .NET Core, C#, Serverless, Azure Functions, Windows Server, Windows Admin Center, Azure, Azure Virtual Machines, VS Code Marketplace, Java, Developer Relations General, Azure CLI, Azure App Service, Programming General, R, Web API Design, JavaScript, Node.js, TypeScript, APIs/API Development, Azure Storage, AzCopy, Azure Blob Storage, Azure App Insights, ASP.NET Core, Visual Studio 2019, Docker, Containers, Azure Container Registry, Azure Kubernetes Service, AI/ML, Azure Machine Learning Service, Power BI, Azure ML, Data Science, Azure Cognitive Services Custom Vision, PowerApps, Xamarin.Forms, Visual Studio Tools for Xamarin, Azure Security Center, Linux, Windows, Azure Bastion, VMs, Entity Framework, Visual Studio, TensorFlow, WSL, Git, Python, Azure Container Instances, Jupyter notebooks, CI/CD, Databases, Azure Storage Explorer, Azure Table Storage, Azure Data Science VM, Azure Data Science Virtual Machines, CSS, HTML, MS Learn, Azure IoT Central, DevSecOps, Diversity in Tech, AppSec]
 ---

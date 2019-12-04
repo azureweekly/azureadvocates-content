@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CDA Weekly Content Wrapup (09/02/2019)
+title: CDA Weekly Content Wrapup (Sep 02 2019)
 subtitle:
 tags: [GraphQL, JavaScript, Node.js, Serverless, Vue, Azure Container Instances, Azure Pipelines, Azure App Service, Diversity in Tech, Advice, Azure Storage, Azure Front Door, Security, AI/ML, Azure Cognitive Services Speech API, Windows Server, .NET, .NET Core, C#, Web Assembly WASM, CI/CD, DevOps, Databases, Azure Spatial Anchors, Azure Cognitive Services, Azure Cognitive Services Computer Vision API, Mobile App Services, Xamarin.Forms, Visual Studio App Center, Mobile Development, .NET Core, ASP.NET Core, Docker, Windows Subsystem for Linux, Ubuntu, Linux, Windows 10, Hyper-V, Azure, Azure Portal, Rust, Cloud Computing General, Azure Key Vault, Cloud-Native, Diversity & Inclusion]
 ---

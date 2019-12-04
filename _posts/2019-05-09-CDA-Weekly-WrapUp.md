@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CDA Weekly Content Wrapup (05/09/2019)
+title: CDA Weekly Content Wrapup (May 09 2019)
 subtitle:
 tags: [DevSecOps, Azure DevOps Services, DevOps, Azure Security Center, Security, Women in Tech, AppSec, Azure Cloud Shell, .NET, .NET Core, C#, AI/ML, Azure CLI, AzureGraph, Azure Data Science Virtual Machines, Microsoft Graph API, Azure Active Directory, R, JavaScript, Node.js, Docker, VS Code, VS Code Marketplace, Java, F#, Serverless, Azure Functions, Azure Storage Explorer, Azure App Service, Azure Table Storage, Vue, Containers, Azure Container Registry, Azure Cognitive Services Text API, Azure Cognitive Services, Azure Cognitive Services Computer Vision API, Azure IoT Edge, Linux, Mixed Reality, Azure Storage, CI/CD, Azure Pipelines, Go, Web Assembly WASM, PowerShell, Windows, Open Source, Windows Subsystem for Linux, Deep Learning, Windows 10]
 ---

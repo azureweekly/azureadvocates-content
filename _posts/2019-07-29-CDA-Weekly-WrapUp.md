@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CDA Weekly Content Wrapup (07/29/2019)
+title: CDA Weekly Content Wrapup (Jul 29 2019)
 subtitle: 
 tags: [Monitoring, Visual Studio App Center, .NET, .NET Core, C#, iOS, Azure CosmosDB, Xamarin.Forms, Xamarin, Visual Studio Tools for Xamarin, Android, Xamarin.Essentials, Visual Studio for Mac, Visual Studio, .NET Core, Python, Kafka, JavaScript, Node.js, Azure, Go, Java, Azure Databricks, Advice, DevOps, Cloud Computing, Angular, Web Development, APIs/API Development, Web APIs, Azure Web Apps for Containers, Architecture, Azure Blob Storage, Cloud-Native, IoT, Azure Functions, Azure Container Instances, Linux, Azure CLI, Azure Kubernetes Service, Azure App Service on Linux, CI/CD, Azure DevOps Services, Azure Pipelines, Ruby, Open Source, Azure App Insights, Azure Storage, Azure Log Analytics, Azure App Service, VS Code, Azure Monitor, MS Learn, Azure Cognitive Services, Azure Cognitive Services Custom Vision, Azure IoT Edge, Azure IoT Hub, Windows 10, VS Extensions, Azure Virtual Machines, VS Code Marketplace, Azure Resource Manager, Azure Machine Learning, AI/ML, Azure ML, Azure Machine Learning Studio, Jupyter notebooks, F#, Rust, Data Science, R, Kubernetes, Azure Container Registry, Kotlin, Azure Cloud Shell, Azure Search, CSS, React, Serverless, Docker, PowerShell, Bash, Migration, Windows Server, Azure Migrate, Windows, VMs, azure, Windows Server Upgrade Center, Containers, Helm, DataOps, Azure Data Science VM, Azure Stream Analytics, Azure Data Factory, Data Engineering, Azure Key Vault]
 ---
