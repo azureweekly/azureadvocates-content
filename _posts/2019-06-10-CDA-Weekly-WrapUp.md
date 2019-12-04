@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CDA Weekly Content Wrapup (06/10/2019)
+title: CDA Weekly Content Wrapup (Jun 10 2019)
 subtitle:
 tags: [DevOps, Advice, .NET, .NET Core, C#, Azure Blob Storage, Web Development, Azure Front Door, Security, Azure Firewall, Azure Application Gateway, Azure Load Balancer, Azure Traffic Manager, JavaScript, Node.js, Go, VS Code, VS Code Marketplace, Rust, AppSec, TypeScript, Angular, Monitoring, SRE, Azure Storage, Azure CLI, Azure Functions, Windows Server, SQL Server, Azure Active Directory, Mixed Reality, VS Extensions, VS Live Share, Azure DevOps Services, Kubernetes, Azure Container Registry, Azure Kubernetes Service, Azure Bot Service, Azure Cognitive Service LUIS, Azure Cognitive Services, Azure App Service, Vue, Windows 10, Office 365, Surface, Azure CosmosDB, MongoDB, MS Learn, Azure SignalR Service, Azure Security Center, Azure, Azure Pipelines, Azure Key Vault, Serverless, Azure Machine Learning, CI/CD, AI/ML, Azure Machine Learning Service, Data Science, Python, Azure Notebooks, Azure ML, Java, Kotlin, .NET Core, Microsoft Threat Modeling Tool, Microservices, Web Assembly WASM, React, Azure Static Sites, PowerShell, Azure Cloud Shell, GraphQL]
 ---

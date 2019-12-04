@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CDA Weekly Content Wrapup (05/20/2019)
+title: CDA Weekly Content Wrapup (May 20 2019)
 subtitle: 
 tags: [Azure App Insights, Azure CosmosDB, Containers, Azure Container Registry, Serverless, TypeScript, Azure Functions, Azure App Service, Azure Key Vault, Vue, Python, Docker, Visual Studio App Center, Azure Cognitive Services, Xamarin, Visual Studio Tools for Xamarin, MS Learn, Microservices, Mobile Development, Azure Mobile Apps, JavaScript, Node.js, AI/ML, Azure, Windows Subsystem for Linux, Mixed Reality, VS Code, .NET, .NET Core, C#, .NET Core, azure, Git, Windows Server, Active Directory, Java Web apps, VS Extensions, VS Code Marketplace, VS Live Share, Xamarin.Forms, Xamarin.Essentials, Azure CLI, Azure Storage, Angular, Azure Notebooks, DevOps, Advice, Cloud Computing, Open Source, Big Data, Security, Monitoring, Compute, IoT, Azure IoT Hub, UI Testing, CI/CD, Web Apps, Kubernetes, Web App for Containers, Azure Data Factory]
 ---

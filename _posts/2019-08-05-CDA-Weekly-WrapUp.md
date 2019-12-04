@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CDA Weekly Content Wrapup (08/05/2019)
+title: CDA Weekly Content Wrapup (Aug 05 2019)
 subtitle: 
 tags: [JavaScript, Node.js, React, VS Code, Azure Security Center, Azure Machine Learning, Azure Search, Azure Cognitive Services, CI/CD, DevOps, Certification, MS Learn, DataOps, AI/ML, Azure Data Science VM, Azure Container Registry, Azure Stream Analytics, Azure Data Factory, Data Engineering, Data Science, Azure Key Vault, Advice, Cloud Computing, Linux, Containers, APIs/API Development, Azure Functions, Python, Azure Notebooks, DevSecOps, Security, VS Code Marketplace, .NET, .NET Core, C#, Docker, IoT, IoT Hub, Azure IoT Hub, .NET Core, Azure ARM Templates, Azure, Azure Resource Manager, Xamarin.Forms, Xamarin, Android, Ubuntu, Azure CLI, PowerShell, Windows, Azure Cloud Shell, Windows Terminal, macOS, Azure Pipelines, Visual Studio, Azure CosmosDB, SQL, TypeScript, Open Source, Azure Event Hubs, Azure Databricks, Serverless, Microsoft Machine Learning Server, Azure ML, R, Neural Network, Deep Learning, Windows Subsystem for Linux, Windows 10]
 ---

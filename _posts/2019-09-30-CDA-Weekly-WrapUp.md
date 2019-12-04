@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CDA Weekly Content Wrapup (09/30/2019)
+title: CDA Weekly Content Wrapup (Sep 30 2019)
 subtitle: 
 tags: [Azure Machine Learning, Python, TensorFlow, Azure Functions, azure, Serverless, Azure, Kubernetes, Security, Monitoring, Cloud Computing, Kafka, Azure Event Hubs, Azure Storage, Azure Front Door, Azure DevOps Services, DevOps, .NET, .NET Core, C#, Cloud-Native, Testing, VS Code, Azure Logic Apps, SQL, SQL Server, .NET Core, Azure Cognitive Services, Azure Data Explorer, Windows 10, WSL 2, Windows, Windows Terminal, WSL, Azure Pipelines, R, Azure Kubernetes Service, Agnostic, Rust, Infrastructure, Azure Virtual Network, Azure CLI, Windows Server, Azure PowerShell, Azure Virtual Machines, Azure Bastion, Internet Control Message Protocol ICMP, Azure Portal, Azure Resource Graph, PowerShell, Azure AD, Azure Key Vault, Active Directory, JavaScript, Node.js, Web Development, Enterprise Databases SQL and NoSQL, Azure Table Storage]
 ---

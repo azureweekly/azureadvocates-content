@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CDA Weekly Content Wrapup (05/27/2019)
+title: CDA Weekly Content Wrapup (May 27 2019)
 subtitle:
 tags: [Python, AI/ML, Azure Cognitive Services, DevOps, Advice, JavaScript, Node.js, Azure IoT Edge, Rust, Security, SecOps, Azure Container Instances, Docker, Containers, Azure Container Registry, Azure Kubernetes Service, VS Code, VS Code Marketplace, Kubernetes, DevSecOps, Azure Pipelines, Azure DevOps Projects, Azure Bot Service, Windows Subsystem for Linux, TypeScript, IoT, Azure IoT Central, .NET, .NET Core, C#, Open Source, .NET Core, Azure Data Explorer, Data Science, R, Azure Logic Apps, Azure Key Vault, Azure, Web Development, Vue]
 ---

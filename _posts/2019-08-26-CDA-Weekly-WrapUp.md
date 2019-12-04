@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CDA Weekly Content Wrapup (08/26/2019)
+title: CDA Weekly Content Wrapup (Aug 26 2019)
 subtitle:
 tags: [GraphQL, JavaScript, Node.js, Serverless, Vue, Developer Relations General, Azure Container Instances, Docker, Containers, Azure Container Registry, Azure App Service, VS Code, VS Code Marketplace, Windows Server, Windows, SQL Server, Security, Azure DevOps Services, CI/CD, Azure Pipelines, AzureGraph, azure, Azure ARM Templates, Azure Functions, Python, MS Learn, .NET, .NET Core, C#, Mobile App Services, Xamarin, Xamarin.Forms, Mobile Development, Visual Studio Tools for Xamarin, Xamarin Plugins, .NET Core, Azure, Certification, Angular, Open Source, Linux, Visual Studio, IoT, GitHub Marketplace, Azure Cloud Shell, Windows Terminal, AzCopy, Azure Storage Explorer, Azure Blob Storage, Git, TypeScript, Diversity in Tech, Advice, DevOps, Cloud Computing]
 ---

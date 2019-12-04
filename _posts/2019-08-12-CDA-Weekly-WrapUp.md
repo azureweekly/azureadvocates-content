@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CDA Weekly Content Wrapup (08/12/2019)
+title: CDA Weekly Content Wrapup (Aug 12 2019)
 subtitle: 
 tags: [Azure Security Center, JavaScript, Node.js, APIs/API Development, Windows Server, Azure Management, Azure Blueprints, Security, Azure Policy, Azure RBAC, Diversity in Tech, Advice, Leadership, IT Ops, SecOps, Developer Relations General, DevOps, Cloud Computing, .NET, .NET Core, C#, Azure CosmosDB, .NET Core, Ubuntu, Linux, Docker, Containers, Windows Subsystem for Linux, Windows 10, Databases, Entity Framework, Azure Container Instances, Azure Web Apps for Containers, Azure PostgreSQL, Azure Container Registry, Azure Resource Manager, Go, Azure Kubernetes Service, Azure App Service, VS Code, VS Code Marketplace, Open Source, WSL 2, Visual Studio, azure, GraphQL, Azure Storage, Web Development, Vue, IoT, Power BI, Azure IoT Edge, TypeScript, Azure ARM Templates, Azure Functions, Azure Cognitive Services, Azure IAAS/PAAS, Azure Migrate, Windows, Azure Virtual Machines, Azure CLI, PowerShell, Bash, Python, VS Extensions, Angular, Serverless]
 ---

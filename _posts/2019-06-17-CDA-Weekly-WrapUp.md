@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CDA Weekly Content Wrapup (06/17/2019)
+title: CDA Weekly Content Wrapup (Jun 17 2019)
 subtitle:
 tags: [AI/ML, Advice, Open Source, Agnostic, .NET, .NET Core, C#, Azure, Xamarin.Forms, Xamarin, Visual Studio Tools for Xamarin, Azure Event Grid, F#, Azure Event Hubs, Azure CosmosDB, .NET Core, Azure Functions, Azure IoT Hub, Azure App Service, Azure Table Storage, IoT, Security, AppSec, Azure Pipelines, Containers, Azure Container Instances, Azure Logic Apps, JavaScript, Node.js, Azure Bot Service, Azure Cognitive Service LUIS, Linux, Docker, Azure IoT Edge, VS Code, VS Code Marketplace, Spring, Serverless, Java, Web Development, Azure Machine Learning, Azure Cognitive Services, Azure Cognitive Services Speech API, Visual Studio App Center, Developer Relations General, MS Learn, Azure Generation 2 Virtual Machine, VMs, Hyper-V, Startups, DevOps, DevSecOps, Kubernetes, Azure Kubernetes Service, TensorFlow, ethical IT, Python, Visual Studio, Azure Cognitive Services Computer Vision API, Azure Cognitive Services Bing Search API, .NET Standard 2.0, Azure Security Center, Azure DevOps Services, Identity Management]
 ---

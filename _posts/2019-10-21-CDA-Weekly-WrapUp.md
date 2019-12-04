@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CDA Weekly Content Wrapup (10/21/2019)
+title: CDA Weekly Content Wrapup (Oct 21 2019)
 subtitle: 
 tags: [JavaScript, TypeScript, Node.js, CI/CD, Spring Boot, Azure Machine Learning, Python, Azure Container Instances, Azure Notebooks, Azure DevOps Services, Azure Pipelines, VS Code, Azure Cognitive Services Text API, Azure Cognitive Services, Azure Storage, Kafka, Azure Service Bus, Azure Logic Apps, APIs/API Development, Azure Functions, Azure Event Hubs, Go, GoLang, DevOps, Advice, Cloud Computing, AI/ML, Kubernetes, Azure App Service, UI/UX, UI Design, Azure Databricks, IoT, Azure IoT Hub, Azure IoT Central, HTML, Azure ARM Templates, Azure Automation, azure, Windows Server, Azure, PowerShell, Azure PowerShell, Azure Cloud Shell, Windows Admin Center, Azure Virtual Machines, Azure SignalR Service, Java, Azure Machine Learning Service, ASP.NET Core]
 ---
